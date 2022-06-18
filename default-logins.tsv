@@ -1,0 +1,6 @@
+USERNAME	PASSWORD	MANUFACTURER	MODEL	TYPE	SOURCE
+admin		NETGEAR	M4300	SWITCH	https://www.downloads.netgear.com/files/GDC/M4300/M4300_IG_EN.pdf
+pi	raspberry	Raspberry Pi Foundation	Raspberry Pi OS	OS default	https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/
+root	toor	Offensive Security	Kali Linux	OS default	https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/
+root	root	Arch Linux	Arch Linux ARM	OS default	https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/
+ubuntu	ubuntu	Canonical	Ubuntu Server	OS default	https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/

@@ -1,0 +1,8 @@
+NAME	IRC	SSL	ONIONv3	WEBSITE	COMMENT
+CanterNet	irc.canternet.org:6667	irc.canternet.org:6697		https://canternet.org/	Bans Access via Tor, Registered Nick needed for vHost & Tor Access
+IRCnet	irc.fu-berlin.de:6667			http://irc.fu-berlin.de/	Rules: http://irc.fu-berlin.de/rules.html
+MoepNet	irc.moep.net:6667	irc.moep.net:6697		https://netsplit.de/networks/MoepNet/	
+Efnet	irc.efnet.nl:6667	irc.efnet.nl:6669		https://netsplit.de/networks/EFnet/	
+FurNet	furnet.org:6667	furnet.org:6697		https://netsplit.de/networks/FurNet/	
+AfterNET	irc.afternet.org:6667	irc.afternet.org:6697		http://afternet.org/	
+2600net	irc.2600.net:6667	irc.2600.net:6697		https://scuttled.net/	Current Onion Down [v2]

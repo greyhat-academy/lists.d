@@ -1,0 +1,23 @@
+DNS	PROVIDER	LOCATION	IPv4	IPv6	NTS	TYPE	WEBSITE
+ptbtime1.ptb.de	PTB	Braunschweig, Germany	192.53.103.108	2001:638:610:bd02::12 	YES	SINGLE	https://www.ptb.de/cms/ptb/fachabteilungen/abtq/gruppe-q4/ref-q42/zeitsynchronisation-von-rechnern-mit-hilfe-des-network-time-protocol-ntp.html
+ptbtime2.ptb.de	PTB	Braunschweig, Germany	192.53.103.104	2001:638:610:bd02::12 	YES	SINGLE	https://www.ptb.de/cms/ptb/fachabteilungen/abtq/gruppe-q4/ref-q42/zeitsynchronisation-von-rechnern-mit-hilfe-des-network-time-protocol-ntp.html
+ptbtime3.ptb.de	PTB	Braunschweig, Germany	192.53.103.103	2001:638:610:bd02::12 	YES	SINGLE	https://www.ptb.de/cms/ptb/fachabteilungen/abtq/gruppe-q4/ref-q42/zeitsynchronisation-von-rechnern-mit-hilfe-des-network-time-protocol-ntp.html
+time.cloudflare.com	CloudFlare	Anycast			YES	POOL	https://www.cloudflare.com/time/
+time.nist.gov	NIST	Anycast			UNKNOWN	POOL	https://labs.ripe.net/author/christer-weinigel/best-practices-for-connecting-to-ntp-servers/
+time-a-g.nist.gov	NIST	Gaithersburg, USA	129.6.15.28	2610:20:6005:13::49	UNKNOWN	SINGLE	https://tf.nist.gov/tf-cgi/servers.cgi
+time-a-b.nist.gov	NIST	Boulder, USA	132.163.96.1	2610:20:6005:13::49	UNKNOWN	SINGLE	https://tf.nist.gov/tf-cgi/servers.cgi
+ntp.nict.jp	NICT	Tokyo, Japan	133.243.238.244		UNKNOWN	SINGLE	https://jjy.nict.go.jp/tsp/PubNtp/index-e.html
+ntp.ripe.net	RIPE NCC	Amsterdam, Netherlands	193.0.0.229	2001:67c:2e8:22::c100:68b	UNKNOWN	SINGLE	
+pool.ntp.org	NTP Pool Project	Anycast			UNKNOWN	POOL	https://www.pool.ntp.org/zone/de
+0.pool.ntp.org	NTP Pool Project	Anycast			UNKNOWN	POOL	https://www.pool.ntp.org/zone/de
+1.pool.ntp.org	NTP Pool Project	Anycast			UNKNOWN	POOL	https://www.pool.ntp.org/zone/de
+0.de.pool.ntp.org	NTP Pool Project	Kassel, Germany	195.201.20.16	2001:1838:2000:41b::80:0	UNKNOWN	SINGLE	https://www.pool.ntp.org/zone/de
+1.de.pool.ntp.org	NTP Pool Project	Bielefeld, Germany	129.70.132.32	2001:1838:2000:41b::80:0	UNKNOWN	SINGLE	https://www.pool.ntp.org/zone/de
+2.de.pool.ntp.org	NTP Pool Project	Oldenburg, Germany	185.120.22.14	2001:1838:2000:41b::80:0	UNKNOWN	SINGLE	https://www.pool.ntp.org/zone/de
+3.de.pool.ntp.org	NTP Pool Project	Saarbrücken,Germany	136.243.66.91	2001:1838:2000:41b::80:0	UNKNOWN	SINGLE	https://www.pool.ntp.org/zone/de
+nts.ntp.se 	NetNod	Anycast			YES	POOL	https://www.netnod.se/blog/everything-you-need-know-about-network-time-security
+nts.sth1.ntp.se	NetNod	Stockholm, Sweden	194.58.202.210	2a01:3f7::1	YES	SINGLE	https://www.netnod.se/blog/everything-you-need-know-about-network-time-security
+nts.sth2.ntp.se	NetNod	Stockholm, Sweden	194.58.202.218	2a01:3f7::1	YES	SINGLE	https://www.netnod.se/blog/everything-you-need-know-about-network-time-security
+time.esa.int	esa	Anycast			UNKNOWN	POOL	https://microwavelaboratory.com/portfolio-item/utc-coordinated-universal-time/
+time1.esa.int	esa	Kassel, Germany	131.176.107.13		UNKNOWN	SINGLE	https://www.ip-tracker.org/lookup.php?ip=time.esa.int
+ntp.time.nl	SIDN Labs	Anycast			UNKNOWN	POOL	https://time.nl/index_en.html
