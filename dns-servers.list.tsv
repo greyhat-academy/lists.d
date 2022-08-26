@@ -7,8 +7,6 @@ Unsecured	Quad9	ICANN-ROOT	9.9.9.10	2620:fe::10	https://dns10.quad9.net/dns-quer
 Unsecured	Quad9	ICANN-ROOT	149.112.112.10	2620:fe::fe:10	https://dns10.quad9.net/dns-query	tls://dns10.quad9.net	https://www.quad9.net/service/service-addresses-and-features
 Public	Google	ICANN-ROOT	8.8.8.8	2001:4860:4860::8888			https://developers.google.com/speed/public-dns/docs/using
 Public	Google	ICANN-ROOT	8.8.4.4	2001:4860:4860::8844			https://developers.google.com/speed/public-dns/docs/using
-Public	CloudFlare	ICANN-ROOT	1.1.1.1	2606:4700:4700::1111			https://1.1.1.1/dns/
-Public	CloudFlare	ICANN-ROOT	1.0.0.1	2606:4700:4700::1001			https://1.1.1.1/dns/
 Public	Freenom	ICANN-ROOT	80.80.80.80				http://www.freenom.world/en/index.html
 Public	Freenom	ICANN-ROOT	80.80.81.81				http://www.freenom.world/en/index.html
 Tier1	verax	OpenNIC	94.103.153.176	2a02:990:219:1:ba:1337:cafe:3			https://servers.opennic.org/edit.php?srv=ns5.opennic.glue

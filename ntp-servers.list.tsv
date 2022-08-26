@@ -2,7 +2,6 @@ DNS	PROVIDER	LOCATION	IPv4	IPv6	NTS	TYPE	WEBSITE
 ptbtime1.ptb.de	PTB	Braunschweig, Germany	192.53.103.108	2001:638:610:bd02::12 	YES	SINGLE	https://www.ptb.de/cms/ptb/fachabteilungen/abtq/gruppe-q4/ref-q42/zeitsynchronisation-von-rechnern-mit-hilfe-des-network-time-protocol-ntp.html
 ptbtime2.ptb.de	PTB	Braunschweig, Germany	192.53.103.104	2001:638:610:bd02::12 	YES	SINGLE	https://www.ptb.de/cms/ptb/fachabteilungen/abtq/gruppe-q4/ref-q42/zeitsynchronisation-von-rechnern-mit-hilfe-des-network-time-protocol-ntp.html
 ptbtime3.ptb.de	PTB	Braunschweig, Germany	192.53.103.103	2001:638:610:bd02::12 	YES	SINGLE	https://www.ptb.de/cms/ptb/fachabteilungen/abtq/gruppe-q4/ref-q42/zeitsynchronisation-von-rechnern-mit-hilfe-des-network-time-protocol-ntp.html
-time.cloudflare.com	CloudFlare	Anycast			YES	POOL	https://www.cloudflare.com/time/
 time.nist.gov	NIST	Anycast			UNKNOWN	POOL	https://labs.ripe.net/author/christer-weinigel/best-practices-for-connecting-to-ntp-servers/
 time-a-g.nist.gov	NIST	Gaithersburg, USA	129.6.15.28	2610:20:6005:13::49	UNKNOWN	SINGLE	https://tf.nist.gov/tf-cgi/servers.cgi
 time-a-b.nist.gov	NIST	Boulder, USA	132.163.96.1	2610:20:6005:13::49	UNKNOWN	SINGLE	https://tf.nist.gov/tf-cgi/servers.cgi
