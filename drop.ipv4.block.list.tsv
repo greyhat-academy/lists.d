@@ -1,0 +1,4 @@
+#	lists.d IPv4-DROP List	(c) 2022 Greyhat Academy
+#	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv4.block.list.tsv
+#	This contains the IPv4 Adress Blocks of Rogue ISPs and subsequent Reasons 
+#	Last-Modified:	1661645000
