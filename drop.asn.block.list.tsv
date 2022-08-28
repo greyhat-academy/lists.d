@@ -2,3 +2,5 @@
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.asn.block.list.tsv
 #	This contains the ASN Numbers of Rogue ISPs and subsequent Reasons 
 #	Last-Modified:	1661645000
+
+AS397702	1776 Solutions, LLC	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms]
