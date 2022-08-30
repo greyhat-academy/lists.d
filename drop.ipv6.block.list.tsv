@@ -2,3 +2,28 @@
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv6.block.list.tsv
 #	This contains the IPv6 Adress Blocks of Rogue ISPs and subsequent Reasons 
 #	Last-Modified:	1661645000
+
+##	AS13335	Cloudflare Inc.	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms] via it's CDN
+2400:cb00:100::/48
+2400:cb00:102::/48
+2400:cb00:103::/48
+2400:cb00:104::/48
+2400:cb00:105::/48
+2400:cb00:106::/48
+2400:cb00:107::/48
+2400:cb00:109::/48
+2400:cb00:110::/48
+2400:cb00:111::/48
+#
+
+##	AS53340	VegasNAP LLC / fiberhub.com	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms] via Colocation
+2402:d240:1776::/48 
+2604:2280::/40 
+2604:2280:4000::/40 
+2604:2280:4100::/40 
+2604:2280:4200::/40 
+2604:2280:4300::/40 
+2604:2280:ff00::/40 
+2604:2280:fffe::/48 
+2606:6680:5::/48
+#
