@@ -6,3 +6,6 @@ ASN-DROP	Spamhaus	https://www.spamhaus.org/drop/asndrop.txt	Security Blocklist	A
 OISD-BASIC	OISD	https://dbl.oisd.nl/basic/	Adblocking Blocklist	Domains	Filters the most notorious Ad-Servers (domains)	https://oisd.nl/downloadsXtra
 OISD-FULL	OISD	https://dbl.oisd.nl/	Adblocking Blocklist	Domains	Basically all Ad-Servers	https://oisd.nl/downloadsXtra
 OISD-NSFW	OISD	https://dbl.oisd.nl/nsfw/	Adblocking Blocklist	Domains	Ad-Servers for/from NSFW sites	https://oisd.nl/downloadsXtra
+lists.d ASN-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.asn.block.list.tsv	Advanced Blocklist	ASNs	Rogue ISPs	https://github.com/greyhat-academy/lists.d
+lists.d IPv4-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv4.block.list.tsv	Advanced Blocklist	IPv4 Blocks	Rogue ISPs	https://github.com/greyhat-academy/lists.d
+lists.d IPv6-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv6.block.list.tsv	Advanced Blocklist	IPv6 Blocks	Rogue ISPs	https://github.com/greyhat-academy/lists.d
