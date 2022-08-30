@@ -1,8 +1,14 @@
 #	lists.d IPv4-DROP List	(c) 2022 Greyhat Academy
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv4.block.list.tsv
 #	This contains the IPv4 Adress Blocks of Rogue ISPs and subsequent Reasons 
-#	Last-Modified:	1661645000
+#	Last-Modified:	1661713500
 
+##	AS397702	1776 Solutions, LLC	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms]
+103.114.191.0/24
+#
+##	n/a	Flow Chemical Pty Ltd	Rogue ISP	Facilitates 1776 Solutions (see above)
+103.114.190.0/23
+#
 ##	AS13335	Cloudflare Inc.	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms] via it's CDN
 1.0.0.0/24
 103.21.244.0/24
@@ -105,7 +111,6 @@
 104.20.48.0/20 
 104.20.64.0/20
 #
-
 ##	AS36114	VegasNAP LLC / fiberhub.com	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms] via Colocation
 104.143.10.0/23
 104.194.0.0/23
@@ -117,7 +122,6 @@
 76.164.224.0/21
 76.164.236.0/22
 #
-
 ##	AS53340	VegasNAP LLC / fiberhub.com	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms] via Colocation
 102.129.131.0/24 
 102.165.18.0/24 
