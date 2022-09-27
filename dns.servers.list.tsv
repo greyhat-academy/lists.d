@@ -19,3 +19,15 @@ Tier2	libreops	OpenNIC	88.198.92.222	2a01:4f8:1c0c:82c0::1			https://servers.ope
 Tier2	ethservices	OpenNIC	94.247.43.254	2a00:f826:8:1::254	https://opennic1.eth-services.de:853		https://servers.opennic.org/edit.php?srv=ns8.he.de.dns.opennic.glue
 Tier2	dfroe	OpenNIC	107.174.68.120				https://servers.opennic.org/edit.php?srv=ns6.nj.us.dns.opennic.glue
 Tier2	MTRNord	OpenNIC	95.217.202.35	2a01:4f9:4a:451c::2	http://ns1.nordgedanken.dev/dns-query	https://ns1.nordgedanken.dev/dns-query	https://servers.opennic.org/edit.php?srv=ns1.fi.dns.opennic.glue
+Primary	dns.watch	ICANN-ROOT	84.200.69.80	2001:1608:10:25::1c04:b12f	https://resolver1.dns.watch/dns-query		https://dns.watch/
+Secondary	dns.watch	ICANN-ROOT	84.200.70.40	2001:1608:10:25::9249:d69b	https://resolver2.dns.watch/dns-query		https://dns.watch/
+Primary	dns.sb	ICANN-ROOT	185.222.222.222	2a09::			https://dns.sb/guide/
+Secondary	dns.sb	ICANN-ROOT	45.11.45.11	2a11::			https://dns.sb/guide/
+Public	applied privacy	ICANN-ROOT	146.255.56.98	2a02:1b8:10:234::2	https://doh.applied-privacy.net/query	tls://dot1.applied-privacy.net	https://applied-privacy.net/services/dns/
+Standard	Mullvad	ICANN-ROOT	194.242.2.2	2a07:e340::2	httos://doh.mullvad.net	tls://doh.mullvad.net	https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
+dns3	digitalcourage.de	ICANN-ROOT	5.9.164.112	2a01:4f8:251:554::2	https://dns3.digitalcourage.de	tls://dns3.digitalcourage.de	https://digitalcourage.de/support/zensurfreier-dns-server
+Primary	digiges	ICANN-ROOT	185.95.218.42	2a05:fc84::42	https://dns.digitale-gesellschaft.ch/dns-query	tls://dns.digitale-gesellschaft.ch:853	https://www.digitale-gesellschaft.ch/dns/
+Secondary	digiges	ICANN-ROOT	185.95.218.43	2a05:fc84::43	https://dns.digitale-gesellschaft.ch/dns-query	tls://dns.digitale-gesellschaft.ch:853	https://github.com/DigitaleGesellschaft/DNS-Resolver#technical-information--configuration-how-tos
+Main	artikel10	ICANN-ROOT	45.151.167.2	2001:678:e3c::2	https://dns.artikel10.org/dns-query	tls://dns.artikel10.org:853	https://dns.artikel10.org/
+anycast	uncensoreddns.org	ICANN-ROOT	91.239.100.100	2001:67c:28a4::	https://anycast.uncensoreddns.org/dns-query	tls://anycast.uncensoreddns.org:853	https://blog.uncensoreddns.org/
+unicast	uncensoreddns.org	ICANN-ROOT	89.233.43.71	2a01:3a0:53:53::	https://unicast.uncensoreddns.org/dns-query	tls://unicast.uncensoreddns.org:853	https://blog.uncensoreddns.org/
