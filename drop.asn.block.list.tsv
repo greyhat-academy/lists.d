@@ -3,10 +3,11 @@
 #	This contains the ASN Numbers of Rogue ISPs and subsequent Reasons 		
 #	Last-Modified:	1661831500	
 			
-##  KiwiFarms			
+###  KiwiFarms
 AS397702	1776 Solutions, LLC	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms]
 AS30860	Virtual Systems LLC / v-sys.org	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms]
 AS36114	VegasNAP LLC / fiberhub.com	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms] via Colocation
 AS53340	VegasNAP LLC / fiberhub.com	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms] via Colocation
-AS13335	Cloudflare Inc.	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms] via it's CDN
-#			
+AS56655	TerraHost AS	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
+#
+
