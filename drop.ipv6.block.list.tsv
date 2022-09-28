@@ -1,7 +1,7 @@
 #	lists.d IPv6-DROP List	(c) 2022 Greyhat Academy	LICENSED UNDER:	CC BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv6.block.list.tsv			
 #	This contains the IPv6 Adress Blocks of Rogue ISPs and subsequent Reasons 			
-#	Last-Modified:	1664244500
+#	Last-Modified:	1664401185
 
 ###	KiwiFarms
 ##	AS53340	VegasNAP LLC / fiberhub.com	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms] via Colocation
@@ -14,11 +14,11 @@
 2604:2280:ff00::/40
 2604:2280:fffe::/48
 2606:6680:5::/48
-#
+#				
 ##	AS30860	Virtual Systems LLC / v-sys.org	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms]
 2a09:2dc0::/29
-#
-## AS56655	TerraHost AS	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
+#				
+##	AS56655	TerraHost AS	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
 2a03:94e0::/32
 2a03:94e1::/32
 2a03:94e2::/32
@@ -26,4 +26,46 @@
 2a07:a342:7000::/36
 2a0a:4300::/29
 2a0f:c480::/29
+#				
+##	AS43927	Hosterian Srl / intovps.com / hosterian.com	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
+2a06:cd40:100::/48
+2a06:cd40:1::/48
+2a06:cd40:200::/48
+2a06:cd40:2::/48
+2a06:cd40:400::/48
+2a06:cd40:cafe::/48
+2a06:cd40:caff::/48
+2a0c:9a40:8088::/48
+2a0e:fd45:40f5::/48
+2a0f:5707:ab27::/48
+#				
+##	AS208046	Maximilian Kutzner trading as HostSlick / hostslick.com	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
+2a06:a000:160::/44
+2a06:a001:a010::/44
+2a0f:ca80:1337::/48
+2a0f:ca80:1338::/48
+2a0f:ca80:1::/48
+2a0f:ca80::/48
+2a0f:ca80:617::/48
+2a0f:ca80:618::/48
+2a0f:ca80:619::/48
+2a0f:ca83:1337::/48
+#				
+##	AS45839	Shinjiru Technology Sdn Bhd / shinjiru.com.my	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
+2407:6c00:18::/48
+#				
+##	AS200019	Alexhost Srl / alexhost.com	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
+2001:678:6d4::/48
+2a09:7c46::/32
+2a0a:8d80:1::/48
+2a0f:5f40::/29
+#				
+##	AS16276	OVH SAS / ovh.com / vshield.pro	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
+2001:41d0::/32
+2402:1f00::/32
+2402:1f00:8000::/40
+2402:1f00:8100::/40
+2402:1f00:8200::/40
+2604:2dc0::/32
+2607:5300::/32
 #
