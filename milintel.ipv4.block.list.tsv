@@ -1,0 +1,23 @@
+#	lists.d MIL/INTEL Blocklist (c) 2022 Greyhat Academy	LICENSED UNDER:	CC-BY-NC-SA 4.0
+#	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/milintel.ipv4.block.list.tsv
+#	This contains the IPv4 Adress Blocks of Military and Intelligence Networks
+#	Last-Modified:	1664676500
+
+### USA
+##	DoD
+# See: https://en.wikipedia.org/wiki/List_of_assigned_/8_IPv4_address_blocks#List_of_assigned_/8_blocks_to_the_United_States_Department_of_Defense
+6.0.0.0/8
+7.0.0.0/8
+11.0.0.0/8
+21.0.0.0/8
+22.0.0.0/8
+26.0.0.0/8
+28.0.0.0/8
+29.0.0.0/8
+30.0.0.0/8
+33.0.0.0/8
+55.0.0.0/8
+205.0.0.0/8
+214.0.0.0/8
+215.0.0.0/8
+#
