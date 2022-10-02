@@ -3,9 +3,9 @@
 #	This contains the IPv4 Adress Blocks of Military and Intelligence Networks
 #	Last-Modified:	1664676500
 
-### USA
+###	USA
 ##	DoD
-# See: https://en.wikipedia.org/wiki/List_of_assigned_/8_IPv4_address_blocks#List_of_assigned_/8_blocks_to_the_United_States_Department_of_Defense
+#	See:	https://en.wikipedia.org/wiki/List_of_assigned_/8_IPv4_address_blocks#List_of_assigned_/8_blocks_to_the_United_States_Department_of_Defense
 6.0.0.0/8
 7.0.0.0/8
 11.0.0.0/8
