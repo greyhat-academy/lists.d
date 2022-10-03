@@ -51,3 +51,15 @@
 2604:2dc0::/32
 2607:5300::/32
 #
+##	AS46475	Limestone Networks, Inc. / limestonenetworks.com / impreza.host	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
+2602:fe6b::/36
+2607:ff68:10::/48
+2607:ff68:11::/48
+2607:ff68::/32
+2607:ff68:6::/48
+2607:ff68:7::/48
+2607:ff68:8::/48
+2a11:840:34::/48
+2a11:840:35::/48
+2a11:840:36::/48
+#
