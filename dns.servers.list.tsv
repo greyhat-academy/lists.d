@@ -7,17 +7,13 @@ Unsecured	Quad9	ICANN-ROOT	9.9.9.10	2620:fe::10	https://dns10.quad9.net/dns-quer
 Unsecured	Quad9	ICANN-ROOT	149.112.112.10	2620:fe::fe:10	https://dns10.quad9.net/dns-query	tls://dns10.quad9.net	https://www.quad9.net/service/service-addresses-and-features
 Public	Google	ICANN-ROOT	8.8.8.8	2001:4860:4860::8888			https://developers.google.com/speed/public-dns/docs/using
 Public	Google	ICANN-ROOT	8.8.4.4	2001:4860:4860::8844			https://developers.google.com/speed/public-dns/docs/using
-Public	Freenom	ICANN-ROOT	80.80.80.80				http://www.freenom.world/en/index.html
-Public	Freenom	ICANN-ROOT	80.80.81.81				http://www.freenom.world/en/index.html
 Tier1	verax	OpenNIC	94.103.153.176	2a02:990:219:1:ba:1337:cafe:3			https://servers.opennic.org/edit.php?srv=ns5.opennic.glue
-Tier1	sy albino	OpenNIC	79.124.7.81				https://servers.opennic.org/edit.php?srv=ns12.opennic.glue
 Tier1	okashi_o	OpenNIC	144.76.103.143	2a01:4f8:192:43a5::2			https://servers.opennic.org/edit.php?srv=ns13.opennic.glue
 Tier2	mistersixt	OpenNIC	94.16.114.254	2a03:4000:28:365::1	https://www.jabber-germany.de/dns-query	(Port: 853)	https://servers.opennic.org/edit.php?srv=ns28.de.dns.opennic.glue
 Tier2	mistersixt	OpenNIC	194.36.144.87	2a03:4000:4d:c92:88c0:96ff:fec6:b9d	https://www.morbitzer.de/dns-query	(Port: 853)	https://servers.opennic.org/edit.php?srv=ns29.de.dns.opennic.glue
 Tier2	dfroe	OpenNIC	89.163.140.67	2001:4ba0:ffa4:1ce::			https://servers.opennic.org/edit.php?srv=ns22.de.dns.opennic.glue
 Tier2	libreops	OpenNIC	88.198.92.222	2a01:4f8:1c0c:82c0::1			https://servers.opennic.org/edit.php?srv=ns25.de.dns.opennic.glue
 Tier2	ethservices	OpenNIC	94.247.43.254	2a00:f826:8:1::254	https://opennic1.eth-services.de:853		https://servers.opennic.org/edit.php?srv=ns8.he.de.dns.opennic.glue
-Tier2	dfroe	OpenNIC	107.174.68.120				https://servers.opennic.org/edit.php?srv=ns6.nj.us.dns.opennic.glue
 Tier2	MTRNord	OpenNIC	95.217.202.35	2a01:4f9:4a:451c::2	http://ns1.nordgedanken.dev/dns-query	https://ns1.nordgedanken.dev/dns-query	https://servers.opennic.org/edit.php?srv=ns1.fi.dns.opennic.glue
 Primary	dns.watch	ICANN-ROOT	84.200.69.80	2001:1608:10:25::1c04:b12f	https://resolver1.dns.watch/dns-query		https://dns.watch/
 Secondary	dns.watch	ICANN-ROOT	84.200.70.40	2001:1608:10:25::9249:d69b	https://resolver2.dns.watch/dns-query		https://dns.watch/
