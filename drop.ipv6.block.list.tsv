@@ -39,27 +39,7 @@
 2a0f:ca80:619::/48
 2a0f:ca83:1337::/48
 #				
-##	AS45839	Shinjiru Technology Sdn Bhd / shinjiru.com.my	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
-2407:6c00:18::/48
+##	AS49447	Nice IT Services Group Inc. / as49447.net	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
+2a0e:fa00:1::/48
+2a0e:fa00::/48
 #				
-##	AS16276	OVH SAS / ovh.com / vshield.pro	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
-2001:41d0::/32
-2402:1f00::/32
-2402:1f00:8000::/40
-2402:1f00:8100::/40
-2402:1f00:8200::/40
-2604:2dc0::/32
-2607:5300::/32
-#
-##	AS46475	Limestone Networks, Inc. / limestonenetworks.com / impreza.host	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
-2602:fe6b::/36
-2607:ff68:10::/48
-2607:ff68:11::/48
-2607:ff68::/32
-2607:ff68:6::/48
-2607:ff68:7::/48
-2607:ff68:8::/48
-2a11:840:34::/48
-2a11:840:35::/48
-2a11:840:36::/48
-#
