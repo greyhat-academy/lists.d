@@ -17,7 +17,8 @@
 30.0.0.0/8
 33.0.0.0/8
 55.0.0.0/8
-205.0.0.0/8
+#	205.0.0.0/8		Entry has been commented out pending further investigation as per Issue.
+#	See:	https://github.com/greyhat-academy/lists.d/issues/17
 214.0.0.0/8
 215.0.0.0/8
 #
