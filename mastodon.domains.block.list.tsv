@@ -1,13 +1,37 @@
 #	lists.d Mastodon Blocklist	(c) 2022 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/mastodon.domains.block.list.tsv
 #	This list contains domains of toxic mastodon instances
-#	Last-Modified:	1672013000
+#	Last-Modified:	1672044500
+
+#	gab - a neonazi social network
+gab.ai
+gab.com
+gab.protohype.net
+
+#	consequence-free speech
+social.unzensiert.to
+freeatlantis.com
 
 #	reactionary bigotry and hatespeech against magrinalized groups
-gab.ai
 poa.st
 freespeechextremist.com
 rdrama.cc
+outpoa.st
+anime.website
+gameliberty.club
+social.byoblu.com
+yggdrasil.social
+smuglo.li
+dogeposting.social
 
 #	+ CSAM
 rojogato.com
+
+#	antivaxxer shitposting & fearmongering
+shadowsocial.org
+
+#	Kiwifarms
+kiwifarms.net
+kiwifarms.cc
+kiwifarms.is
+kiwifarms.pleroma.net
