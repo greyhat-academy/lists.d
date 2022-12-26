@@ -11,3 +11,4 @@ lists.d IPv4-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-acad
 lists.d IPv6-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv6.block.list.tsv	Advanced Blocklist	IPv6 Blocks	Rogue ISPs	https://github.com/greyhat-academy/lists.d
 lists.d MilIntel-IPv4	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/milintel.ipv4.block.list.tsv	Advanced Blocklist	IPv4 Blocks	Military and Intelligence Networks	https://github.com/greyhat-academy/lists.d
 lists.d Gambling	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/gambling.domains.block.list.tsv	Supportive Blocklist	Domains	Gambling Sites	https://github.com/greyhat-academy/lists.d
+lists.d Mastodon	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/mastodon.domains.block.list.tsv	Application - Specific	Domains	Toxic Mastodon Instances	https://github.com/greyhat-academy/lists.d
