@@ -27,7 +27,7 @@ Knowledge is Free!
   - [IRC Networks](./irc.networks.list.tsv)
   - [ActivityPub Servers](./activitypub.servers.list.tsv)
   - [Minecraft](./minecraft.gameservers.list.tsv)
-- Blocklists
+- [Blocklists](./blocklists.list.tsv)
   - Network Security
     - Don't Route or Peer
       - [lists.d IPv4 DROP](./drop.ipv4.block.list.tsv)
