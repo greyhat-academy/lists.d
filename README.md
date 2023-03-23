@@ -10,7 +10,8 @@ Lists are provided as [TSV files](https://en.wikipedia.org/wiki/Tab-separated_va
 ## NOTE:
 #### All info has been taken from publicly available sources, not from private data or leaks.
 ### We will reject all pull requests with data that have been obtained from non-public data and without proper source deeplinking to verify that these are not attempts at d0xxing or other actions that are not only violating GibHub's ToS but also might have serious legal remifications attached to them!
-
+###### Being listed is not an explicit endoresement of said services, sites and/or their maintainers.
+###### Tho we will take reports seriously and will act accordingly in case some will act against our values and common interests.
 Knowledge is Free!
 
 ---
