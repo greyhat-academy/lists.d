@@ -86,3 +86,5 @@ There are various reasons why I started this:
   - You can find the [license here](./LICENSE.md)
   - This means you can use it everywhere, but you cannot sell with or as part of a commercial product [i.e. network security appliance].
       - Customers / end-users may be made aware and provided step-by-step or automated tools to use and query it, but they should be made aware that this is a freely accessible list and not part of your commercial product and/or services.
+        - You'll have to comply with the terms of the license.
+      - Please feel free to inform us if you use our lists and/or contribute to them.
