@@ -1,0 +1,2 @@
+Name	IMAP	SMTP	OnionV3	Website	Registration	Notes
+dismail.de	imap.dismail.de:143	smtp.dismail.de:587		https://dismail.de/info.html#email	Requires manual activation via XMPP message from a dismail.de XMPP account, may take some time.

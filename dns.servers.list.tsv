@@ -21,3 +21,5 @@ Secondary	digiges	ICANN-ROOT	185.95.218.43	2a05:fc84::43	https://dns.digitale-ge
 Main	artikel10	ICANN-ROOT	45.151.167.2	2001:678:e3c::2	https://dns.artikel10.org/dns-query	tls://dns.artikel10.org:853	https://dns.artikel10.org/
 anycast	uncensoreddns.org	ICANN-ROOT	91.239.100.100	2001:67c:28a4::	https://anycast.uncensoreddns.org/dns-query	tls://anycast.uncensoreddns.org:853	https://blog.uncensoreddns.org/
 unicast	uncensoreddns.org	ICANN-ROOT	89.233.43.71	2a01:3a0:53:53::	https://unicast.uncensoreddns.org/dns-query	tls://unicast.uncensoreddns.org:853	https://blog.uncensoreddns.org/
+fdns1	dismail.de	ICANN-ROOT	116.203.32.217	2a01:4f8:1c1b:44aa::1		tls://fdns1.dismail.de:853	https://dismail.de/info.html#dns
+fdns2	dismail.de	ICANN-ROOT	159.69.114.157	2a01:4f8:c17:739a::2		tls://fdns2.dismail.de:853	https://dismail.de/info.html#dns

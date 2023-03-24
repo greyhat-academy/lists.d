@@ -23,9 +23,11 @@ Knowledge is Free!
 - Public Servers
   - [DNS](./dns.servers.list.tsv)
   - [NTP](./ntp.servers.list.tsv)
+  - [eMail](./email.servers.list.tsv)
+  - [XMPP / Jabber](./xmpp.servers.list.tsv)
+  - [IRC Networks](./irc.networks.list.tsv) 
   - [BitTorrent Trackers](./bittorent.trackers.list.tsv)
   - [Bona-fide Onion Services](./onion.domains.list.tsv)
-  - [IRC Networks](./irc.networks.list.tsv)
   - [ActivityPub Servers](./activitypub.servers.list.tsv)
   - [Minecraft](./minecraft.gameservers.list.tsv)
 - [Blocklists](./blocklists.list.tsv)
