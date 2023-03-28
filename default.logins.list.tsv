@@ -4,3 +4,6 @@ pi	raspberry	Raspberry Pi Foundation	Raspberry Pi OS	OS default	https://tutorial
 root	toor	Offensive Security	Kali Linux	OS default	https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/
 root	root	Arch Linux	Arch Linux ARM	OS default	https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/
 ubuntu	ubuntu	Canonical	Ubuntu Server	OS default	https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/
+root	calvin	Dell	iDRAC 9	IPMI Default	https://www.dell.com/support/kbdoc/en-us/000133536/dell-poweredge-what-is-the-default-username-and-password-for-idrac
+orangepi	orangepi	Orange Pi	Orange Pi OS	OS default	https://askubuntu.com/questions/874427/lubuntu-orangepi-default-root-username-and-password/876445#876445
+ubuntu	ubuntu	Canonical	Ubuntu Server OS	OS default	https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/

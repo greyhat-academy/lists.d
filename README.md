@@ -19,7 +19,7 @@ Knowledge is Free!
 - Devices
   - [IMEI](./imei.devices.list.tsv)
   - [MAC](./mac.devices.list.tsv)
-  - [default logins](./default.logins.tsv) for various devices and systems
+  - [default logins](./default.logins.list.tsv) for various devices and systems
 - Public Servers
   - [DNS](./dns.servers.list.tsv)
   - [NTP](./ntp.servers.list.tsv)
