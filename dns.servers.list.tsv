@@ -23,3 +23,4 @@ anycast	uncensoreddns.org	ICANN-ROOT	91.239.100.100	2001:67c:28a4::	https://anyc
 unicast	uncensoreddns.org	ICANN-ROOT	89.233.43.71	2a01:3a0:53:53::	https://unicast.uncensoreddns.org/dns-query	tls://unicast.uncensoreddns.org:853	https://blog.uncensoreddns.org/
 fdns1	dismail.de	ICANN-ROOT	116.203.32.217	2a01:4f8:1c1b:44aa::1		tls://fdns1.dismail.de:853	https://dismail.de/info.html#dns
 fdns2	dismail.de	ICANN-ROOT	159.69.114.157	2a01:4f8:c17:739a::2		tls://fdns2.dismail.de:853	https://dismail.de/info.html#dns
+fra1	ns-global.zone	ICANN-ROOT	45.87.161.35	2a04:5b82:3:8700:0:c0ff:fee3:f93e			https://ns-global.zone/faq/
