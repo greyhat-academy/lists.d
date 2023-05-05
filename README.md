@@ -39,6 +39,7 @@ Knowledge is Free!
       - [lists.d IPv4 MIL/INTEL](./milintel.ipv4.block.list.tsv)
   - Application-Specific
     - [Hostile ActivityPub Servers](./activitypub.domains.block.list.tsv)
+    - [Spammer Domains](./spammers.domains.block.list.tsv)
   - Optional Blocklists
     - [Gambling Domains](./gambling.domains.block.list.tsv)
 - Lists of Lists
