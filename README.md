@@ -19,7 +19,7 @@ Knowledge is Free!
 - Devices
   - [IMEI](./imei.devices.list.tsv)
   - [MAC](./mac.devices.list.tsv)
-  - [default logins](./default.logins.list.tsv) for various devices and systems
+  - [default logins](./default.logins.list.tsv) - for various devices and systems
 - Public Servers
   - [DNS](./dns.servers.list.tsv)
   - [NTP](./ntp.servers.list.tsv)
@@ -40,6 +40,8 @@ Knowledge is Free!
   - Application-Specific
     - [Hostile ActivityPub Servers](./activitypub.domains.block.list.tsv)
     - [Spammer Domains](./spammers.domains.block.list.tsv)
+  - Platform-Specific
+    - [Toxic GitHub Users](./users.github.block.list.tsv)
   - Optional Blocklists
     - [Gambling Domains](./gambling.domains.block.list.tsv)
 - Lists of Lists
