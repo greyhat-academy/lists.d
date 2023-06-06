@@ -1,6 +1,4 @@
 Name	Provider	Network	IPv4	IPv6	HTTPS	TLS	Website
-Public	Google	ICANN-ROOT	8.8.8.8	2001:4860:4860::8888			https://developers.google.com/speed/public-dns/docs/using
-Public	Google	ICANN-ROOT	8.8.4.4	2001:4860:4860::8844			https://developers.google.com/speed/public-dns/docs/using
 Tier1	verax	OpenNIC	94.103.153.176	2a02:990:219:1:ba:1337:cafe:3			https://servers.opennic.org/edit.php?srv=ns5.opennic.glue
 Tier1	okashi_o	OpenNIC	144.76.103.143	2a01:4f8:192:43a5::2			https://servers.opennic.org/edit.php?srv=ns13.opennic.glue
 Tier2	mistersixt	OpenNIC	94.16.114.254	2a03:4000:28:365::1	https://www.jabber-germany.de/dns-query	(Port: 853)	https://servers.opennic.org/edit.php?srv=ns28.de.dns.opennic.glue
@@ -24,3 +22,5 @@ unicast	uncensoreddns.org	ICANN-ROOT	89.233.43.71	2a01:3a0:53:53::	https://unica
 fdns1	dismail.de	ICANN-ROOT	116.203.32.217	2a01:4f8:1c1b:44aa::1		tls://fdns1.dismail.de:853	https://dismail.de/info.html#dns
 fdns2	dismail.de	ICANN-ROOT	159.69.114.157	2a01:4f8:c17:739a::2		tls://fdns2.dismail.de:853	https://dismail.de/info.html#dns
 fra1	ns-global.zone	ICANN-ROOT	45.87.161.35	2a04:5b82:3:8700:0:c0ff:fee3:f93e			https://ns-global.zone/faq/
+Public	Google	ICANN-ROOT	8.8.8.8	2001:4860:4860::8888			https://developers.google.com/speed/public-dns/docs/using
+Public	Google	ICANN-ROOT	8.8.4.4	2001:4860:4860::8844			https://developers.google.com/speed/public-dns/docs/using
