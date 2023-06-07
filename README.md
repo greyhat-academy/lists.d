@@ -36,6 +36,7 @@ Knowledge is Free!
       - [lists.d IPv4 DROP](./drop.ipv4.block.list.tsv)
       - [lists.d IPv6 DROP](./drop.ipv6.block.list.tsv)
       - [lists.d ASN DROP](./drop.asn.block.list.tsv)
+      - [lists.d Domains DROP](./drop.domains.block.list.tsv)
       - [lists.d IPv4 MIL/INTEL](./milintel.ipv4.block.list.tsv)
   - Application-Specific
     - [Hostile ActivityPub Servers](./activitypub.domains.block.list.tsv)
