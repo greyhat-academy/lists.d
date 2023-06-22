@@ -57,3 +57,5 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 862295951149773	WWAN-MODEM	SIMCom	A7670E	https://www.amazon.de/dp/B097K14K18
 354153049046625	WWAN-MODEM	Option	GTM671W	https://www.newegg.com/p/2S7-07JP-26601
 860719025598305	WWAN-MODEM	SIMcom	S2-105HE-Z141B	https://www.amazon.de/dp/B081JPP3TD
+867857032911864	WWAN-MODEM	SIMcom	SIM868	https://www.berrybase.de/sim868-gsm/gprs/gnss-modul-fuer-raspberry-pi-pico
+868333031634195	WWAN-MODEM	SIMcom	SIM7020E	https://www.berrybase.de/sim7020e-nb-iot-modul-fuer-raspberry-pi-pico
