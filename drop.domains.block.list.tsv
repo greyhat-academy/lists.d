@@ -4,5 +4,8 @@
 #	Last-Modified:	1686143000
 
 ##	Malicious TLDs
-*.zip
+
+#	*.zip
 ###	.zip is almost exclusively used for malware.
+####	It has been commented out pending investigation.
+#####	See https://github.com/greyhat-academy/lists.d/issues/29
