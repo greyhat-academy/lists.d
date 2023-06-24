@@ -1,14 +1,7 @@
 #	lists.d Mastodon Blocklist	(c) 2022 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.domains.block.list.tsv
 #	This list contains domains of toxic mastodon instances
-#	Last-Modified:
-
-
-# BlueSky
-## Hosting Neonazis & CSAM
-### See https://github.com/greyhat-academy/lists.d/issues/35
-bsky.social
-bsky.app
+#	Last-Modified: 1687647500
 
 #	gab - a neonazi social network
 gab.ai
@@ -35,7 +28,6 @@ freezepeach.xyz
 
 #	+ CSAM
 rojogato.com
-horny.house
 
 #	antivaxxer shitposting & fearmongering
 shadowsocial.org
@@ -46,6 +38,7 @@ kiwifarms.cc
 kiwifarms.is
 kiwifarms.pleroma.net
 
+
 # Project 92/Instagram fedi integration (codenamed Barcelona)
 instagram.com
 threads.instagram.com
@@ -53,3 +46,9 @@ threads.net
 
 # Project 92-compromised instances
 emacs.ch
+
+# BlueSky
+## Hosting Neonazis & CSAM
+### See https://github.com/greyhat-academy/lists.d/issues/35
+bsky.social
+bsky.app
