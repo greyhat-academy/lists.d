@@ -1,7 +1,14 @@
 #	lists.d Mastodon Blocklist	(c) 2022 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.domains.block.list.tsv
 #	This list contains domains of toxic mastodon instances
-#	Last-Modified:	1672044500
+#	Last-Modified:
+
+
+# BlueSky
+## Hosting Neonazis & CSAM
+### See https://github.com/greyhat-academy/lists.d/issues/35
+bsky.social
+bsky.app
 
 #	gab - a neonazi social network
 gab.ai
