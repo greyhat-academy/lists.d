@@ -3,6 +3,20 @@
 #	This list contains domains of toxic mastodon instances
 #	Last-Modified: 1687647500
 
+# BlueSky
+## Hosting Neonazis & CSAM
+### See https://github.com/greyhat-academy/lists.d/issues/35
+bsky.social
+bsky.app
+
+# Project 92/Instagram fedi integration (codenamed Barcelona)
+instagram.com
+threads.instagram.com
+threads.net
+
+# Project 92-compromised instances
+emacs.ch
+
 #	gab - a neonazi social network
 gab.ai
 gab.com
@@ -37,18 +51,3 @@ kiwifarms.net
 kiwifarms.cc
 kiwifarms.is
 kiwifarms.pleroma.net
-
-
-# Project 92/Instagram fedi integration (codenamed Barcelona)
-instagram.com
-threads.instagram.com
-threads.net
-
-# Project 92-compromised instances
-emacs.ch
-
-# BlueSky
-## Hosting Neonazis & CSAM
-### See https://github.com/greyhat-academy/lists.d/issues/35
-bsky.social
-bsky.app
