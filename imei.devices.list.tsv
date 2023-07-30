@@ -59,3 +59,11 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 860719025598305	WWAN-MODEM	SIMcom	S2-105HE-Z141B	https://www.amazon.de/dp/B081JPP3TD
 867857032911864	WWAN-MODEM	SIMcom	SIM868	https://www.berrybase.de/sim868-gsm/gprs/gnss-modul-fuer-raspberry-pi-pico
 868333031634195	WWAN-MODEM	SIMcom	SIM7020E	https://www.berrybase.de/sim7020e-nb-iot-modul-fuer-raspberry-pi-pico
+300434063206770	SATELLITE-MODEM	Sparkfun	RockBLOCK 9603	https://youtu.be/ym4-ZckfXg4?t=64
+300234065790910	SATELLITE-MODEM	Sparkfun	RockBLOCK9602	https://youtu.be/ym4-ZckfXg4?t=64
+300234063797650	SATELLITE-MODEM	Iridium	9602	https://youtu.be/r-J0OmK5XiE?t=23
+300215050153250	SATELLITE-MODEM	Iridium	9603	https://youtu.be/r-J0OmK5XiE?t=23
+300038254007350	SATELLITE-MODEM	Iridium	9810	https://youtu.be/r-J0OmK5XiE?t=23
+300058060001070	SATELLITE-MODEM	Iridium	9770	https://youtu.be/r-J0OmK5XiE?t=23
+300215010402790	SATELLITE-PHONE	Iridium	9575	https://youtu.be/fSaYHVF0x_8?t=3
+300315060109050	SATELLITE-PHONE	Iridium	9575 PTT	https://youtu.be/Ed2fk325Vb0
