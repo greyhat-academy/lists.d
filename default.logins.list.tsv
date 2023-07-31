@@ -14,3 +14,5 @@ user	live	BunsenLabs	Berillium	OS Default	https://github.com/BunsenLabs/bunsen-c
 admin	pfsense	Netgate	pfSense	OS Default	https://docs.netgate.com/pfsense/en/latest/usermanager/defaults.html
 root	freenas	iXsystems	TrueNAS	OS Default	https://docs.netgate.com/pfsense/en/latest/usermanager/defaults.html
 cisco	cisco	Cisco	Switches	OS Default	https://www.cisco.com/c/de_de/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5563-configure-password-settings-on-a-switch-through-the-command.html
+Guest	Guest	Iridium	9560 Go!	OS Default	https://youtu.be/_R2nRaFz7lc?t=128
+Iridium-******	password	Iridium	Go exec	OS Default	https://youtu.be/gwwiF5yYLac?t=86
