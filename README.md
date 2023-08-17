@@ -21,6 +21,7 @@ Knowledge is Free!
   - [default logins](./default.logins.list.tsv) - for various devices and systems
 - Services
   - [Dialup Internet Access](./dialup.providers.list.tsv)
+  - [IPTV Streams](./iptv.livestreams.list.tsv)
 - Public Servers
   - [DNS](./dns.servers.list.tsv)
   - [NTP](./ntp.servers.list.tsv)
