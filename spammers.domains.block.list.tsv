@@ -1,7 +1,7 @@
-#	lists.d Spammer Blocklist	(c) 2022 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
+#	lists.d Spammer Blocklist	(c) 2023 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/spammers.domains.block.list.tsv
-#	This list contains domains of gambling sites
-#	Last-Modified	UNIXTIME:	1688764000
+#	This list contains domains of eMail Spammers
+#	Last-Modified	UNIXTIME:	1692468000
 
 
 ##	Shitcoins
@@ -10,3 +10,20 @@
 moonblocks.co
 moonblocks.nl
 
+## FakeNews and FakeAds from shitty gun stores located in the USA
+### These are evidenced to buy up eMail adresses and spam without demaning an opt-in first
+thebulletexpress.com
+gunowner-news.com
+firearmman.com
+griffinarmament.com
+calibercontests.com
+knifevoyager.com
+gunstuff.tv
+tacticaldefenseusa.com
+trueshotgunclub.com
+fortscottmunitions.com
+7houtfitters.com
+
+## Credit Spammers
+### These are evidenced to buy up eMail adresses and spam without demaning an opt-in first
+sonder-aktion.com

@@ -1,0 +1,49 @@
+#	lists.d "AI" Bots Blocklist	(c) 2023 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
+#	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.bots.block.list.tsv
+#	This list contains "AI" spambots form the Fediverse
+#	Last-Modified	UNIXTIME:	1692468000
+
+## As per AI Blocklist
+### Source:	https://codeberg.org/atf/AIBlocklist/raw/branch/main/fediverse_users.csv
+#### Licensed under CC-BY-SA 40. :	https://codeberg.org/atf/AIBlocklist/src/branch/main/LICENSE
+#### See:	https://codeberg.org/atf/AIBlocklist/ & https://aiblocker.org/lists/
+@adamasnemesis@social.adamasnemesis.com
+@kyemxden@pixelfed.social
+@Slager@pixelfed.social
+@chespace@mastodon.coffee
+@ceoln@pixelfed.social
+@DataLorean@socel.net
+@Triflingtree@home.social
+@johnmee@mastodon.ie
+@Zaivastar@pixelfed.social
+@cjbooker@sfba.social
+@AirmindedAI@sigmoid.social
+@EposVox@glitch.lgbt
+@thatnickc@mindly.social
+@BlueTurtleAI@hachyderm.io
+@WeavingWithAI@sigmoid.social
+@Quinnie@pixelfed.social
+@TTAships@sigmoid.social
+@Mage_of_Aquarius@pagan.plus
+@kirbstr@pxlmo.com
+@JohnJamesOZ@mastodon.social
+@echevarian@genart.social
+@zenartcenter@universeodon.com
+@tatianasys@mstdn.social
+@phantacy@mastodon.online
+@bakkdoor@osna.social
+@vvprincess86@mastodon.social
+@garomestamog@pixelfed.social
+@gar0mestam0@metapixl.com
+@androiddreams@mstdn.social
+@Dorayn@pixelfed.social
+@NightPinkKitty@mas.to
+@pixelworld_ai@aipub.social
+@stigandr.art@pixelfed.social
+@akira@calckey.art
+@SFAutor@procial.tchncs.de
+@TriflingTree@mastodon.social
+@iggual@mstdn.social
+@mvl_aiart@pixelfed.social
+@BeAware@social.beaware.live
+@mightyweasel@mindly.social

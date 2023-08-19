@@ -1,0 +1,39 @@
+#	lists.d Domians-"AI Content" List	(c) 2023 Greyhat Academy	LICENSED UNDER:	CC-BY-NC-SA 4.0
+#	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/ai.content.domains.block.list.tsv
+#	This contains Domains of Sites that host "A.I. Content" and thus provide garbage.
+#	Last-Modified	UNIXTIME:	1692468000
+
+## As per AI Blocklist
+### Source:	https://codeberg.org/atf/AIBlocklist/raw/branch/main/aihosts.txt
+#### Licensed under CC-BY-SA 40. :	https://codeberg.org/atf/AIBlocklist/src/branch/main/LICENSE
+#### See:	https://codeberg.org/atf/AIBlocklist/ & https://aiblocker.org/lists/
+# Identified by NewsGuard as an AI generated website
+CountyLocalNews.com
+HistoryFact.in
+HarmonyHustle.com
+BestBudgetUSA.com
+WaveFunction.info
+CelebritiesDeaths.com
+ScoopEarth.com
+FilthyLucre.com
+# The following sites advertise that they sell AI powered SEO content
+writesonic.com
+jasper.ai
+inkforall.com
+wordai.com
+hypotenuse.ai
+copysmith.ai
+creaitor.ai
+frase.io
+copy.ai
+ai-writer.com
+hyperwriteai.com
+rytr.me
+snazzy.ai
+longshot.ai
+# The following social network describes itself as a hub for AI art and the people who post it
+aipub.social
+# Exposed by Reddit as one location hosting AI generated news site https://arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/
+zleague.gg
+# The following site began an article with "As an AI language model"
+thetechedvocate.org

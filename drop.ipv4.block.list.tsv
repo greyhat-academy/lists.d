@@ -1,7 +1,7 @@
-#	lists.d IPv4-DROP List	(c) 2022 Greyhat Academy	LICENSED UNDER:	CC-BY-NC-SA 4.0
+#	lists.d IPv4-DROP List	(c) 2023 Greyhat Academy	LICENSED UNDER:	CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv4.block.list.tsv			
 #	This contains the IPv4 Adress Blocks of Rogue ISPs and subsequent Reasons 			
-#	Last-Modified	UNIXTIME:	1688764000
+#	Last-Modified	UNIXTIME:	1692468000
 
 ### KiwiFarms				
 ##	AS397702	1776 Solutions, LLC	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms]

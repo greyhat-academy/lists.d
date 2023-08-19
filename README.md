@@ -34,8 +34,10 @@
       - [lists.d ASN DROP](./drop.asn.block.list.tsv)
       - [lists.d Domains DROP](./drop.domains.block.list.tsv)
       - [lists.d IPv4 MIL/INTEL](./milintel.ipv4.block.list.tsv)
+      - [lists.d "AI Content" Domains](./ai.content.domains.block.list.tsv)
   - Application-Specific
     - [Hostile ActivityPub Servers](./activitypub.domains.block.list.tsv)
+    - [ActivityPub "AI Bots"](./activitypub.bots.block.list.tsv)
     - [Spammer Domains](./spammers.domains.block.list.tsv)
   - Platform-Specific
     - [Toxic GitHub Users](./users.github.block.list.tsv)
