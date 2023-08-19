@@ -2,3 +2,9 @@ VENDOR-ID	DEVICE-ID	SERIAL	VENDOR	DEVICE	TYPE	DESCRIPTION	SOURCE
 0x1337	0x1337	1337	.	.	USB-GADGET	PwnPi-ALOA default for USB Gadget	http://172.16.0.1:8000/#/usb
 0x0951	0x1642	001CC0EC30C8BBB085FE0131	Kingston Technology	DT101 G2	USB-FLASHDRIVE	Data Traveler Stick	https://youtu.be/2yQCOso_4hc?t=260
 0x046D	0xC083		Logitech	G403 Prodigy Gaming Mode	USB-MOUSE	Optical Gaming Mouse	https://youtu.be/2yQCOso_4hc?t=289
+0x2E8A	0x0003		Raspberry Pi	RP2040	MICROCONTROLLER	RP2040 in BOOTSEL mode	https://github.com/raspberrypi/usb-pid
+0x2E8A	0x0004		Raspberry Pi	RP2040	MICROCONTROLLER	RP2040 in PicoProbe mode	https://github.com/raspberrypi/usb-pid
+0x2E8A	0x1008		Pimoroni	PGA2040	MICROCONTROLLER	RP2020 in a PGA form factor for socketed applications	https://github.com/raspberrypi/usb-pid
+0x2E8A	0x100E		Adafruit Industries	Raspberry Pi Zero	SBC	Pi Zero running CircuitPython	https://github.com/raspberrypi/usb-pid
+0x2E8A	0x1015		Adafruit Industries	Raspberry Pi Zero 2 W	SBC	Pi Zero 2 W running CircuitPython	https://github.com/raspberrypi/usb-pid
+0x2E8A	0x101E		Adafruit Industries	Raspberry Pi Zero W	SBC	Pi Zero W running CircuitPython	https://github.com/raspberrypi/usb-pid
