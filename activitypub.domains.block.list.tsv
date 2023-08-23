@@ -1,7 +1,7 @@
 #	lists.d Mastodon Blocklist	(c) 2022 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.domains.block.list.tsv
 #	This list contains domains of toxic mastodon instances
-#	Last-Modified	UNIXTIME:	1692468000
+#	Last-Modified	UNIXTIME:	1692831000
 
 # BlueSky
 ## Hosting Neonazis & CSAM
@@ -16,6 +16,17 @@ threads.net
 
 # Project 92-compromised instances
 emacs.ch
+
+# BBC
+## Blocked for rampant anti-trans propaganda
+### See https://github.com/greyhat-academy/lists.d/issues/39
+social.bbc
+
+#	Kiwifarms
+kiwifarms.net
+kiwifarms.cc
+kiwifarms.is
+kiwifarms.pleroma.net
 
 #	gab - a neonazi social network
 gab.ai
@@ -53,12 +64,6 @@ shota.house
 
 #	antivaxxer shitposting & fearmongering
 shadowsocial.org
-
-#	Kiwifarms
-kiwifarms.net
-kiwifarms.cc
-kiwifarms.is
-kiwifarms.pleroma.net
 
 #	Various Neonazi instances
 skinheads.social
