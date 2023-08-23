@@ -38,7 +38,7 @@
   - Application-Specific
     - [Hostile ActivityPub Servers](./activitypub.domains.block.list.tsv)
     - [ActivityPub "AI Bots"](./activitypub.bots.block.list.tsv)
-    - [Spammer Domains](./spammers.domains.block.list.tsv)
+    - [eMail Spam Domains](./spammers.domains.block.list.tsv)
   - Platform-Specific
     - [Toxic GitHub Users](./users.github.block.list.tsv)
   - Optional Blocklists
