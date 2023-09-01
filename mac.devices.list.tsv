@@ -18,8 +18,8 @@ A4B8058D85F0	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://
 A4B8058D85F1	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=1444
 0025F901121C	Weytec	MK06	KVM-Keyboard	Chyrosran22	Trading Terminal Keyboard	https://youtu.be/1FHkQpYBygE?t=429
 DCEF097FCD4F	Netgear	LB2110	WWAN Router	Amazon	LTE Router	https://www.amazon.de/dp/B07915QQBX
-00041FB94419	Sony	DTP-T1000 	Console	MVG	PSP Devkit	https://youtu.be/vY1j30jzRsE?t=234
-00014A1E4ABC	Sony	DTP-T1000 	Console	MVG	PSP Devkit	https://youtu.be/vY1j30jzRsE?t=459
+00041FB94419	Sony	DTP-T1000	Console	MVG	PSP Devkit	https://youtu.be/vY1j30jzRsE?t=234
+00014A1E4ABC	Sony	DTP-T1000	Console	MVG	PSP Devkit	https://youtu.be/vY1j30jzRsE?t=459
 B827EB3B9658	Raspberry Pi	Model 3B+	SBC	Amazon	Sample Output	https://www.amazon.de/dp/B07QNKCLJM
 00224334173E	Atheros	AR9280	WIFI Module	Amazon	Product Image	https://www.amazon.de/gp/product/B08GKHSH49
 0050F2102F0C	Microsoft	Xbox	Console	MVG	Xbox Debug Kit	https://youtu.be/jR46e-HU06c?t=289
@@ -36,9 +36,9 @@ C446196EE3B7	Broadcom	BCM94312HMG2L	WIFI Module	Amazon	Product Image	https://www
 0009BF0145A3	Nintendo	Gamecube	Console	MVG	Broadband Adaptor	https://youtu.be/Uxjl_kD3imQ?t=153
 4C8B58E8A561	Lenovo	IdeaPad 100-151by	WIFI Module	eBay	WiFi Module	https://www.ebay.de/itm/274465309594
 00063900FE2B	Newtec	NTC/2218.TUS	SAT-Modem	eBay	Bidirectional Satellite Internet Modem	https://www.ebay.de/itm/133835717954
-E263DA2C2636	Samsung		Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
-4401BB641283	Android		Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
-CCFD17B47F7D	Apple		Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
+E263DA2C2636	Samsung	-	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
+4401BB641283	Android	-	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
+CCFD17B47F7D	Apple	-	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
 7683C22ACDD6	Ubiquiti	UDM	WWAN Router	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
 003EE1C96E9C	Apple	iPhone X	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=42
 0026B6F6BD40	Atheros	AR9280	WIFI Module	eBay	Product Image	https://www.ebay.es/itm/264428470186
