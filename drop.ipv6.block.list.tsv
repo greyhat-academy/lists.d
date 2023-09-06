@@ -42,4 +42,16 @@
 ##	AS49447	Nice IT Services Group Inc. / as49447.net	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
 2a0e:fa00:1::/48
 2a0e:fa00::/48
-#				
+#
+### AS202685 pfcloud.io
+## for Hosting malware / portscanners
+#### See: https://github.com/greyhat-academy/lists.d/issues/42
+2a05:b0c6:a000::/39
+2a05:b0c6:a200::/39
+2a05:b0c6:a400::/39
+2a05:dfc7:4000::/39
+2a06:1287:d000::/37
+2a06:1287:e800::/39
+2a0e:46c4:28c2::/48
+2a12:dd47:8500::/40
+#
