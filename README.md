@@ -1,12 +1,8 @@
 # lists.d
-
 ### listings for known devices, device identifiers, public servers and more.
 
 ---
-
-
 ## Currently Existing Lists:
-
 - Devices
   - [IMEI](./imei.devices.list.tsv)
   - [MAC](./mac.devices.list.tsv)
@@ -52,38 +48,27 @@
       - aka. ["shooting the messenger"](https://en.wikipedia.org/wiki/Shooting_the_messenger)
   - [public logins](./logins.list.tsv)
 
-
 ---
-
 ## Important Notice:
-
 #### All information here is provided as-is with no guarantee of accuracy or reliability, and is meant for bona-fide purposes only!
-
 Lists are provided as [TSV files](https://en.wikipedia.org/wiki/Tab-separated_values) with [POSIX-compliant line endings](https://en.wikipedia.org/wiki/Newline#Representation) in order to make them easily searchable and interpretable for applications whilst retaining human readability and editability with text editors, scripts and spreadsheet programs, maximizing accessibility and compatibility at the same time.
 
 ## Privacy Notice:
-
 ### All info has been taken from publicly available sources, not from private data or leaks.
-
 #### We will reject all pull requests with data that have been obtained from non-public data and without proper source deeplinking to verify that these are not attempts at d0xxing or other actions that are not only violating GibHub's ToS but also might have serious legal remifications attached to them!
-
 ###### Being listed is not an explicit endoresement of said services, sites and/or their maintainers. Tho we will take reports seriously and will act accordingly in case some will act against our values and common interests.
-
 Knowledge is Free!
 
+---
 ## FAQ
 
 ### Where can I get the latest version?
-
 If you need the latest main branch, you can just [download it here directly from GitHub](https://github.com/greyhat-academy/lists.d/archive/refs/heads/main.zip).
-
 - You can also find [the latest "release" here](https://github.com/greyhat-academy/lists.d/releases/latest).
   Either way, simply unpack and you should get the TSV files which you can then edit with your favorite editor, spreadsheet tool or IDE and parse in your scripts.
 
 ### Why make this repo?
-
 There are various reasons why I started this:
-
 - I needed a convenient way to version, update and manage essential configurations like DNS- & NTP-Servers as well as being able to just simply fetch and apply them when setting up systems, or at the very least just pull the latest version in a script.
 - I don't want to constantly copy & paste any current recommendation but have a fixed link to said repo for use on projects and recommendation.
 - Others might benefit from sharing said data and being able to contribute too.
@@ -91,7 +76,6 @@ There are various reasons why I started this:
     - Don't forget to provide source links!
 
 ### Why use it?
-
 - It just works!
   - Due to using TSV files you can simply pull said lists and query them with any tool that can handle plaintext.
     - [from pfBlockerNG](https://twitter.com/k3vk4/status/1564055009762967555) and a lot of CLI / TUI tools and scrips to even GUI-based spreadsheet programs like LibreOffice Calc...
@@ -104,21 +88,35 @@ There are various reasons why I started this:
     - But it's part of the toolkit of many people - both contributors and non-contributors.
 
 ### Why contribute to it?
-
 - We're open and welcoming towards contributions.
   - OFC, behave yourself! We'll not tolerate spamming, harrasment and cybervandalism in our repo and will take foreseeable consequences within the appropriate channels to act against such misbehaviour!
 
-### I'm having issues with a certain list, help!
-
-- If you're certain your issue is caused by said list, please [open up an issue here](https://github.com/greyhat-academy/lists.d/issues) and provide as much detail as possible.
-  - We're quick to react and remediate issues if caused by us
-    - see [this example](https://github.com/greyhat-academy/lists.d/issues/17)
-
 ### Which License do you use?
-
 - The entire repo is [licensed under CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
   - You can find the [license here.](./LICENSE.md)
   - This means you can use it everywhere, but you cannot sell with or as part of a commercial product [i.e. network security appliance].
     - Customers / end-users may be made aware and provided step-by-step or automated tools to use and query it, but they should be made aware that this is a freely accessible list and not part of your commercial product and/or services.
       - You'll have to comply with the terms of the license.
     - Please feel free to inform us if you use our lists and/or contribute to them.
+
+---
+## Troubleshooting:
+### My Domain / Site / IP-Adresses / ... are listed on a blocklist and I want them removed!
+That's Great to Hear! 
+
+To do so we still need you to [open up a new issue](https://github.com/greyhat-academy/lists.d/issues/new/choose) and provide us with some details:
+1. The Entry in Question [Permalink to it!].
+2. The [Issue](https://github.com/greyhat-academy/lists.d/issues?q=is%3Aissue) / [Pull Request](https://github.com/greyhat-academy/lists.d/pulls?q=is%3Apr+) it was submitted with.
+3. Evidence of Ownership or Authorization by the Owner of said Domain / IP Adress Space / ASN / ... to act on their behalf.
+   - This MUST be verifyable!
+4. Proof that the reason for the listing has been removed / corrected.
+
+###### Please allow us time for due diligence and processing of your request.
+##### We will not accept other channels for submissions!
+###
+#### But, but I want it removed NOW!
+Please be reminded that we operate on transparency, accountability and consequences and do think that doing the correct thing is better than doing things fast.
+##### Whilst our decision may not be final forever, [as we do acknowledge that we ain't perfect](https://github.com/greyhat-academy/lists.d/issues/17), we will take action against spammers flooding our queue and [will publicly ban them](users.github.block.list.tsv).
+We do not take threats kindly and advise anyone from attempting these, as we will publish any such attempts.
+
+### Nothing in this section shall be deemed or construed as non-willingness to comply with any reasonable request.
