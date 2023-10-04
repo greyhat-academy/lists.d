@@ -8,13 +8,19 @@
 ####	see:	https://gist.github.com/kkarhan/b39ed57a439a92aaf79377f87fea6546
 moonblocks.co
 moonblocks.nl
-### Thentic
-thentic.tech
 ##
 
-##	Twilio Sendgrid
-### For enabling Spammers like thentic.tech
-sendgrid.net
+### Thentic
+thentic.tech
+## Suppliers of Thentic.tech that enable them to spam
+### Will be added if no actio has been taken by them.
+# sendgrid.net
+## Intital Spam eMail source
+# privateemail.com
+## eMail Hoster as per MX Record
+# namecheap.com
+## Domain Registrar for thentic.tech
+
 ##
 
 ## FakeNews and FakeAds from shitty gun stores located in the USA
