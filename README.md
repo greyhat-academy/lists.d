@@ -99,6 +99,10 @@ There are various reasons why I started this:
       - You'll have to comply with the terms of the license.
     - Please feel free to inform us if you use our lists and/or contribute to them.
 
+### Can I customize it?
+- Yes, please do so.
+  - If you don't want to contribute private data upsteam, please name those files with .private.list.tsv  as file extension as per [.gitignore](.gitignore) .
+
 ---
 ## Troubleshooting:
 ### My Domain / Site / IP-Adresses / ... are listed on a blocklist and I want them removed!
