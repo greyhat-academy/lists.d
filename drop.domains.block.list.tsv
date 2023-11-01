@@ -3,13 +3,6 @@
 #	This contains the Domains Blocks of Rogue ISPs and subsequent Reasons
 #	Last-Modified	UNIXTIME:	1692468000
 
-##	Kiwifarms	Hategrooming Forum
-###	see https://en.wikipedia.org/wiki/Kiwi_Farms
-kiwifarms.net
-kiwifarms.cc
-kiwifarms.is
-kiwifarms.pleroma.net
-
 ##	Malicious TLDs
 
 #	*.zip
