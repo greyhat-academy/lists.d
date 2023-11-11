@@ -1,4 +1,5 @@
 # .gitignore
+
 ## Custom Exceptions
 ### Preventing leaks of private list.tsv files
 *.private.list.tsv
@@ -7,6 +8,7 @@
 .private.*
 .private
 private
+
 ## Example user template
 ### IntelliJ project files
 .idea
