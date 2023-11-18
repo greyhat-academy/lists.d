@@ -3,6 +3,8 @@
 
 ---
 ## Currently Existing Lists:
+- Software
+- [Download Links to popular Software and Distributions](./largefiles.downloads.links.list.tsv)
 - Devices
   - [IMEI](./imei.devices.list.tsv)
   - [MAC](./mac.devices.list.tsv)
@@ -11,7 +13,6 @@
 - Services
   - [Dialup Internet Access](./dialup.providers.list.tsv)
   - [IPTV Streams](./iptv.livestreams.list.tsv)
-- [Download Links to popular Software and Distributions](./largefiles.downloads.links.list.tsv)
 - Public Servers
   - [DNS](./dns.servers.list.tsv)
   - [NTP](./ntp.servers.list.tsv)
