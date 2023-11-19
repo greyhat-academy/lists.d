@@ -6,6 +6,10 @@ ASN-DROP	Spamhaus	https://www.spamhaus.org/drop/asndrop.txt	Security Blocklist	A
 OISD-BASIC	OISD	https://dbl.oisd.nl/basic/	Adblocking Blocklist	Domains	Filters the most notorious Ad-Servers (domains)	https://oisd.nl/downloadsXtra
 OISD-FULL	OISD	https://dbl.oisd.nl/	Adblocking Blocklist	Domains	Basically all Ad-Servers	https://oisd.nl/downloadsXtra
 OISD-NSFW	OISD	https://dbl.oisd.nl/nsfw/	Adblocking Blocklist	Domains	Ad-Servers for/from NSFW sites	https://oisd.nl/downloadsXtra
+Adserver Blocklist	Peter Lowe	https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts;showintro=0;useip=	Adblocking Blocklist	Domains	Manually maintained for over two decades, good quality	https://pgl.yoyo.org/adservers/
+Adserver IP Blocklist	Peter Lowe	https://pgl.yoyo.org/as/iplist.php?showintro=0	Adblocking Blocklist	IPv4 Adresses	Manually maintained for over two decades, good quality	https://pgl.yoyo.org/adservers/
+Tracker Blocklist	Peter Lowe	https://pgl.yoyo.org/as/serverlist.php?showintro=0;onlytrackers=1;useip=	Tracking Blocklist	Domains	Same as Adserver Blocklist by Peter Lowe, but only trackers	https://pgl.yoyo.org/adservers/
+Ads Blocklist	Peter Lowe	https://pgl.yoyo.org/as/serverlist.php?showintro=0;notrackers=1;useip=	Advertising Blocklist	Domains	Same as Adserver Blocklist by Peter Lowe, but only ads	https://pgl.yoyo.org/adservers/
 lists.d ASN-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.asn.block.list.tsv	Advanced Blocklist	ASNs	Rogue ISPs	https://github.com/greyhat-academy/lists.d
 lists.d IPv4-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv4.block.list.tsv	Advanced Blocklist	IPv4 Blocks	Rogue ISPs	https://github.com/greyhat-academy/lists.d
 lists.d IPv6-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv6.block.list.tsv	Advanced Blocklist	IPv6 Blocks	Rogue ISPs	https://github.com/greyhat-academy/lists.d
