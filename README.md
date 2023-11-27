@@ -4,7 +4,7 @@
 ---
 ## Currently Existing Lists:
 - Software
-- [Download Links to popular Software and Distributions](./largefiles.downloads.links.list.tsv)
+  - [Download Links to popular Software and Distributions](./largefiles.downloads.links.list.tsv)
 - Devices
   - [IMEI](./imei.devices.list.tsv)
   - [MAC](./mac.devices.list.tsv)
