@@ -48,6 +48,7 @@
     - Organizations and Individuals that are known to litigate and attack those that report security issues to them.
       - aka. ["shooting the messenger"](https://en.wikipedia.org/wiki/Shooting_the_messenger)
   - [public logins](./logins.list.tsv)
+  - [Desktop Wallpapers](./desktop.wallpapers.list.tsv)
 
 ---
 ## Important Notice:
