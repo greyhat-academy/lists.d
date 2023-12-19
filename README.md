@@ -10,21 +10,21 @@
   - [MAC](./mac.devices.list.tsv)
   - [USB Device IDs](./usb.devices.list.tsv)
   - [known default logins](./default.logins.list.tsv)
-- Services
+- Services [You'll need to register / sign-up for to use them!]
   - [Dialup Internet Access](./dialup.providers.list.tsv)
   - [IPTV Streams](./iptv.livestreams.list.tsv)
-- Public Servers
-  - [DNS](./dns.servers.list.tsv)
-  - [NTP](./ntp.servers.list.tsv)
-  - [BitTorrent Trackers](./bittorent.trackers.list.tsv)
-  - [Bona-fide Onion Services](./onion.domains.list.tsv)
-  - [IRC Networks](./irc.networks.list.tsv)
   - [ActivityPub Servers](./activitypub.servers.list.tsv)
   - [eMail](./email.servers.list.tsv)
   - [XMPP / Jabber](./xmpp.servers.list.tsv)
   - [Webhosting](free.webhosters.list.tsv)
   - [Filehosting](free.filehosters.list.tsv)
-  - [Minecraft](./minecraft.gameservers.list.tsv)
+  - [Bona-fide Onion Services](./onion.domains.list.tsv)
+- Public Servers [They are freely accessible without registration or signups!]
+  - [DNS](./dns.servers.list.tsv)
+  - [NTP](./ntp.servers.list.tsv)
+  - [BitTorrent Trackers](./bittorent.trackers.list.tsv)
+  - [IRC Networks](./irc.networks.list.tsv)
+  - [Minecraft Gameservers](./minecraft.gameservers.list.tsv)
 - [Blocklists](./blocklists.list.tsv)
   - Network Security
     - Don't Route or Peer
@@ -33,7 +33,6 @@
       - [lists.d ASN DROP](./drop.asn.block.list.tsv)
       - [lists.d Domains DROP](./drop.domains.block.list.tsv)
       - [lists.d IPv4 MIL/INTEL](./milintel.ipv4.block.list.tsv)
-      - [lists.d "AI Content" Domains](./ai.content.domains.block.list.tsv)
   - Application-Specific
     - [Hostile ActivityPub Servers](./activitypub.domains.block.list.tsv)
     - [ActivityPub "AI Bots"](./activitypub.bots.block.list.tsv)
@@ -42,6 +41,8 @@
     - [Toxic GitHub Users](./users.github.block.list.tsv)
   - Optional Blocklists
     - [Gambling Domains](./gambling.domains.block.list.tsv)
+    - ["AI Content"](./ai.content.domains.block.list.tsv)
+      - Basically Garbage sites that only exist to commit Ad-Farming, Malware/Phishing and other scams like selling useless stuff noone needs or asks for...
 - Lists of Lists
   - [Bona-Fide Onion Services](./onionlists.list.tsv)
   - [Network-wide Blocklists](./blocklists.list.tsv)
@@ -60,7 +61,7 @@ Lists are provided as [TSV files](https://en.wikipedia.org/wiki/Tab-separated_va
 ## Privacy Notice:
 ### All info has been taken from publicly available sources, not from private data or leaks.
 #### We will reject all pull requests with data that have been obtained from non-public data and without proper source deeplinking to verify that these are not attempts at d0xxing or other actions that are not only violating GibHub's ToS but also might have serious legal remifications attached to them!
-###### Being listed is not an explicit endoresement of said services, sites and/or their maintainers. Tho we will take reports seriously and will act accordingly in case some will act against our values and common interests.
+###### Being listed is not an explicit endorsement of said services, sites and/or their maintainers. Tho we will take reports seriously and will act accordingly in case some will act against our values and common interests.
 Knowledge is Free!
 
 ---
@@ -106,6 +107,7 @@ There are various reasons why I started this:
 ### Can I customize it?
 - Yes, please do so.
   - If you don't want to contribute private data upsteam, please name those files with .private.list.tsv  as file extension as per [.gitignore](.gitignore) .
+    - Otherwise we'd highly recommend to at least keep your fork synced and push corrections upstream to us in the form of a [pull request](https://github.com/greyhat-academy/lists.d/pulls)!
 
 ---
 ## Troubleshooting:
