@@ -1,0 +1,34 @@
+#	lists.d Threads Blocklist	(c) 2022 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
+#	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.threads.domains.block.list.tsv
+#	This list contains domains of ActivityPub Instances
+#	that are federating with Threads, the Twitter-Clone run by NSAbook / Stasibook aka. Meta nee Facebook
+#	Last-Modified	UNIXTIME:	1703422000
+
+# Project 92/Instagram fedi integration (codenamed Barcelona)
+## See: https://github.com/greyhat-academy/lists.d/issues/47
+threads.instagram.com
+threads.net
+#	Associated Resources maintained by the same Company
+facebook.com
+fbcdn.com
+fbcdn.net
+instagram.com
+#	#
+
+
+#	Compromized instances!
+emacs.ch
+#	#
+
+#	Federating with Threads as per their own admission - previously choose not to.
+mstdn.social
+masto.ai
+#	#
+
+#	Federating with Threads from the start.
+#	#
+
+
+#	For a list of Other problematic Instances, please consider subscribing to the general blocklist
+#	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.domains.block.list.tsv
+#	#
