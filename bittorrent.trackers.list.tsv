@@ -40,3 +40,11 @@ https://explodie.org:6969/announce	HTTPS	https://paste.is/p/v/e34794ae-1661-44b3
 https://tracker.fastdownload.xyz:443/announce	HTTPS	https://paste.is/p/v/e34794ae-1661-44b3-8225-d061da156797#WG8zMzZpRUVzbkNPdGl5N2docG9kdGg3T2RkMWtDZ1YxcFlHV1U5S1EwMkRNcmZjd0F2c09DQlN0c2wxQUQ5MA==
 https://gwp2-v19.rinet.ru:80/announce	HTTPS	https://paste.is/p/v/e34794ae-1661-44b3-8225-d061da156797#WG8zMzZpRUVzbkNPdGl5N2docG9kdGg3T2RkMWtDZ1YxcFlHV1U5S1EwMkRNcmZjd0F2c09DQlN0c2wxQUQ5MA==
 https://tr.kxmp.cf:80/announce	HTTPS	https://paste.is/p/v/e34794ae-1661-44b3-8225-d061da156797#WG8zMzZpRUVzbkNPdGl5N2docG9kdGg3T2RkMWtDZ1YxcFlHV1U5S1EwMkRNcmZjd0F2c09DQlN0c2wxQUQ5MA==
+udp://tracker.openbittorrent.com:6969/announce	UDP	https://thepiratebay.org
+udp://tracker.torrent.eu.org:451/announce	UDP	https://thepiratebay.org
+udp://tracker.bittor.pw:1337/announce	UDP	https://thepiratebay.org
+udp://tracker.opentrackr.org:1337	UDP	https://thepiratebay.org
+udp://public.popcorn-tracker.org:6969/announce	UDP	https://thepiratebay.org
+udp://tracker.dler.org:6969/announce	UDP	https://thepiratebay.org
+udp://exodus.desync.com:6969	UDP	https://thepiratebay.org
+udp://opentracker.i2p.rocks:6969/announce	UDP	https://thepiratebay.org
