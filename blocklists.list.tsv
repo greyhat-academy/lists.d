@@ -3,6 +3,11 @@ DROP	Spamhaus	https://www.spamhaus.org/drop/drop.txt	Security Blocklist	IPv4 Blo
 EDROP	Spamhaus	https://www.spamhaus.org/drop/edrop.txt	Security Blocklist	IPv4 Blocks	Cybercriminal-Controlled Networks (IP Adress Blocks)	https://www.spamhaus.org/drop/
 DROPv6	Spamhaus	https://www.spamhaus.org/drop/dropv6.txt	Security Blocklist	IPv6 Blocks	IPv6 Version of Spamhaus‘ EDROP (IPv6 Blocks)	https://www.spamhaus.org/drop/
 ASN-DROP	Spamhaus	https://www.spamhaus.org/drop/asndrop.txt	Security Blocklist	ASN Numbers	AS List of the EDROP (ASNs)	https://www.spamhaus.org/drop/
+Alpha	Stratosphere Research	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Alpha-latest.csv	Security Blocklist	IPv4 Adresses	All detected Attackers - last 24 hours	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/
+Alpha7	Stratosphere Research	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Alpha7-latest.csv	Security Blocklist	IPv4 Adresses	All detected Attackers - last 7 days	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/
+Prioritize Consistent	Stratosphere Research	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Prioritize_Consistent-latest.csv	Security Blocklist	IPv4 Adresses	Attackers - prioritizing consistent attackers	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/
+Prioritize New	Stratosphere Research	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Prioritize_New-latest.csv	Security Blocklist	IPv4 Adresses	Attackers - prioritzing new attackers	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/
+Last 24 Hours	Stratosphere Research	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP_blacklist_for_IPs_seen_last_24_hours.csv	Security Blocklist	IPv4 Adresses	All detected Attackers - last 24 hours	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/
 OISD-BASIC	OISD	https://dbl.oisd.nl/basic/	Adblocking Blocklist	Domains	Filters the most notorious Ad-Servers (domains)	https://oisd.nl/downloadsXtra
 OISD-FULL	OISD	https://dbl.oisd.nl/	Adblocking Blocklist	Domains	Basically all Ad-Servers	https://oisd.nl/downloadsXtra
 OISD-NSFW	OISD	https://dbl.oisd.nl/nsfw/	Adblocking Blocklist	Domains	Ad-Servers for/from NSFW sites	https://oisd.nl/downloadsXtra
