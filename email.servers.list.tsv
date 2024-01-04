@@ -1,3 +1,3 @@
 Name	IMAP	SMTP	OnionV3	Website	Registration	Notes
 dismail.de	imap.dismail.de:143	smtp.dismail.de:587		https://dismail.de/info.html#email	Requires manual activation via XMPP message from a dismail.de XMPP account, may take some time.	Manual Approval.
-cock.li	mail.cock.li	mail.cock.li	xdkriz6cn2avvcr2vks5lvvtmfojz2ohjzj4fhyuka55mvljeso2ztqd.onion	https://cock.li	Invite Only	OnionV3 Website: http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/
+cock.li	mail.cock.li	mail.cock.li	xdkriz6cn2avvcr2vks5lvvtmfojz2ohjzj4fhyuka55mvljeso2ztqd.onion	https://cock.li	Open, requires manual unlocking of sending via PoW challenge [Python or JS script]	OnionV3 Website: http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion
