@@ -22,5 +22,11 @@ unicast	uncensoreddns.org	ICANN-ROOT	89.233.43.71	2a01:3a0:53:53::	https://unica
 fdns1	dismail	ICANN-ROOT	116.203.32.217	2a01:4f8:1c1b:44aa::1		tls://fdns1.dismail.de:853	fdns1.dismail.de	https://dismail.de/info.html#dns
 fdns2	dismail	ICANN-ROOT	159.69.114.157	2a01:4f8:c17:739a::2		tls://fdns2.dismail.de:853	fdns2.dismail.de	https://dismail.de/info.html#dns
 fra1	ns-global.zone	ICANN-ROOT	45.87.161.35	2a04:5b82:3:8700:0:c0ff:fee3:f93e	-	-	fra1.ns-global.zone	https://ns-global.zone/faq/
+Default	Quad9	ICANN-ROOT	9.9.9.9	2620:fe::fe	https://dns.quad9.net/dns-query	tls://dns.quad9.net	-	https://www.quad9.net/service/service-addresses-and-features
+Default	Quad9	ICANN-ROOT	149.112.112.112	2620:fe::9	https://dns.quad9.net/dns-query	tls://dns.quad9.net	-	https://www.quad9.net/service/service-addresses-and-features
+Secured	Quad9	ICANN-ROOT	9.9.9.11	2620:fe::11	https://dns11.quad9.net/dns-query	tls://dns11.quad9.net	-	https://www.quad9.net/service/service-addresses-and-features
+Secured	Quad9	ICANN-ROOT	149.112.112.11	2620:fe::fe:11	https://dns11.quad9.net/dns-query	tls://dns11.quad9.net	-	https://www.quad9.net/service/service-addresses-and-features
+Unfiltered	Quad9	ICANN-ROOT	9.9.9.10	2620:fe::10	https://dns10.quad9.net/dns-query	tls://dns10.quad9.net	-	https://www.quad9.net/service/service-addresses-and-features
+Unfiltered	Quad9	ICANN-ROOT	149.112.112.10	2620:fe::fe:10	https://dns10.quad9.net/dns-query	tls://dns10.quad9.net	-	https://www.quad9.net/service/service-addresses-and-features
 Public	Google	ICANN-ROOT	8.8.8.8	2001:4860:4860::8888	-	-	dns.google	https://developers.google.com/speed/public-dns/docs/using
 Public	Google	ICANN-ROOT	8.8.4.4	2001:4860:4860::8844	-	-	dns.google	https://developers.google.com/speed/public-dns/docs/using
