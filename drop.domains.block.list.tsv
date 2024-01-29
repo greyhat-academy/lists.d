@@ -3,9 +3,7 @@
 #	This contains the Domains Blocks of Rogue ISPs and subsequent Reasons
 #	Last-Modified	UNIXTIME:	1692468000
 
-##	Malicious TLDs
-
-#	*.zip
-###	.zip is almost exclusively used for malware.
-####	It has been commented out pending investigation.
-#####	See https://github.com/greyhat-academy/lists.d/issues/29
+#	Kiwifarms
+##	Notorius hategrooming site
+###	See:	https://en.wikipedia.org/wiki/Kiwi_Farms for details
+kiwifarms.net
