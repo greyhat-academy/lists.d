@@ -21,6 +21,6 @@ nts.sth2.ntp.se	NetNod	Stockholm, Sweden	194.58.202.218	2a01:3f7::1	YES	SINGLE	h
 time.esa.int	esa	Anycast			UNKNOWN	POOL	https://microwavelaboratory.com/portfolio-item/utc-coordinated-universal-time/	ESA's official NTP Server - Anycast Pool from within the EU.
 time1.esa.int	esa	Kassel, Germany	131.176.107.13		UNKNOWN	SINGLE	https://www.ip-tracker.org/lookup.php?ip=time.esa.int	Primary NTP Server by ESA. Used if multiple adresses are required.
 ntp.time.nl	SIDN Labs	Anycast			UNKNOWN	POOL	https://time.nl/index_en.html	SIDN Labs' NTP Server Pool from the Netherlands.
-ntp1.dismail.de	dismail.de	???	116.203.17.238	2a01:4f8:1c0c:4339::123	UNKNOWN	SINGLE	https://dismail.de/info.html#ntp	Primary NTP Server by dismail.de
-ntp2.dismail.de	dismail.de	???	80.241.218.68	2a02:c205:3001:4558::1	UNKNOWN	SINGLE	https://dismail.de/info.html#ntp	Secondary NTP Server by dismail.de
-ntp3.dismail.de	dismail.de	???	78.46.223.134 	2a01:4f8:c17:e5e::2	UNKNOWN	SINGLE	https://dismail.de/info.html#ntp	Tetriary NTP Server by dismail.de
+ntp1.dismail.de	dismail.de	-undisclosed location-	116.203.17.238	2a01:4f8:1c0c:4339::123	UNKNOWN	SINGLE	https://dismail.de/info.html#ntp	Primary NTP Server by dismail.de
+ntp2.dismail.de	dismail.de	-undisclosed location-	80.241.218.68	2a02:c205:3001:4558::1	UNKNOWN	SINGLE	https://dismail.de/info.html#ntp	Secondary NTP Server by dismail.de
+ntp3.dismail.de	dismail.de	-undisclosed location-	78.46.223.134 	2a01:4f8:c17:e5e::2	UNKNOWN	SINGLE	https://dismail.de/info.html#ntp	Tetriary NTP Server by dismail.de
