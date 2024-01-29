@@ -1,5 +1,7 @@
 IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 357943035089390	WWAN-MODEM	Huawei	E160	https://www.ebay.de/itm/114743211215
+355856028196091	WWAN-MODEM	Huawei	E160E	https://www.ebay.de/itm/264766706313
+358108025961243	WWAN-MODEM	Huawei	E172	https://www.ebay.de/itm/271806913225
 864172045479278	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/401544571863
 867377028121774	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/133147749807
 867377021080654	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/224238363553
@@ -8,70 +10,58 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 867377024231478	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/324423058011
 867377020318808	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/184655427190
 867377020457937	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/254407050143
+868368040002066	WWAN-MODEM	Huawei	Me909s-120p V2	https://www.ebay.de/itm/154848198990
 867160023375037	WWAN-MODEM	Huawei	ME906s-158	https://www.ebay.de/itm/224311289871
 356581070046130	WWAN-MODEM	Huawei	ME906s-158	https://www.ebay.de/itm/163799706144
-863212030054826	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/274646058252
-015550005763393	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/402562138788
-015184001831242	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/133485833900
-867603020000207	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/353411699483
-015184008649688	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/333786927321
-355856028196091	WWAN-MODEM	Huawei	E160E	https://www.ebay.de/itm/264766706313
-358108025961243	WWAN-MODEM	Huawei	E172	https://www.ebay.de/itm/271806913225
-869887030131098	PHONE	Inrico	TM-7Plus	https://www.amazon.de/dp/B08354JTH3
-869887030131106	PHONE	Inrico	TM-7Plus	https://www.amazon.de/dp/B08354JTH3
-350390011590776	HANDHELD	Gizmondo	GZ-1 Smart Adds	https://youtu.be/dv6UaHZxUys?t=28
-359079072468135	WWAN-ROUTER	Netgear	LB2110	https://www.amazon.de/dp/B07915QQBX
-356450050132197	WWAN-MODEM	Sierra Wireless	EM7355	https://www.amazon.de/gp/product/B07G73J88D
-012810000392298	WWAN-MODEM	Sierra Wireless	MC7700	https://www.amazon.de/gp/product/B07WPYPZMF
-013937003271275	WWAN-MODEM	Sierra Wireless	EM7345	https://www.amazon.de/dp/B078W3LXKL
-356195050441698	WWAN-MODEM	Sierra Wireless	MC7355	https://www.amazon.de/dp/B00XLAWR3E
-352375017184342	WWAN-MODEM	Option	GTM378	https://www.ebay.de/itm/332175570405
-355201007538783	WWAN-MODEM	O2	Surf@Home II	https://en.wikipedia.org/wiki/MAC_address#/media/File:UMTS_Router_Surf@home_II,_o2-0017.jpg
-866442043681029	WWAN-MODEM	MUAMA	Ryoko	https://youtu.be/mYly1irRrBE?t=724
-354480080368455	WWAN-MODEM	Sierra Wireless	EM7455	https://www.amazon.de/dp/B07PG1KV67
-860461020018696	WWAN-MODEM	Huawei	ME909u-521	https://www.amazon.de/dp/B00NPX09QY
 356581070017750	WWAN-MODEM	Huawei	ME906s-158	https://www.amazon.de/dp/B09NCYF9Y7
 356581071940554	WWAN-MODEM	Huawei	ME906s-158	https://www.amazon.de/dp/B08JPNVMPG
-359337050342701	WWAN-MODEM	Telit	LN930-AP	https://www.amazon.de/dp/B07D6FYWM7
-862636050022076	WWAN-MODEM	SIMcom	SIM7600G	https://www.amazon.de/dp/B091PXGBXY
-355606052083057	WWAN-MODEM	Sierra Wireless	EM8805	https://www.amazon.de/dp/B07WRQK3GB
-865234030176928	WWAN-MODEM	SIMcom	SIM7000E	https://www.amazon.de/dp/B07DL9GFM1
-869035030416347	WWAN-ROUTER	-unknown-	-unknown-	https://www.amazon.de/dp/B0921TNNVG
-869035030247650	WWAN-ROUTER	-unknown-	-unknown-	https://www.amazon.de/dp/B0921TNNVG
-359235100003952	WWAN-MODEM	Dell	DW5821e-eSIM	https://de.aliexpress.com/item/1005003091356700.html
-352280110013838	WWAN-MODEM	Dell	DW5930e-eSIM	https://de.aliexpress.com/item/1005003821626657.html
-355298100001669	WWAN-MODEM	Sierra Wireless	WP7607	https://www.amazon.de/dp/B085Y6T792
-354324070030578	WWAN-MODEM	Sierra Wireless	EM7455	https://www.amazon.de/dp/B0783N98MR
-355569041125217	WWAN-MODEM	Sierra Wireless	MC8355	https://www.amazon.de/dp/B0759ZM93T
-357409038018182	PHONE	Simvalley	PW-315.touch	https://derstandard.at/1360161329508/PW-315touch-im-Test-Eine-Handy-Uhr-als-Smartwatch-Alternative
-345231234541122	WWAN-MODEM	Quectel	EC20	https://www.mhzshop.com/shop/3G-4G-5G/Carte-3G-4G-LoRa/Carte-Mini-PCIe-4G-LTE-Quectel-4G-LTE-Express-EC20-E.html
+860461020018696	WWAN-MODEM	Huawei	ME909u-521	https://www.amazon.de/dp/B00NPX09QY
+015184001831242	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/133485833900
+015184008649688	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/333786927321
+015550005763393	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/402562138788
 349324080068712	WWAN-MODEM	Fibocom	L850-GL	https://www.amazon.de/dp/B07YB7ZVKT
+863212030054826	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/274646058252
+867603020000207	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/353411699483
+013937003271275	WWAN-MODEM	Sierra Wireless	EM7345	https://www.amazon.de/dp/B078W3LXKL
+356195050441698	WWAN-MODEM	Sierra Wireless	MC7355	https://www.amazon.de/dp/B00XLAWR3E
+356450050132197	WWAN-MODEM	Sierra Wireless	EM7355	https://www.amazon.de/gp/product/B07G73J88D
+354480080368455	WWAN-MODEM	Sierra Wireless	EM7455	https://www.amazon.de/dp/B07PG1KV67
+354324070030578	WWAN-MODEM	Sierra Wireless	EM7455	https://www.amazon.de/dp/B0783N98MR
+355298100001669	WWAN-MODEM	Sierra Wireless	WP7607	https://www.amazon.de/dp/B085Y6T792
+012810000392298	WWAN-MODEM	Sierra Wireless	MC7700	https://www.amazon.de/gp/product/B07WPYPZMF
 012810001240629	WWAN-MODEM	Sierra Wireless	MC7700	https://www.amazon.de/dp/B08JTGSFBV
 012810000240240	WWAN-MODEM	Sierra Wireless	MC7700	https://www.amazon.de/dp/B08D9HT1K4
 012810000121358	WWAN-MODEM	Sierra Wireless	MC7700	https://www.ebay.de/itm/284817744854
-868368040002066	WWAN-MODEM	Huawei	Me909s-120p V2	https://www.ebay.de/itm/154848198990
-357611107043080	SMARTPHONE	ANØM	Phone	https://youtu.be/eeN5ao43L-4?t=5
-357511107043098	SMARTPHONE	ANØM	Phone	https://youtu.be/eeN5ao43L-4?t=5
-867698042520893	WWAN-MODEM	Quectel	EG25-G	https://esim.plus/product/esim-dongle/
-866680040260129	WWAN-MODEM	Quectel	EM06-E	https://www.amazon.de/dp/B089F1PW1Z
-862295951149773	WWAN-MODEM	SIMCom	A7670E	https://www.amazon.de/dp/B097K14K18
+355569041125217	WWAN-MODEM	Sierra Wireless	MC8355	https://www.amazon.de/dp/B0759ZM93T
+352375017184342	WWAN-MODEM	Option	GTM378	https://www.ebay.de/itm/332175570405
 354153049046625	WWAN-MODEM	Option	GTM671W	https://www.newegg.com/p/2S7-07JP-26601
+359337050342701	WWAN-MODEM	Telit	LN930-AP	https://www.amazon.de/dp/B07D6FYWM7
+355606052083057	WWAN-MODEM	Sierra Wireless	EM8805	https://www.amazon.de/dp/B07WRQK3GB
+865234030176928	WWAN-MODEM	SIMcom	SIM7000E	https://www.amazon.de/dp/B07DL9GFM1
+359235100003952	WWAN-MODEM	Dell	DW5821e-eSIM	https://de.aliexpress.com/item/1005003091356700.html
+352280110013838	WWAN-MODEM	Dell	DW5930e-eSIM	https://de.aliexpress.com/item/1005003821626657.html
+866680040260129	WWAN-MODEM	Quectel	EM06-E	https://www.amazon.de/dp/B089F1PW1Z
+345231234541122	WWAN-MODEM	Quectel	EC20	https://www.mhzshop.com/shop/3G-4G-5G/Carte-3G-4G-LoRa/Carte-Mini-PCIe-4G-LTE-Quectel-4G-LTE-Express-EC20-E.html
+867698042520893	WWAN-MODEM	Quectel	EG25-G	https://esim.plus/product/esim-dongle/
+868333031634195	WWAN-MODEM	SIMcom	SIM7020E	https://www.berrybase.de/sim7020e-nb-iot-modul-fuer-raspberry-pi-pico
+862636050022076	WWAN-MODEM	SIMcom	SIM7600G	https://www.amazon.de/dp/B091PXGBXY
+862295951149773	WWAN-MODEM	SIMCom	A7670E	https://www.amazon.de/dp/B097K14K18
 860719025598305	WWAN-MODEM	SIMcom	S2-105HE-Z141B	https://www.amazon.de/dp/B081JPP3TD
 867857032911864	WWAN-MODEM	SIMcom	SIM868	https://www.berrybase.de/sim868-gsm/gprs/gnss-modul-fuer-raspberry-pi-pico
-868333031634195	WWAN-MODEM	SIMcom	SIM7020E	https://www.berrybase.de/sim7020e-nb-iot-modul-fuer-raspberry-pi-pico
-300434063206770	SATELLITE-MODEM	Sparkfun	RockBLOCK 9603	https://youtu.be/ym4-ZckfXg4?t=64
-300234065790910	SATELLITE-MODEM	Sparkfun	RockBLOCK9602	https://youtu.be/ym4-ZckfXg4?t=64
-300234063797650	SATELLITE-MODEM	Iridium	9602	https://youtu.be/r-J0OmK5XiE?t=23
-300215050153250	SATELLITE-MODEM	Iridium	9603	https://youtu.be/r-J0OmK5XiE?t=23
-300038254007350	SATELLITE-MODEM	Iridium	9810	https://youtu.be/r-J0OmK5XiE?t=23
-300058060001070	SATELLITE-MODEM	Iridium	9770	https://youtu.be/r-J0OmK5XiE?t=23
-300215010402790	SATELLITE-PHONE	Iridium	9575	https://youtu.be/fSaYHVF0x_8?t=3
-300315060109050	SATELLITE-PHONE	Iridium	9575 PTT	https://youtu.be/Ed2fk325Vb0
-300325656863979	SATELLITE-MODEM	Iridium	9560 Go!	https://youtu.be/bwg4rAZdx9M?t=49
-300434051995630	SATELLITE-MODEM	Iridium	9603	https://www.iridium.com/developer-resources/#devres-terminals
-300125060153250	SATELLITE-MODEM	Iridium	9523 Core	https://www.iridium.com/products/iridium-core-9523/
-300058060001070	SATELLITE-MODEM	Iridium	9770 Certus	https://www.iridium.com/products/iridium-certus-9770/
-300008060003350	SATELLITE-MODEM	Iridium	9810 Certus	https://www.iridium.com/products/?fwp_product_type=developer-products
+866442043681029	WWAN-ROUTER	MUAMA	Ryoko	https://youtu.be/mYly1irRrBE?t=724
+355201007538783	WWAN-ROUTER	O2	Surf@Home II	https://en.wikipedia.org/wiki/MAC_address#/media/File:UMTS_Router_Surf@home_II,_o2-0017.jpg
+869798055711641	WWAN-ROUTER	Simvalley	WiFi mini JM01N	https://www.amazon.de/dp/B0BX6CTZ56
+862506045677153	WWAN-ROUTER	Tenda	4G06	https://www.ebay.de/itm/364569931873
+865144050307164	WWAN-ROUTER	China Unicom	5G VN007+	https://www.ebay.de/itm/314824552443
+359079072468135	WWAN-ROUTER	Netgear	LB2110	https://www.amazon.de/dp/B07915QQBX
+869035030416347	WWAN-ROUTER	-unknown-	-unknown-	https://www.amazon.de/dp/B0921TNNVG
+869035030247650	WWAN-ROUTER	-unknown-	-unknown-	https://www.amazon.de/dp/B0921TNNVG
+350390011590776	HANDHELD	Gizmondo	GZ-1 Smart Adds	https://youtu.be/dv6UaHZxUys?t=28
+869887030131098	PHONE	Inrico	TM-7Plus	https://www.amazon.de/dp/B08354JTH3
+869887030131106	PHONE	Inrico	TM-7Plus	https://www.amazon.de/dp/B08354JTH3
+357409038018182	PHONE	Simvalley	PW-315.touch	https://derstandard.at/1360161329508/PW-315touch-im-Test-Eine-Handy-Uhr-als-Smartwatch-Alternative
+357611107043080	PHONE	ANØM	Phone	https://youtu.be/eeN5ao43L-4?t=5
+357511107043098	PHONE	ANØM	Phone	https://youtu.be/eeN5ao43L-4?t=5
 355562016169568	PHONE	Motorola	V3xx	https://youtu.be/PmGP86bmAnE?t=21
 353056113817956	PHONE	Apple	iPhone 12	https://www.youtube.com/watch?v=FY7DtKMBxBw&t=121s
 353056113986108	PHONE	Apple	iPhone 12	https://www.youtube.com/watch?v=FY7DtKMBxBw&t=121s
@@ -87,7 +77,20 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 866207150748170	PHONE	SOYES	XS13	https://www.youtube.com/watch?v=CfOEeydN4x0&t=101s
 866207150748188	PHONE	SOYES	XS13	https://www.youtube.com/watch?v=CfOEeydN4x0&t=101s
 359645050209848	PHONE	Jolla	Jolla Phone	https://www.youtube.com/watch?v=HzCMKbhK-EY&t=109s
-862506045677153	WWAN-ROUTER	Tenda	4G06	https://www.ebay.de/itm/364569931873
-865144050307164	WWAN-ROUTER	China Unicom	5G VN007+	https://www.ebay.de/itm/314824552443
-300434063064170	SATTELITE-MODEM	Iriridum	9603N Core	https://www.iridium.com/products/16130-mini-pcie-adapter/
-869798055711641	WWAN-ROUTER	Simvalley	WiFi mini JM01N	https://www.amazon.de/dp/B0BX6CTZ56
+300434063206770	SATELLITE-MODEM	Sparkfun	RockBLOCK 9603	https://youtu.be/ym4-ZckfXg4?t=64
+300234065790910	SATELLITE-MODEM	Sparkfun	RockBLOCK9602	https://youtu.be/ym4-ZckfXg4?t=64
+300234063797650	SATELLITE-MODEM	Iridium	9602	https://youtu.be/r-J0OmK5XiE?t=23
+300215050153250	SATELLITE-MODEM	Iridium	9603	https://youtu.be/r-J0OmK5XiE?t=23
+300038254007350	SATELLITE-MODEM	Iridium	9810	https://youtu.be/r-J0OmK5XiE?t=23
+300058060001070	SATELLITE-MODEM	Iridium	9770	https://youtu.be/r-J0OmK5XiE?t=23
+300434051995630	SATELLITE-MODEM	Iridium	9603	https://www.iridium.com/developer-resources/#devres-terminals
+300058060001070	SATELLITE-MODEM	Iridium	9770 Certus	https://www.iridium.com/products/iridium-certus-9770/
+300008060003350	SATELLITE-MODEM	Iridium	9810 Certus	https://www.iridium.com/products/?fwp_product_type=developer-products
+300434063064170	SATELLITE-MODEM	Iriridum	9603N Core	https://www.iridium.com/products/16130-mini-pcie-adapter/
+300434068348750	SATELLITE-MODEM	Ground Control	RockBLOCK 9603	https://www.groundcontrol.com/en/product/rockblock-9603-compact-plug-and-play-satellite-transmitter/
+300534064315160	SATELLITE-MODEM	Ground Control	RockBLOCK 9602 (Mk 2)	https://www.groundcontrol.com/en/product/rockblock-9602-satellite-modem/
+300125060153250	SATELLITE-MODEM	Iridium	9523 Core	https://www.iridium.com/products/iridium-core-9523/
+300125062243330	SATELLITE-MODEM	Iridium	9523N	https://www.groundcontrol.com/en/product/iridium-9523n/
+300325656863979	SATELLITE-MODEM	Iridium	9560 Go!	https://youtu.be/bwg4rAZdx9M?t=49
+300215010402790	SATELLITE-PHONE	Iridium	9575	https://youtu.be/fSaYHVF0x_8?t=3
+300315060109050	SATELLITE-PHONE	Iridium	9575 PTT	https://youtu.be/Ed2fk325Vb0
