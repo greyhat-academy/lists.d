@@ -2,19 +2,22 @@ NAME	PROVIDER	FEED URL	TYPE	Filter Type	COMMENT	WEBSITE
 DROP	Spamhaus	https://www.spamhaus.org/drop/drop.txt	Security Blocklist	IPv4 Blocks	Illegitimate Networks (IP Adress Blocks)	https://www.spamhaus.org/drop/
 EDROP	Spamhaus	https://www.spamhaus.org/drop/edrop.txt	Security Blocklist	IPv4 Blocks	Cybercriminal-Controlled Networks (IP Adress Blocks)	https://www.spamhaus.org/drop/
 DROPv6	Spamhaus	https://www.spamhaus.org/drop/dropv6.txt	Security Blocklist	IPv6 Blocks	IPv6 Version of Spamhaus‘ EDROP (IPv6 Blocks)	https://www.spamhaus.org/drop/
-ASN-DROP	Spamhaus	https://www.spamhaus.org/drop/asndrop.txt	Security Blocklist	ASN Numbers	AS List of the EDROP (ASNs)	https://www.spamhaus.org/drop/
+ASN-DROP	Spamhaus	https://www.spamhaus.org/drop/asndrop.json	Security Blocklist	ASN Numbers	AS List of the EDROP (ASNs) - JSON file	https://www.spamhaus.org/drop/
 Alpha	Stratosphere Research	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Alpha-latest.csv	Security Blocklist	IPv4 Adresses	All detected Attackers - last 24 hours	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/
 Alpha7	Stratosphere Research	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Alpha7-latest.csv	Security Blocklist	IPv4 Adresses	All detected Attackers - last 7 days	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/
 Prioritize Consistent	Stratosphere Research	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Prioritize_Consistent-latest.csv	Security Blocklist	IPv4 Adresses	Attackers - prioritizing consistent attackers	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/
 Prioritize New	Stratosphere Research	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Prioritize_New-latest.csv	Security Blocklist	IPv4 Adresses	Attackers - prioritzing new attackers	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/
 Last 24 Hours	Stratosphere Research	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP_blacklist_for_IPs_seen_last_24_hours.csv	Security Blocklist	IPv4 Adresses	All detected Attackers - last 24 hours	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/
-OISD-BASIC	OISD	https://dbl.oisd.nl/basic/	Adblocking Blocklist	Domains	Filters the most notorious Ad-Servers (domains)	https://oisd.nl/downloadsXtra
-OISD-FULL	OISD	https://dbl.oisd.nl/	Adblocking Blocklist	Domains	Basically all Ad-Servers	https://oisd.nl/downloadsXtra
-OISD-NSFW	OISD	https://dbl.oisd.nl/nsfw/	Adblocking Blocklist	Domains	Ad-Servers for/from NSFW sites	https://oisd.nl/downloadsXtra
+OISD-BASIC	OISD	https://small.oisd.nl/domainswild2	Adblocking Blocklist	Domains	Filters the most notorious Ad-Servers (domains)	https://oisd.nl/setup
+OISD-FULL	OISD	https://big.oisd.nl/domainswild2	Adblocking Blocklist	Domains	Basically all Ad-Servers	https://oisd.nl/setup
+OISD-NSFW	OISD	https://nsfw.oisd.nl/domainswild2	Adblocking Blocklist	Domains	Ad-Servers for/from NSFW sites	https://oisd.nl/setup
 Adserver Blocklist	Peter Lowe	https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts;showintro=0;useip=	Adblocking Blocklist	Domains	Manually maintained for over two decades, good quality	https://pgl.yoyo.org/adservers/
 Adserver IP Blocklist	Peter Lowe	https://pgl.yoyo.org/as/iplist.php?showintro=0	Adblocking Blocklist	IPv4 Adresses	Manually maintained for over two decades, good quality	https://pgl.yoyo.org/adservers/
 Tracker Blocklist	Peter Lowe	https://pgl.yoyo.org/as/serverlist.php?showintro=0;onlytrackers=1;useip=	Tracking Blocklist	Domains	Same as Adserver Blocklist by Peter Lowe, but only trackers	https://pgl.yoyo.org/adservers/
 Ads Blocklist	Peter Lowe	https://pgl.yoyo.org/as/serverlist.php?showintro=0;notrackers=1;useip=	Advertising Blocklist	Domains	Same as Adserver Blocklist by Peter Lowe, but only ads	https://pgl.yoyo.org/adservers/
+Ad Servers	AdAway	https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt	Adblocking Blocklist	HOSTS File	Blackholes domains to localhost	https://adaway.org/
+Tor Exit Node List	Tor Project	https://check.torproject.org/torbulkexitlist	Server List	IPv4 Adresses	Lists all Tor Exit Nodes	https://gitweb.torproject.org/tor.git/plain/contrib/operator-tools/tor-exit-notice.html
+GPT Scraping Bots	OpenAI	https://openai.com/gptbot-ranges.txt	Advanced Blocklist	IPv4 Blocks	IP Adresses used by scaping Bots	https://platform.openai.com/docs/gptbot
 lists.d ASN-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.asn.block.list.tsv	Advanced Blocklist	ASNs	Rogue ISPs	https://github.com/greyhat-academy/lists.d
 lists.d IPv4-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv4.block.list.tsv	Advanced Blocklist	IPv4 Blocks	Rogue ISPs	https://github.com/greyhat-academy/lists.d
 lists.d IPv6-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv6.block.list.tsv	Advanced Blocklist	IPv6 Blocks	Rogue ISPs	https://github.com/greyhat-academy/lists.d
@@ -23,9 +26,6 @@ lists.d Spammers	Greyhat Academy	https://github.com/greyhat-academy/lists.d/raw/
 lists.d MilIntel-IPv4	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/milintel.ipv4.block.list.tsv	Advanced Blocklist	IPv4 Blocks	Military and Intelligence Networks	https://github.com/greyhat-academy/lists.d
 lists.d Gambling	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/gambling.domains.block.list.tsv	Supportive Blocklist	Domains	Gambling Sites	https://github.com/greyhat-academy/lists.d
 lists.d AI CONTENT	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/ai.content.domains.block.list.tsv	Advanced Blocklist	Domains	AI Content-Spam Sites	https://github.com/greyhat-academy/lists.d
-Tor Exit Node List	Tor Project	https://check.torproject.org/torbulkexitlist	Server List	IPv4 Adresses	Lists all Tor Exit Nodes	https://gitweb.torproject.org/tor.git/plain/contrib/operator-tools/tor-exit-notice.html
-Ad Servers	AdAway	https://adaway.org/hosts.txt	Adblocking Blocklist	HOSTS File	Blackholes domains to localhost	https://adaway.org/
-GPT Scraping Bots	OpenAI	https://openai.com/gptbot-ranges.txt	Advanced Blocklist	IPv4 Blocks	IP Adresses used by scaping Bots	https://platform.openai.com/docs/gptbot
 lists.d ActivityPub	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.domains.block.list.tsv	Application - Specific	Domains	Toxic ActivityPub Instances	https://github.com/greyhat-academy/lists.d
 lists.d Activitipub Bots Blocklist	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.bots.block.list.tsv	Application - Specific	Accounts	AI Bots	https://github.com/greyhat-academy/lists.d
 lists.d ActivityPub Threads Blocklist	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.threads.block.list.tsv	Application - Specific	Domains	ActicityPub instances that federate with NSAbook / StasiBook	https://github.com/greyhat-academy/lists.d
