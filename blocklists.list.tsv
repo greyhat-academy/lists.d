@@ -10,7 +10,6 @@ Prioritize New	Stratosphere Research	https://mcfp.felk.cvut.cz/publicDatasets/CT
 Last 24 Hours	Stratosphere Research	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP_blacklist_for_IPs_seen_last_24_hours.csv	Security Blocklist	IPv4 Adresses	All detected Attackers - last 24 hours	https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/
 OISD-BASIC	OISD	https://small.oisd.nl/domainswild2	Adblocking Blocklist	Domains	Filters the most notorious Ad-Servers (domains)	https://oisd.nl/setup
 OISD-FULL	OISD	https://big.oisd.nl/domainswild2	Adblocking Blocklist	Domains	Basically all Ad-Servers	https://oisd.nl/setup
-OISD-NSFW	OISD	https://nsfw.oisd.nl/domainswild2	Adblocking Blocklist	Domains	Ad-Servers for/from NSFW sites	https://oisd.nl/setup
 Adserver Blocklist	Peter Lowe	https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts;showintro=0;useip=	Adblocking Blocklist	Domains	Manually maintained for over two decades, good quality	https://pgl.yoyo.org/adservers/
 Adserver IP Blocklist	Peter Lowe	https://pgl.yoyo.org/as/iplist.php?showintro=0	Adblocking Blocklist	IPv4 Adresses	Manually maintained for over two decades, good quality	https://pgl.yoyo.org/adservers/
 Tracker Blocklist	Peter Lowe	https://pgl.yoyo.org/as/serverlist.php?showintro=0;onlytrackers=1;useip=	Tracking Blocklist	Domains	Same as Adserver Blocklist by Peter Lowe, but only trackers	https://pgl.yoyo.org/adservers/
