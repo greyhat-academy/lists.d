@@ -3,21 +3,18 @@
 #	This list contains domains of toxic ActivityPub instances
 #	Last-Modified	UNIXTIME:	1705499500
 
-#	The Bad Space
-##	Abusive Blocklist
-thebad.space
-##	Instances maintained by the same people which also use it as a means of directing harrassment.
-mastodon.art
-ubiqueros.com
-###	Ban evasion
-h-i.social
-#	#
-
 #	BlueSky
 ##	Hosting Neonazis & CSAM
 ###	See https://github.com/greyhat-academy/lists.d/issues/35
 bsky.social
 bsky.app
+#	#
+
+#	BlueSky Bridge
+##	Being only opt-out and without explicit consent
+###	See	https://github.com/greyhat-academy/lists.d/issues/51
+snarfed.org
+brid.gy
 #	#
 
 #	Project 92/Instagram fedi integration (codenamed Barcelona)
@@ -27,6 +24,17 @@ threads.instagram.com
 threads.net
 #	for a list of instances that are federating with Threads, please see: activitypub.threads.domains.block.list.tsv
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.threads.domains.block.list.tsv
+#	#
+
+
+#	The Bad Space
+##	Abusive Blocklist
+thebad.space
+##	Instances maintained by the same people which also use it as a means of directing harrassment.
+mastodon.art
+ubiqueros.com
+###	Ban evasion
+h-i.social
 #	#
 
 #	BBC
@@ -92,6 +100,7 @@ shadowsocial.org
 
 #	Literal Neonazis
 skinheads.social
+social.mooneyed.de
 #	#
 
 ##	Admin is a known serial harrasser by their own admission:
