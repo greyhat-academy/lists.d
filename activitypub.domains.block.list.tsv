@@ -3,6 +3,12 @@
 #	This list contains domains of toxic ActivityPub instances
 #	Last-Modified	UNIXTIME:	1705499500
 
+#	Threatening Maintainers personally with harrassment
+##	See:	https://github.com/greyhat-academy/lists.d/issues/52
+social.mooneyed.de
+bka.li
+#	#
+
 #	BlueSky
 ##	Hosting Neonazis & CSAM
 ###	See https://github.com/greyhat-academy/lists.d/issues/35
@@ -100,8 +106,6 @@ shadowsocial.org
 
 #	Literal Neonazis
 skinheads.social
-social.mooneyed.de
-#	#
 
 ##	Admin is a known serial harrasser by their own admission:
 ###	https://github.com/kkarhan/misc-stuff/pull/3#issue-2085835876
