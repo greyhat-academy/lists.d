@@ -106,3 +106,13 @@ social.mooneyed.de
 ##	Admin is a known serial harrasser by their own admission:
 ###	https://github.com/kkarhan/misc-stuff/pull/3#issue-2085835876
 catcatnya.com
+
+##	prevent automatic blocks via imported blocklists of accounts hosted on their site.
+rage.love
+weirder.earth
+slime.computer
+solarpunk.moe
+
+#	Sussy domains
+##	Instances that not allow accessing the about page or see any profiles of users, thus preventing any reports and blocks of users.
+artcrimes.gay
