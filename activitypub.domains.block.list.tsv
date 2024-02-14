@@ -3,10 +3,16 @@
 #	This list contains domains of toxic ActivityPub instances
 #	Last-Modified	UNIXTIME:	1705499500
 
-#	Threatening Maintainers personally with harrassment
-##	See:	https://github.com/greyhat-academy/lists.d/issues/52
+#	"Kromonos"
+##	Threatening Maintainers personally with harrassment
+###	See:	https://github.com/greyhat-academy/lists.d/issues/52
 social.mooneyed.de
+mooneyed.se
 bka.li
+#	#
+##	Ban Evasion
+pl.teleyal.blog
+teleyal.blog
 #	#
 
 #	BlueSky
@@ -31,7 +37,6 @@ threads.net
 #	for a list of instances that are federating with Threads, please see: activitypub.threads.domains.block.list.tsv
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.threads.domains.block.list.tsv
 #	#
-
 
 #	The Bad Space
 ##	Abusive Blocklist
@@ -106,17 +111,21 @@ shadowsocial.org
 
 #	Literal Neonazis
 skinheads.social
+#	#
 
 ##	Admin is a known serial harrasser by their own admission:
 ###	https://github.com/kkarhan/misc-stuff/pull/3#issue-2085835876
 catcatnya.com
+#	#
 
 ##	prevent automatic blocks via imported blocklists of accounts hosted on their site.
 rage.love
 weirder.earth
 slime.computer
 solarpunk.moe
+#	#
 
 #	Sussy domains
 ##	Instances that not allow accessing the about page or see any profiles of users, thus preventing any reports and blocks of users.
 artcrimes.gay
+#	#
