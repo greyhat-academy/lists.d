@@ -1,6 +1,16 @@
 MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
+0050F2102F0C	Microsoft	Xbox	Console	MVG	Xbox Debug Kit	https://youtu.be/jR46e-HU06c?t=289
+0050F2102F0D	Microsoft	Xbox	Console	MVG	Xbox Debug Kit	https://youtu.be/jR46e-HU06c?t=293
 000102030405	Microsoft	XBOX 360 Slim	Console	MVG	XELL Default MAC	https://youtu.be/Vq1lxeg_gNs?t=16
 001DD823904E	Microsoft	XBOX 360	Console	ILii4M	RGH‘d Xbox 360	https://youtu.be/Vv69hLe1D8w?t=57
+0022481B187C	Microsoft	Xbox 360	Console	TheRetroChannel	RGH'd Xbox 360	https://www.youtube.com/watch?v=XqcbPxhvyaE&t=2195s
+70480F5FCE3A	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=399
+70480F5FCE3B	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=399
+9CF48E6D1CCE	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=497
+9CF48E6D1CF3	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=497
+A4B8058D85F0	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=1444
+A4B8058D85F1	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=1444
+003EE1C96E9C	Apple	iPhone X	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=42
 AC49DB37018D	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Bought for Repairability Testing	https://youtu.be/8s7NmMl_-yg?t=92
 AC49DB313634	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Bought for Repairability Testing	https://youtu.be/8s7NmMl_-yg?t=92
 F465A68BC5F5	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Bought for Repairability Testing	https://youtu.be/8s7NmMl_-yg?t=92
@@ -10,20 +20,12 @@ F465A68A6338	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Bought for Repairabili
 239A380779DC	HP	ProBook	Laptop	Dept. Of Corrections	TV Series	https://youtu.be/6JhQEvLftOI?t=181
 93BE85933D43	HP	ProBook	Laptop	Dept. Of Corrections	TV Series	https://youtu.be/6JhQEvLftOI?t=186
 4024D7CEF757	MultiBlue	Dongle	Ext. Adaptor	Elliot	TV Series	https://youtu.be/6JhQEvLftOI?t=173
-70480F5FCE3A	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=399
-70480F5FCE3B	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=399
-9CF48E6D1CCE	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=497
-9CF48E6D1CF3	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=497
-A4B8058D85F0	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=1444
-A4B8058D85F1	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=1444
 0025F901121C	Weytec	MK06	KVM-Keyboard	Chyrosran22	Trading Terminal Keyboard	https://youtu.be/1FHkQpYBygE?t=429
 DCEF097FCD4F	Netgear	LB2110	WWAN Router	Amazon	LTE Router	https://www.amazon.de/dp/B07915QQBX
 00041FB94419	Sony	DTP-T1000	Console	MVG	PSP Devkit	https://youtu.be/vY1j30jzRsE?t=234
 00014A1E4ABC	Sony	DTP-T1000	Console	MVG	PSP Devkit	https://youtu.be/vY1j30jzRsE?t=459
 B827EB3B9658	Raspberry Pi	Model 3B+	SBC	Amazon	Sample Output	https://www.amazon.de/dp/B07QNKCLJM
 00224334173E	Atheros	AR9280	WIFI Module	Amazon	Product Image	https://www.amazon.de/gp/product/B08GKHSH49
-0050F2102F0C	Microsoft	Xbox	Console	MVG	Xbox Debug Kit	https://youtu.be/jR46e-HU06c?t=289
-0050F2102F0D	Microsoft	Xbox	Console	MVG	Xbox Debug Kit	https://youtu.be/jR46e-HU06c?t=293
 00098C006963	O2	Surf@Home II	WWAN Router	Raimond Spekking	Wikimedia Commons	https://en.wikipedia.org/wiki/MAC_address#/media/File:UMTS_Router_Surf@home_II,_o2-0017.jpg
 0014A541616B	O2	Surf@Home II	WWAN Router	Raimond Spekking	Wikimedia Commons	https://en.wikipedia.org/wiki/MAC_address#/media/File:UMTS_Router_Surf@home_II,_o2-0017.jpg
 C05B12278609	MUAMA	Ryoko	WWAN Router	Krazy Ken	Review Device	https://youtu.be/mYly1irRrBE?t=725
@@ -40,7 +42,6 @@ E263DA2C2636	Samsung	-	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx
 4401BB641283	Android	-	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
 CCFD17B47F7D	Apple	-	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
 7683C22ACDD6	Ubiquiti	UDM	WWAN Router	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
-003EE1C96E9C	Apple	iPhone X	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=42
 0026B6F6BD40	Atheros	AR9280	WIFI Module	eBay	Product Image	https://www.ebay.es/itm/264428470186
 20689D9CDEB5	Android	AR9280	WIFI Module	eBay	Product Image	https://www.ebay.es/itm/264859111386
 0024D71FDE44	Intel	Ultimate-N 6300	WIFI Module	flickr	Photo	https://www.flickr.com/photos/seandreilinger/5199737867/
