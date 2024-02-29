@@ -3,6 +3,12 @@
 #	This list contains domains of toxic ActivityPub instances
 #	Last-Modified	UNIXTIME:	1705499500
 
+#	Scrapers
+##	ContentNation
+###	Violating consent and scraping content against the explicit wishes of users.
+###	See:	https://tech.lgbt/@mods/112014491170487904 for details
+contentnation.net
+
 #	"Kromonos"
 ##	Threatening Maintainers personally with harrassment
 ###	See:	https://github.com/greyhat-academy/lists.d/issues/52
