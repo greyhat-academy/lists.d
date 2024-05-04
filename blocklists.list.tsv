@@ -18,6 +18,7 @@ Ad Servers	AdAway	https://raw.githubusercontent.com/AdAway/adaway.github.io/mast
 Tor Exit Node List	Tor Project	https://check.torproject.org/torbulkexitlist	Server List	IPv4 Adresses	Lists all Tor Exit Nodes	https://gitweb.torproject.org/tor.git/plain/contrib/operator-tools/tor-exit-notice.html
 GPT Scraping Bots	OpenAI	https://openai.com/gptbot-ranges.txt	Advanced Blocklist	IPv4 Blocks	IP Adresses used by scaping Bots	https://platform.openai.com/docs/gptbot
 Spam Domains Mute	Erik Uden	https://github.com/Mastodon-DE/blocklists/raw/main/spam/2024-02-15/2024-02-15-spam-domain_mutes-erik-uden.txt	Application - Specific	Domains	ActivityPub Instances that are known for Spamming	https://github.com/Mastodon-DE/blocklists/tree/main/spam/2024-02-15
+Banlist	Ahmina	https://ahmia.fi/blacklist/banned/	Hashed Domain Blocklist	Hashed .onion Domains	Blocked Sites due to ToS Violations of Ahmia	https://ahmia.fi/blacklist/
 lists.d ASN-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.asn.block.list.tsv	Advanced Blocklist	ASNs	Rogue ISPs	https://github.com/greyhat-academy/lists.d
 lists.d IPv4-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv4.block.list.tsv	Advanced Blocklist	IPv4 Blocks	Rogue ISPs	https://github.com/greyhat-academy/lists.d
 lists.d IPv6-DROP	Greyhat Academy	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.ipv6.block.list.tsv	Advanced Blocklist	IPv6 Blocks	Rogue ISPs	https://github.com/greyhat-academy/lists.d
