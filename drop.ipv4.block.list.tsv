@@ -182,9 +182,9 @@
 45.9.149.0/24
 45.9.150.0/23
 #
-### AS202685 pfcloud.io
-## for Hosting malware / portscanners
-#### See: https://github.com/greyhat-academy/lists.d/issues/42
+###	AS202685 pfcloud.io
+##	for Hosting malware / portscanners
+####	See: https://github.com/greyhat-academy/lists.d/issues/42
 141.98.4.0/24
 147.78.102.0/24
 193.35.18.0/24
@@ -193,4 +193,19 @@
 84.54.51.0/24
 87.121.69.0/24
 94.103.124.0/24
+#
+###	AS396982	Google LLC
+##	for Hosting malware / portscanners
+####	See: https://github.com/greyhat-academy/lists.d/issues/57
+35.203.210.0/23
+162.216.149.0/24
+162.216.150.0/24
+##	expanse.co
+198.235.24.0
+205.210.31.0/24
+#
+###	AS13335 Cloudflare Inc
+##	for Hosting malware / portscanners
+####	See: https://github.com/greyhat-academy/lists.d/issues/57
+104.28.154.0/24
 #
