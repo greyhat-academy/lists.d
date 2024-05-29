@@ -7,34 +7,34 @@
 ##	ContentNation
 ###	Violating consent and scraping content against the explicit wishes of users.
 ###	See:	https://tech.lgbt/@mods/112014491170487904 for details
-contentnation.net
 awakari.com
+contentnation.net
 
 #	"Kromonos"
 ##	Threatening Maintainers personally with harrassment
 ###	See:	https://github.com/greyhat-academy/lists.d/issues/52
+bka.li
 social.mooneyed.de
 mooneyed.de
-bka.li
 #	#
 ##	Ban Evasion
-pl.teleyal.blog
-teleyal.blog
 drow.be
+teleyal.blog
+pl.teleyal.blog
 #	#
 
 #	BlueSky
 ##	Hosting Neonazis & CSAM
 ###	See https://github.com/greyhat-academy/lists.d/issues/35
-bsky.social
 bsky.app
+bsky.social
 #	#
 
 #	BlueSky Bridge
 ##	Being only opt-out and without explicit consent
 ###	See	https://github.com/greyhat-academy/lists.d/issues/51
-snarfed.org
 brid.gy
+snarfed.org
 #	#
 
 #	Project 92/Instagram fedi integration (codenamed Barcelona)
@@ -68,8 +68,8 @@ kiwifarms.cc
 kiwifarms.is
 kiwifarms.pleroma.net
 ##	affiliated with KiwiFarms
-poster.place
 cum.salon
+poster.place
 ###	ban evasion by cum.salon
 cum.camp
 ryona.agency
@@ -82,34 +82,36 @@ gab.protohype.net
 #	#
 
 #	consequence-free speech
-social.unzensiert.to
 freeatlantis.com
+social.unzensiert.to
 s.yelvington.com
 #	#
 
 #	reactionary bigotry and hatespeech against magrinalized groups
-poa.st
+anime.website
+anthro.cc
+apogee.polaris-1.work
+byoblu.com
+social.byoblu.com
+crlf.ninja
+decayable.ink
+dogeposting.social
+federated.fun
+fluf.club
 freespeechextremist.com
 fsebugoutzone.org
-rdrama.cc
-anime.website
-gameliberty.club
-social.byoblu.com
-yggdrasil.social
-smuglo.li
-dogeposting.social
-unsafe.space
 freezepeach.xyz
-federated.fun
-decayable.ink
-apogee.polaris-1.work
-rot.gives
-the.usualsuspects.lol
-crlf.ninja
-seal.cafe
-anthro.cc
-fluf.club
+gameliberty.club
 norwoodzero.net
+poa.st
+rdrama.cc
+rot.gives
+seal.cafe
+smuglo.li
+unsafe.space
+usualsuspects.lol
+the.usualsuspects.lol
+yggdrasil.social
 #	#
 
 #	CSAM
