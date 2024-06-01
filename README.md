@@ -43,6 +43,8 @@
     - [Gambling Domains](./gambling.domains.block.list.tsv)
     - ["AI Content"](./ai.content.domains.block.list.tsv)
       - Basically Garbage sites that only exist to commit Ad-Farming, Malware/Phishing and other scams like selling useless stuff noone needs or asks for...
+  - Other Blocklists
+    - [Spamcallers, Robocalls and Scammers' Phone numbers](spammers.phone.numbers.list.tsv)
 - Lists of Lists
   - [Bona-Fide Onion Services](./onionlists.list.tsv)
   - [Network-wide Blocklists](./blocklists.list.tsv)
