@@ -84,7 +84,9 @@ gab.protohype.net
 #	consequence-free speech
 freeatlantis.com
 social.unzensiert.to
+unzensiert.to
 s.yelvington.com
+yelvington.com
 #	#
 
 #	reactionary bigotry and hatespeech against magrinalized groups
@@ -99,6 +101,7 @@ dogeposting.social
 federated.fun
 fluf.club
 freespeechextremist.com
+##	Ban evasion by freespeechextremist
 fsebugoutzone.org
 freezepeach.xyz
 gameliberty.club
@@ -158,3 +161,9 @@ solarpunk.moe
 ##	Instances that not allow accessing the about page or see any profiles of users, thus preventing any reports and blocks of users.
 artcrimes.gay
 #	#
+
+#	DM Spammers
+##	Instances with confirmed history of spam and lack of moderation to curb in on the issue.
+bv.umbrellix.org
+*.umbrellix.org
+umbrellix.org
