@@ -1,7 +1,7 @@
 #	lists.d Spammer Blocklist	(c) 2023 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/spammers.domains.block.list.tsv
 #	This list contains domains of eMail Spammers
-#	Last-Modified	UNIXTIME:	1717019000
+#	Last-Modified	UNIXTIME:	1717416500
 
 ##	Shitcoins and CryptoBros
 ### Moonblocks
@@ -47,6 +47,7 @@ true-republican.com
 dein-gehaltsvorschuss.com
 fina-expert.com
 fintech-n24.com
+kinderleicht-vergabe.com
 konto-ausgleich-sofort.com
 ohne-bon-pruefung.com
 sonder-aktion.com
