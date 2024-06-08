@@ -24,3 +24,4 @@ chip	chip	TheNextThing Company	PocketChip	OS Default	https://www.youtube.com/wat
 root	olimex	Olimex	Olimage	OS Default	https://github.com/OLIMEX/OLINUXINO/blob/master/DOCUMENTS/OLIMAGE/Olimage-guide.pdf
 4GUFI_****	12345678	KuWfi	UF909-U11 Dongle 4G	OS Default	https://www.amazon.de/dp/B0BR747S27
 4G-UFI-XX	1234567890	Richer-R	USB WiFi Dongle 4G	OS Default	https://www.amazon.de/dp/B0C8TXQQDX
+admin	openmediavault	OpenMediaVault	OMV 7.x	OS Default	https://www.youtube.com/watch?v=l30sADfDiM8&t=1476s
