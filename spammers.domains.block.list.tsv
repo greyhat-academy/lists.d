@@ -1,28 +1,28 @@
 #	lists.d Spammer Blocklist	(c) 2023 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/spammers.domains.block.list.tsv
 #	This list contains domains of eMail Spammers
-#	Last-Modified	UNIXTIME:	1717416500
+#	Last-Modified	UNIXTIME:	1718955500
 
 ##	Shitcoins and CryptoBros
-### Moonblocks
+###	Moonblocks
 ####	see:	https://gist.github.com/kkarhan/b39ed57a439a92aaf79377f87fea6546
 moonblocks.co
 moonblocks.nl
 ##
 
-### Thentic
+###	Thentic
 thentic.tech
 ##
-## Suppliers of Thentic.tech that enable them to spam
-### Habe been added since action has been taken by them.
+##	Suppliers of Thentic.tech that enable them to spam
+###	Have been added since action has been taken by them.
 privateemail.com
-## eMail Hoster as per MX Record
+##	eMail Hoster as per MX Record
 namecheap.com
-## Domain Registrar for thentic.tech
+##	Domain Registrar for thentic.tech
 ###
 
-## FakeNews and FakeAds from shitty gun stores located in the USA
-### These are evidenced to buy up eMail adresses and spam without demaning an opt-in first, violating GDPR & BDSG!
+##	FakeNews and FakeAds from shitty gun stores located in the USA
+###	These are evidenced to buy up eMail adresses and spam without demaning an opt-in first, violating GDPR & BDSG!
 7houtfitters.com
 armedamericas.com
 calibercontests.com
@@ -42,8 +42,8 @@ trueshotgunclub.com
 true-republican.com
 ##
 
-## Credit Spammers
-### These are evidenced to buy up eMail adresses and spam without demaning an opt-in first, violating GDPR & BDSG!
+##	Credit Spammers
+###	These are evidenced to buy up eMail adresses and spam without demaning an opt-in first, violating GDPR & BDSG!
 dein-gehaltsvorschuss.com
 fina-expert.com
 fintech-n24.com
@@ -53,3 +53,8 @@ ohne-bon-pruefung.com
 sonder-aktion.com
 zen-finanzen.com
 ##
+
+##	Other Spammers
+###	These are evidenced to scrape eMail adresses and spam without demaning an opt-in first, violating GDPR & BDSG!
+kernal-automation.net
+siemens-profibus.com
