@@ -1,7 +1,7 @@
 #	lists.d Mastodon Blocklist	(c) 2022 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.domains.block.list.tsv
 #	This list contains domains of toxic ActivityPub instances
-#	Last-Modified	UNIXTIME:	1717613000
+#	Last-Modified	UNIXTIME:	1719822500
 
 #	Scrapers
 ##	ContentNation
@@ -9,6 +9,7 @@
 ###	See:	https://tech.lgbt/@mods/112014491170487904 for details
 awakari.com
 contentnation.net
+#	#
 
 #	"Kromonos"
 ##	Threatening Maintainers personally with harrassment
@@ -144,6 +145,7 @@ noagenda.social
 ##	Ban Evasion
 ###	See: 	https://jorts.horse/@AnarchoNinaWrites/112051094301063874
 noauthority.social
+#	#
 
 ##	Admin is a known serial harrasser by their own admission:
 ###	https://github.com/kkarhan/misc-stuff/pull/3#issue-2085835876
@@ -167,3 +169,4 @@ artcrimes.gay
 bv.umbrellix.org
 *.umbrellix.org
 umbrellix.org
+#	#
