@@ -24,6 +24,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 300434063206770	SATELLITE-MODEM	Sparkfun	RockBLOCK 9603	https://youtu.be/ym4-ZckfXg4?t=64
 300434068348750	SATELLITE-MODEM	Ground Control	RockBLOCK 9603	https://www.groundcontrol.com/en/product/rockblock-9603-compact-plug-and-play-satellite-transmitter/
 300534064315160	SATELLITE-MODEM	Ground Control	RockBLOCK 9602 (Mk 2)	https://www.groundcontrol.com/en/product/rockblock-9602-satellite-modem/
+309215010000050	SATELLITE-MODEM	Iridum	9523	https://m-cramer.shop/de/modems-terminals/iridium-66/iridium-9523-kern.html
 345231234541122	WWAN-MODEM	Quectel	EC20	https://www.mhzshop.com/shop/3G-4G-5G/Carte-3G-4G-LoRa/Carte-Mini-PCIe-4G-LTE-Quectel-4G-LTE-Express-EC20-E.html
 349324080068712	WWAN-MODEM	Fibocom	L850-GL	https://www.amazon.de/dp/B07YB7ZVKT
 350390011590776	HANDHELD	Gizmondo	GZ-1 Smart Adds	https://youtu.be/dv6UaHZxUys?t=28
