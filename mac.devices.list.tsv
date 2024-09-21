@@ -7,9 +7,11 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 000502DF1DA9	Apple	Mac Pro G3	PC	ThisDoesNotCompute	Vintage Mac	https://youtu.be/Z3nsjMQZ7FI?t=359
 00053504BC75	Chip PC	Jack PC EFI7900	Thin Client	YouTube	Product Image	https://youtu.be/Tl7K14vdGJg?t=61
 00063900FE2B	Newtec	NTC/2218.TUS	SAT-Modem	eBay	Bidirectional Satellite Internet Modem	https://www.ebay.de/itm/133835717954
+00063982CD28	Newtec	NTC/2250.US	SAT-Modem	eBay	Bidirectional Satellite Internet Modem	https://www.ebay.de/itm/364099829580
 00063985911E	Newtec	NTC/2299.AA	SAT-Modem	eBay	Product Image	https://www.ebay.de/itm/354108334711
 00098C006963	O2	Surf@Home II	WWAN Router	Raimond Spekking	Wikimedia Commons	https://en.wikipedia.org/wiki/MAC_address#/media/File:UMTS_Router_Surf@home_II,_o2-0017.jpg
 0009BF0145A3	Nintendo	Gamecube	Console	MVG	Broadband Adaptor	https://youtu.be/Uxjl_kD3imQ?t=153
+0009BF01CA7C	Nintendo	GameCube	Console	eBay	Broadband Adaptor	https://www.ebay.de/itm/305648286307
 000CE3712143	Option	GTM671W	WIFI Module	Newegg	Product Image	https://www.newegg.com/p/2S7-07JP-26601
 000D050ABD80	Cybernet	ZPC-H6	PC	VWestlife1	Keyboard-AiO PC	https://youtu.be/Q4bHqTxT68E?t=401
 0014A541616B	O2	Surf@Home II	WWAN Router	Raimond Spekking	Wikimedia Commons	https://en.wikipedia.org/wiki/MAC_address#/media/File:UMTS_Router_Surf@home_II,_o2-0017.jpg
@@ -27,6 +29,7 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 003EE1C96E9C	Apple	iPhone X	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=42
 0050F2102F0C	Microsoft	Xbox	Console	MVG	Xbox Debug Kit	https://youtu.be/jR46e-HU06c?t=289
 0050F2102F0D	Microsoft	Xbox	Console	MVG	Xbox Debug Kit	https://youtu.be/jR46e-HU06c?t=293
+0060AEDEB09A	Hughes	HT2000W	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/326263994709
 00904C6F7FF0	Simvalley	WiFi mini JM01N	WWAN-Router	Amazon	Product Image	https://www.amazon.de/dp/B0BX6CTZ56
 0096DC86F475	Fujitsu	Futro S300	Thin Client	eBay	Product Image	https://www.ebay.de/itm/195628725248
 00C0CA711ECA	Alfa Networks	AWPCIE-1900U	WIFI Module	Amazon	Product Image	https://www.amazon.de/dp/B08DV3M3PN
@@ -38,7 +41,13 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 00D0B40D9DFF	SZBOX NAS	N5095	Mainboard	Amazon	Product Image	https://www.amazon.de/dp/B0D3LMTKR3
 00D0B4C05770	SZBOX NAS	N5095	Mainboard	Amazon	Product Image	https://www.amazon.de/dp/B0D3LMTKR3
 00D0B4C05771	SZBOX NAS	N5095	Mainboard	Amazon	Product Image	https://www.amazon.de/dp/B0D3LMTKR3
+00D0F1027EC2	Sega	Dreamcast	Console	eBay	Broadband Adaptor	https://www.ebay.de/itm/395427138218
 00D0F1034C6C	Sega	Dreamcast	Console	MVG	Broadband Adaptor	https://youtu.be/rj56VU_VmWg?t=522
+00A0BC2F0C4A	Viasat	Surfbeam 2 RM4100N-010	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/335553087250
+00A0BC44C282	Viasat	Surfbeam 2 Pro EM4100N-010	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/335259521705
+00A0BC49A58F	ViaSat	Surfbeam 2 RM4100N-010	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/156413424983
+00A0BC616C46	EuroSkyPark	SatConnect R1	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/375362691375
+00A0BCC289E4	Viasat	Surfbeam 2+ RM5111N-012	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/226336639913
 00E26972EF3D	SZBOX NAS	N5195	Mainboard	Amazon	Product Image	https://www.amazon.de/dp/B0D3TFWMFP
 00E26972EF3E	SZBOX NAS	N5195	Mainboard	Amazon	Product Image	https://www.amazon.de/dp/B0D3TFWMFP
 00E26972EF3F	SZBOX NAS	N5195	Mainboard	Amazon	Product Image	https://www.amazon.de/dp/B0D3TFWMFP
