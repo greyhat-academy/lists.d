@@ -25,6 +25,7 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 00224334173E	Atheros	AR9280	WIFI Module	Amazon	Product Image	https://www.amazon.de/dp/B08N17FWR8
 0022481B187C	Microsoft	Xbox 360	Console	TheRetroChannel	RGH'd Xbox 360	https://www.youtube.com/watch?v=XqcbPxhvyaE&t=2195s
 002248F0CC27	Microsoft	Xbox 360 Wireless Adapter (1398)	WIFI Module	eBay	Product Image	https://www.ebay.com/itm/255671077094
+002324EB5700	Lenovo	ThinkCentre M700	PC	eBay	Product Image	https://www.ebay.de/itm/186248823111
 0024D71FDE44	Intel	Ultimate-N 6300	WIFI Module	flickr	Photo	https://www.flickr.com/photos/seandreilinger/5199737867/
 0025F901121C	Weytec	MK06	KVM-Keyboard	Chyrosran22	Trading Terminal Keyboard	https://youtu.be/1FHkQpYBygE?t=429
 0026B6F6BD40	Atheros	AR9280	WIFI Module	eBay	Product Image	https://www.ebay.es/itm/264428470186
@@ -74,6 +75,7 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 4C526211FEDD	Fujitsu	Futro S920	ThinClient	eBay	Product Image	https://www.ebay.de/itm/405257595413
 4C5262BA1CB9	Fujitsu	Futro S740	Thin Client	eBay	Product Image	https://www.ebay.de/itm/285427377686
 4C8B58E8A561	Lenovo	IdeaPad 100-151by	WIFI Module	eBay	WiFi Module	https://www.ebay.de/itm/274465309594
+544810A3F11C	Dell	Wyse 3040	Thin Client	eBay	Product Image	https://www.ebay.de/itm/226380744519
 5C3E1BE567B5	Apple	iPhone 14 Pro	Smartphone	Hugh Jeffreys	Repairability Testing	https://www.youtube.com/watch?v=K2WhU77ihw8&t=80s
 5C3E1BEA6C03	Apple	iPhone 14 Pro	Smartphone	Hugh Jeffreys	Repairability Testing	https://www.youtube.com/watch?v=K2WhU77ihw8&t=80s
 5C3E1BEEEFC8	Apple	iPhone 14 Pro	Smartphone	Hugh Jeffreys	Repairability Testing	https://www.youtube.com/watch?v=K2WhU77ihw8&t=80s
@@ -87,6 +89,7 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 70480F5FCE3A	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=399
 70480F5FCE3B	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=399
 7683C22ACDD6	Ubiquiti	UDM	WWAN Router	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
+7CD30A254C85	HP	t730 Plus	Thin Client	eBay	Product Image	https://www.ebay.de/itm/386221740353
 7C030A374853	HP	t630	Thin Client	eBay	Product Image	https://www.ebay.de/itm/124975399881
 7C030A3F4873	HP	T620	Thin Client	eBay	Product Image	https://www.ebay.de/itm/124975399881
 7CD30A334B84	hp	t730 Plus	Thin Client	eBay	Product Image	https://www.ebay.de/itm/375193531741
@@ -110,6 +113,7 @@ A0FBC5143582	Apple	iPhone 12	Smartphone	Hugh Jeffreys	Repairability Testing	http
 A2D6E32AE58D	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtube.com/watch?v=mMrvy2utWME&t=219s
 A4B8058D85F0	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=1444
 A4B8058D85F1	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=1444
+A81D16092475	Dell	Wyse 3040	Thin Client	eBay	Product Image	https://www.ebay.de/itm/226380744519
 AC49DB313634	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Bought for Repairability Testing	https://youtu.be/8s7NmMl_-yg?t=92
 AC49DB313634	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Repairability Testing	https://www.youtube.com/watch?v=8s7NmMl_-yg&t=90s
 AC49DB37018D	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Bought for Repairability Testing	https://youtu.be/8s7NmMl_-yg?t=92
@@ -148,4 +152,5 @@ F465A68A6338	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Repairability Testing	
 F465A68BC5F5	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Bought for Repairability Testing	https://youtu.be/8s7NmMl_-yg?t=92
 F465A68DC5F5	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Repairability Testing	https://www.youtube.com/watch?v=8s7NmMl_-yg&t=90s
 F4C79501136D	Weytec	Smart Touch	Keyboard	Chyrosran22	Screenshot	https://youtu.be/eYUbB1VCGUY?feature=shared&t=263
+FB0F4143453E	HP	T610 Plus	Thin Client	eBay	Product Image	https://www.ebay.de/itm/395024425060
 F8D0ACF3DDCA	Sony	Playstation 3	Console	Jacob R	Screenshot	https://www.youtube.com/watch?v=YvTebLcGr54&t=241s
