@@ -71,6 +71,7 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 40F02F2BE159	Atheros	AR5B22	WIFI Module	Amazon	Product Image	https://www.amazon.de/dp/B08HGV6MLL
 4401BB641283	Android	-	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
 4C526208A35F	Fujitsu	Futro S920	Thin Client	eBay	Product Image	https://www.ebay.de/itm/295878489828
+4C526211FEDD	Fujitsu	Futro S920	ThinClient	eBay	Product Image	https://www.ebay.de/itm/405257595413
 4C5262BA1CB9	Fujitsu	Futro S740	Thin Client	eBay	Product Image	https://www.ebay.de/itm/285427377686
 4C8B58E8A561	Lenovo	IdeaPad 100-151by	WIFI Module	eBay	WiFi Module	https://www.ebay.de/itm/274465309594
 5C3E1BE567B5	Apple	iPhone 14 Pro	Smartphone	Hugh Jeffreys	Repairability Testing	https://www.youtube.com/watch?v=K2WhU77ihw8&t=80s
@@ -120,6 +121,7 @@ C446196EE3B7	Broadcom	BCM94312HMG2L	WIFI Module	Amazon	Product Image	https://www
 C8CBB82D6E8F	ho	t610	Thin Client	eBay	Product Image	https://www.ebay.de/itm/256533647120
 CC2D21A5C2E0	Tenda	4G06	LTE Router	eBay	Product Image	https://www.ebay.de/itm/364569931873
 CCFD17B47F7D	Apple	-	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
+D89EF3DE9A48	Dell	Wyse 5060	ThinClient	eBay	Product Image	https://www.ebay.de/itm/186343940349
 DCEF097FCD4F	Netgear	LB2110	WWAN Router	Amazon	LTE Router	https://www.amazon.de/dp/B07915QQBX
 E209F614B73D	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtube.com/watch?v=mMrvy2utWME&t=219s
 E209F61C4DDB	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtube.com/watch?v=mMrvy2utWME&t=219s
