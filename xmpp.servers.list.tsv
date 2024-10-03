@@ -1,8 +1,8 @@
 Name	Server Adress	OnionV3	Website	Registration	Notes
-5222.DE	5222.de		https://5222.de/register/	[website + captcha]	See Terms and Conditions
-CCC Jabber Server	jabber.ccc.de	m2ylflyeak6i6o4hsfwcrfwcq2bbjxk6nf2rnmm7fu6qiuu3hybenzid.onion	http://jabber.ccc.de/	[inband + strict captcha]	Inactive Accounts get purged after 12 months, not recommended to avoid centralization!
-Hot Chilli	jabber.hot-chilli.net	chillingguw3yu2rmrkqsog4554egiry6fmy264l5wblyadds3c2lnyd.onion:5222	https://jabber.hot-chilli.net/	[inband - no captcha]	multiple domains to choose from
-cock.li	cock.li	xdkriz6cn2avvcr2vks5lvvtmfojz2ohjzj4fhyuka55mvljeso2ztqd.onion	https://cock.li	Invite Only	OnionV3 Website: http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/
-xmpp.is	xmpp.is	6voaf7iamjpufgwoulypzwwecsm2nu7j5jpgadav2rfqixmpl4d65kid.onion	https://xmpp.is/account/register/xmpp_is/	[website]	See Terms and Conditions
-monocles.chat	monocles.chat		https://monocles.chat	[website]	Requires Monocles' Account and a valid Subscription.
-jabb.im	jabb.im		https://www.jabbim.com/services-start.html	[Website w/ reCaptcha! https://jabb.im/reg/ ]	reCaptcha on the registration site!
+5222.DE	5222.de:5222		https://5222.de/register/	[website + captcha]	See Terms and Conditions
+CCC Jabber Server	jabber.ccc.de:5222	m2ylflyeak6i6o4hsfwcrfwcq2bbjxk6nf2rnmm7fu6qiuu3hybenzid.onion:5222	http://jabber.ccc.de/	[inband + strict captcha]	Inactive Accounts get purged after 12 months, not recommended to avoid centralization!
+Hot Chilli	jabber.hot-chilli.net:5222	chillingguw3yu2rmrkqsog4554egiry6fmy264l5wblyadds3c2lnyd.onion:5222	https://jabber.hot-chilli.net/	[inband - no captcha]	multiple domains to choose from
+cock.li	cock.li:5222	xdkriz6cn2avvcr2vks5lvvtmfojz2ohjzj4fhyuka55mvljeso2ztqd.onion:5222	https://cock.li	[existing cock.li account - website]	OnionV3 Website: http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/
+xmpp.is	xmpp.is:5222	6voaf7iamjpufgwoulypzwwecsm2nu7j5jpgadav2rfqixmpl4d65kid.onion:5222	https://xmpp.is/account/register/xmpp_is/	[website]	See Terms and Conditions
+monocles.chat	monocles.chat:5222		https://monocles.chat	[website]	Requires Monocles' Account and a valid Subscription.
+jabb.im	jabb.im:5222		https://www.jabbim.com/services-start.html	[Website w/ reCaptcha! https://jabb.im/reg/ ]	reCaptcha on the registration site!
