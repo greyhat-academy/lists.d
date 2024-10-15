@@ -49,6 +49,7 @@
   - [Bona-Fide Onion Services](./onionlists.list.tsv)
   - [Network-wide Blocklists](./blocklists.list.tsv)
 - Other
+  - [Verified Monero Donation Wallets](./donations.monero.wallets.list.tsv) for several Open Source Projects and Services.
   - ["do not report security issues to" list](./dontreport.security.list.tsv)  based off hostility towards responsible disclosures.
     - Organizations and Individuals that are known to litigate and attack those that report security issues to them.
       - aka. ["shooting the messenger"](https://en.wikipedia.org/wiki/Shooting_the_messenger)
