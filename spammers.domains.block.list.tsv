@@ -1,7 +1,7 @@
 #	lists.d Spammer Blocklist	(c) 2023 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/spammers.domains.block.list.tsv
 #	This list contains domains of eMail Spammers
-#	Last-Modified	UNIXTIME:	1718955500
+#	Last-Modified	UNIXTIME:	1731344500
 
 ##	Shitcoins and CryptoBros
 ###	Moonblocks
@@ -67,3 +67,13 @@ easefreightpartner.com
 ease-freightg-lobal.com
 easefreightinc.com
 ##
+
+##	Insecure configured and/or hijacked mailservers
+###	These allowed hijacking of Domains and have been seen abused for distributing spam
+wsctv.mediago.ca
+mediago.ca
+metswitch.cgocable.ca
+cgocable.ca
+335.twintravel.ca
+twintravel.ca
+fredericshensch.de
