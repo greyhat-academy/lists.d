@@ -89,6 +89,7 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 64CFD9AD7F21	Iridium	9810 Certus	Satellite Modem	Iridium	Product Image	https://www.iridium.com/products/?fwp_product_type=developer-products
 681DEF36AA15	Firebat	T8 Plus	Mini PC	HardwareDealz	Screenshot	https://www.youtube.com/watch?v=fKDRnWaP6Ww&t=785s
 681DEF36AA16	Firebat	T8 Plus	Mini PC	HardwareDealz	Screenshot	https://www.youtube.com/watch?v=fKDRnWaP6Ww&t=785s
+6C2B593FA428	Dell	Wyse 3040	Thin Client	Kleinanzeigen	Product Image	https://www.kleinanzeigen.de/s-anzeige/4-x-dell-wyse-3040-computer-thin-os-remote/2857911479-228-9677
 6C9308C05766	China Unicom	5G VN007+	WWAN-Router	eBay	Product Image	https://www.ebay.de/itm/314824552443
 70480F5FCE3A	Apple	iPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=399
 70480F5FCE3B	Apple	iPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=399
@@ -103,6 +104,7 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 8221B714FD9C	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtube.com/watch?v=mMrvy2utWME&t=219s
 8221B719F815	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtube.com/watch?v=mMrvy2utWME&t=219s
 847B57FAC125	Intel	AX211	Wifi 6E NIC	ServeTheHome	Test Configuration	https://www.youtube.com/watch?v=HylKpDmwaFA&t=639s
+901B0E2C57EC	Fujitsu	Futro S700	Thin Client	Kleinanzeigen	Product Image	https://www.kleinanzeigen.de/s-anzeige/13-stueck-fujitsu-futro-s700-thin-client/2620112023-228-5979
 901B0E481C7E	Fujitsu	Futro S920	Thin Client	eBay	Product Image	https://www.ebay.de/itm/126042139193
 901B0EC8A06C	Fujitsu	Futro S520	Thin Client	eBay	Product Image	https://www.ebay.de/itm/185973258446
 901B0EFA3C73	Fujitsu	Futro S920	Thin Client	eBay	Product Image	https://www.ebay.de/itm/185745064394
@@ -120,6 +122,7 @@ A2D6E32AE58D	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtu
 A4B8058D85F0	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=1444
 A4B8058D85F1	Apple	IPhone 6	Smartphone	StangeParts	bricked iPhone board	https://youtu.be/rHP-OPXK2ig?t=1444
 A81D16092475	Dell	Wyse 3040	Thin Client	eBay	Product Image	https://www.ebay.de/itm/226380744519
+A81D1638A613	Dell	Wyse 3040	Thin Client	Kleinanzeigen	Product Image	https://www.kleinanzeigen.de/s-anzeige/4-x-dell-wyse-3040-computer-thin-os-remote/2857911479-228-9677
 A8B8E0041239	Intel	i226	2,5Gbit/s NIC	Amazon	Product Image	https://www.amazon.de/dp/B0CQ4MSPC1
 A8B8E004123A	Intel	i226	2,5Gbit/s NIC	Amazon	Product Image	https://www.amazon.de/dp/B0CQ4MSPC1
 A8B8E004123B	Intel	i226	2,5Gbit/s NIC	Amazon	Product Image	https://www.amazon.de/dp/B0CQ4MSPC1
@@ -153,6 +156,8 @@ E209F62945A4	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtu
 E209F629540A	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtube.com/watch?v=mMrvy2utWME&t=219s
 E209F629E760	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtube.com/watch?v=mMrvy2utWME&t=219s
 E263DA2C2636	Samsung	-	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
+E454E81BC745	Dell	Wyse 3040	Thin Client	Kleinanzeigen	Product Image	https://www.kleinanzeigen.de/s-anzeige/dell-wyse-3040-uefi-pc/2822167685-225-3544
+E454E826BD38	Dell	Wyse 3040	Thin Client	Kleinanzeigen	Product Image	https://www.kleinanzeigen.de/s-anzeige/13-stueck-fujitsu-futro-s700-thin-client/2620112023-228-5979
 ED8640A18334	-	Fake Apple Watch	Smartwatch	Hugh Jeffreys	Screenshot	https://www.youtube.com/watch?v=i5_cXt1gZhQ&t=218s
 F21149215790	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtube.com/watch?v=mMrvy2utWME&t=219s
 F21149215790	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtube.com/watch?v=mMrvy2utWME&t=219s
