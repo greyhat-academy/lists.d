@@ -15,6 +15,7 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 000D050ABD80	Cybernet	ZPC-H6	PC	VWestlife1	Keyboard-AiO PC	https://youtu.be/Q4bHqTxT68E?t=401
 0014A541616B	O2	Surf@Home II	WWAN Router	Raimond Spekking	Wikimedia Commons	https://en.wikipedia.org/wiki/MAC_address#/media/File:UMTS_Router_Surf@home_II,_o2-0017.jpg
 0017C41455EA	OLPC	XO-1	Laptop	Krazy Ken	Screenshot	https://www.youtube.com/watch?v=zZ7qkZkp57c&t=824s
+0019997005C6	Fujitsu	Futro  S550	Thin Client	Kleinanzeigen	Product Image	https://www.kleinanzeigen.de/s-anzeige/client-pc-pc-mikro-mini-client/2603427199-228-6313
 001BEB572ECD	ICOM	SOM304RD52VINE1	SOM	Rasteri	weePC	https://youtu.be/aJEp4ZUG7BI?t=533
 001DD823904E	Microsoft	XBOX 360	Console	ILii4M	RGH‘d Xbox 360	https://youtu.be/Vv69hLe1D8w?t=57
 001DD8535431	Microsoft	Xbox 360 Wireless Adapter	WIFI Module	eBay	Product Image	https://www.ebay.com/itm/304637519941
@@ -96,6 +97,7 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 70B3066BEE8D	Apple	iPhone 14 Pro Max	Smartphone	Hugh Jeffreys	Repairability Testing	https://www.youtube.com/watch?v=iWRKZpvf3Uo&t=23s
 70B3066BEED2	Apple	iPhone 14 Pro Max	Smartphonr	Hugh Jeffreys	Repairability Testing	https://www.youtube.com/watch?v=iWRKZpvf3Uo&t=23s
 7683C22ACDD6	Ubiquiti	UDM	WWAN Router	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
+7CD30A128F18	HP	t620	Thin Client	Kleinanzeigen	Product Image	https://www.kleinanzeigen.de/s-anzeige/hp-t620-thin-client-amd-gx-217ga-1-65ghz-4gb-ram/2525628565-228-1087
 7CD30A254C85	HP	t730 Plus	Thin Client	eBay	Product Image	https://www.ebay.de/itm/386221740353
 7C030A374853	HP	t630	Thin Client	eBay	Product Image	https://www.ebay.de/itm/124975399881
 7C030A3F4873	HP	T620	Thin Client	eBay	Product Image	https://www.ebay.de/itm/124975399881
@@ -135,7 +137,8 @@ B827EB3B9658	Raspberry Pi	Model 3B+	SBC	Amazon	Sample Output	https://www.amazon.
 C05B12278609	MUAMA	Ryoko	WWAN Router	Krazy Ken	Review Device	https://youtu.be/mYly1irRrBE?t=725
 C445EC126E6E	Realtek	RTL8188ETV/5	WIFI Module	Pollin	Product Image	https://www.pollin.de/p/daycom-wlan-modul-m-rtl8188etv-5-150-mbps-712223
 C446196EE3B7	Broadcom	BCM94312HMG2L	WIFI Module	Amazon	Product Image	https://www.amazon.de/dp/B08FBD2LW6
-C8CBB82D6E8F	ho	t610	Thin Client	eBay	Product Image	https://www.ebay.de/itm/256533647120
+C8CBB82D6E8F	hp	t610	Thin Client	eBay	Product Image	https://www.ebay.de/itm/256533647120
+CBCBB803126A	hp	t520	Thin Client	Kleinanzeigen	Product Image	https://www.kleinanzeigen.de/s-anzeige/hp-t520-flexible-thin-client-8gb-ram-128gb-ssd-inkl-nt-fuss-os/2672228777-228-5196
 CC2D21A5C2E0	Tenda	4G06	LTE Router	eBay	Product Image	https://www.ebay.de/itm/364569931873
 CCFD17B47F7D	Apple	-	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
 D89EF3DE9A48	Dell	Wyse 5060	ThinClient	eBay	Product Image	https://www.ebay.de/itm/186343940349
