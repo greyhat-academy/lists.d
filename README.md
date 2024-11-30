@@ -33,6 +33,7 @@
       - [lists.d ASN DROP](./drop.asn.block.list.tsv)
       - [lists.d Domains DROP](./drop.domains.block.list.tsv)
       - [lists.d IPv4 MIL/INTEL](./milintel.ipv4.block.list.tsv)
+      - [lists.d Typosquatting Domains](./typos.domains.block.list.tsv)
   - Application-Specific
     - [Hostile ActivityPub Servers](./activitypub.domains.block.list.tsv)
     - [ActivityPub "AI Bots"](./activitypub.bots.block.list.tsv)
