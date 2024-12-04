@@ -9,7 +9,7 @@
 ###	See:	https://tech.lgbt/@mods/112014491170487904 for details
 awakari.com
 contentnation.net
-#	#
+#
 
 #	"Kromonos"
 ##	Threatening Maintainers personally with harrassment
@@ -17,26 +17,25 @@ contentnation.net
 bka.li
 social.mooneyed.de
 mooneyed.de
-#	#
 ##	Ban Evasion
 drow.be
 teleyal.blog
 pl.teleyal.blog
-#	#
+#
 
 #	BlueSky
 ##	Hosting Neonazis & CSAM
 ###	See https://github.com/greyhat-academy/lists.d/issues/35
 bsky.app
 bsky.social
-#	#
+#
 
 #	BlueSky Bridge
 ##	Being only opt-out and without explicit consent
 ###	See	https://github.com/greyhat-academy/lists.d/issues/51
 brid.gy
 snarfed.org
-#	#
+#
 
 #	Project 92/Instagram fedi integration (codenamed Barcelona)
 ##	See: https://github.com/greyhat-academy/lists.d/issues/47
@@ -45,7 +44,7 @@ threads.instagram.com
 threads.net
 #	for a list of instances that are federating with Threads, please see: activitypub.threads.domains.block.list.tsv
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.threads.domains.block.list.tsv
-#	#
+#
 
 #	The Bad Space
 ##	Abusive Blocklist
@@ -55,7 +54,7 @@ mastodon.art
 ubiqueros.com
 ###	Ban evasion
 h-i.social
-#	#
+#
 
 #	BBC
 ##	Blocked for rampant anti-trans propaganda
@@ -74,13 +73,13 @@ poster.place
 ###	ban evasion by cum.salon
 cum.camp
 ryona.agency
-#	#
+#
 
 #	gab - a neonazi social network
 gab.ai
 gab.com
 gab.protohype.net
-#	#
+#
 
 #	consequence-free speech
 freeatlantis.com
@@ -88,7 +87,7 @@ social.unzensiert.to
 unzensiert.to
 s.yelvington.com
 yelvington.com
-#	#
+#
 
 #	reactionary bigotry and hatespeech against magrinalized groups
 anime.website
@@ -116,7 +115,7 @@ unsafe.space
 usualsuspects.lol
 the.usualsuspects.lol
 yggdrasil.social
-#	#
+#
 
 #	CSAM
 childlove.su
@@ -150,11 +149,11 @@ lewd.dad
 outcast.zip
 map.mom
 ninetail.club
-#	#
+#
 
 #	antivaxxer shitposting & fearmongering
 shadowsocial.org
-#	#
+#
 
 #	Literal Neonazis
 skinheads.social
@@ -165,33 +164,33 @@ skinheads.uk
 #
 detroitriotcity.com
 geofront.rocks
-#	#
+#
 noagenda.social
 ##	Ban Evasion
 ###	See: 	https://jorts.horse/@AnarchoNinaWrites/112051094301063874
 noauthority.social
-#	#
+#
 
 ##	Admin is a known serial harrasser by their own admission:
 ###	https://github.com/kkarhan/misc-stuff/pull/3#issue-2085835876
 catcatnya.com
-#	#
+#
 
 ##	prevent automatic blocks via imported blocklists of accounts hosted on their site.
 rage.love
 weirder.earth
 slime.computer
 solarpunk.moe
-#	#
+#
 
 #	Sussy domains
 ##	Instances that not allow accessing the about page or see any profiles of users, thus preventing any reports and blocks of users.
 artcrimes.gay
-#	#
+#
 
 #	DM Spammers
 ##	Instances with confirmed history of spam and lack of moderation to curb in on the issue.
 bv.umbrellix.org
 *.umbrellix.org
 umbrellix.org
-#	#
+#

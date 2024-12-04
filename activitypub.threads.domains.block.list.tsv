@@ -13,24 +13,23 @@ facebook.com
 fbcdn.com
 fbcdn.net
 instagram.com
-#	#
+#
 
 #	For a list of Other problematic Instances, please consider subscribing to the general blocklist
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.domains.block.list.tsv
-#	#
-
+#
 
 #	Compromized instances!
 emacs.ch
-#	#
+#
 
 #	Federating with Threads as per their own admission - previously choose not to.
 mstdn.social
 masto.ai
 mastodon.coffee
-#	#
+#
 
 #	Federating with Threads from the start.
-#	#
 mastodon.social
 mastodon.online
+#
