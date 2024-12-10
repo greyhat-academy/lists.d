@@ -23,6 +23,12 @@ teleyal.blog
 pl.teleyal.blog
 #
 
+#	"Johannes Oschlies"
+##	Threatening Critics personally with harrassment
+###:	See:	https://infosec.space/@kkarhan/113629008885466623 
+mastodon.joschlies.nohost.me
+joschlies.nohost.me
+
 #	BlueSky
 ##	Hosting Neonazis & CSAM
 ###	See https://github.com/greyhat-academy/lists.d/issues/35
@@ -60,7 +66,7 @@ h-i.social
 ##	Blocked for rampant anti-trans propaganda
 ###	See https://github.com/greyhat-academy/lists.d/issues/39
 social.bbc
-#	#
+#
 
 #	Kiwifarms
 kiwifarms.net
