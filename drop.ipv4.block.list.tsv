@@ -6,10 +6,10 @@
 ### KiwiFarms				
 ##	AS397702	1776 Solutions, LLC	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms]
 103.114.191.0/24
-#				
+
 ##	n/a	Flow Chemical Pty Ltd	Rogue ISP	Facilitates 1776 Solutions (see above)
 103.114.190.0/23
-#
+
 ##	AS36114	VegasNAP LLC / fiberhub.com	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms] via Colocation
 104.143.10.0/23
 104.194.0.0/23
@@ -20,7 +20,7 @@
 76.164.192.0/19
 76.164.224.0/21
 76.164.236.0/22
-#				
+
 ##	AS53340	VegasNAP LLC / fiberhub.com	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms] via Colocation
 102.129.131.0/24
 102.165.18.0/24
@@ -82,7 +82,7 @@
 83.150.219.0/24
 85.31.53.0/24
 86.106.183.0/24
-#				
+
 ##	AS30860	Virtual Systems LLC / v-sys.org	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms]
 152.89.60.0/24
 152.89.61.0/24
@@ -137,7 +137,7 @@
 95.214.232.0/24
 95.214.233.0/24
 95.214.234.0/23
-#				
+
 ## AS56655	TerraHost AS	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
 102.223.180.0/24
 102.223.181.0/24
@@ -159,7 +159,7 @@
 45.88.200.0/24
 45.88.201.0/24
 91.149.227.0/24
-#				
+
 ##	AS208046	Maximilian Kutzner trading as HostSlick / hostslick.com	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
 109.205.214.0/24
 185.196.220.0/24
@@ -176,12 +176,12 @@
 5.253.86.0/24
 78.142.18.0/24
 79.124.8.0/24
-#				
+
 ##	AS49447	Nice IT Services Group Inc. / as49447.net	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
 45.9.148.0/24
 45.9.149.0/24
 45.9.150.0/23
-#
+
 ###	AS202685 pfcloud.io
 ##	for Hosting malware / portscanners
 ####	See: https://github.com/greyhat-academy/lists.d/issues/42
@@ -193,7 +193,7 @@
 84.54.51.0/24
 87.121.69.0/24
 94.103.124.0/24
-#
+
 ###	AS396982	Google LLC
 ##	for Hosting malware / portscanners
 ####	See: https://github.com/greyhat-academy/lists.d/issues/57
@@ -203,9 +203,8 @@
 ##	expanse.co
 198.235.24.0
 205.210.31.0/24
-#
+
 ###	AS13335 Cloudflare Inc
 ##	for Hosting malware / portscanners
 ####	See: https://github.com/greyhat-academy/lists.d/issues/57
 104.28.154.0/24
-#

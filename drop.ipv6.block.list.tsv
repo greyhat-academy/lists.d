@@ -14,10 +14,10 @@
 2604:2280:ff00::/40
 2604:2280:fffe::/48
 2606:6680:5::/48
-#				
+
 ##	AS30860	Virtual Systems LLC / v-sys.org	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms]
 2a09:2dc0::/29
-#				
+
 ##	AS56655	TerraHost AS	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
 2a03:94e0::/32
 2a03:94e1::/32
@@ -26,7 +26,7 @@
 2a07:a342:7000::/36
 2a0a:4300::/29
 2a0f:c480::/29
-#				
+
 ##	AS208046	Maximilian Kutzner trading as HostSlick / hostslick.com	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
 2a06:a000:160::/44
 2a06:a001:a010::/44
@@ -38,11 +38,10 @@
 2a0f:ca80:618::/48
 2a0f:ca80:619::/48
 2a0f:ca83:1337::/48
-#				
+
 ##	AS49447	Nice IT Services Group Inc. / as49447.net	Rogue ISP	Providing Hosting Services for Hategrooming Forum [KiwiFarms]
 2a0e:fa00:1::/48
 2a0e:fa00::/48
-#
 
 ### AS202685 pfcloud.io
 ## for Hosting malware / portscanners
@@ -55,4 +54,3 @@
 2a06:1287:e800::/39
 2a0e:46c4:28c2::/48
 2a12:dd47:8500::/40
-#
