@@ -3,6 +3,14 @@
 #	This list contains domains of eMail Spammers
 #	Last-Modified	UNIXTIME:	1731344500
 
+##	Government Agencies
+###	Roskomnadzor
+####	Russia's Internet Censorship Agency
+####	Notorious for sending fraudulent takedown requests.
+####	see:	https://en.wikipedia.org/wiki/Roskomnadzor
+####	and:	https://stux.me/roskomnadzor-tried-getting-bellingcat-removed-from-mastodon/
+rkn.gov.ru
+
 ##	Shitcoins and CryptoBros
 ###	Moonblocks
 ####	see:	https://gist.github.com/kkarhan/b39ed57a439a92aaf79377f87fea6546
