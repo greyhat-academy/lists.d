@@ -1,7 +1,7 @@
 #	lists.d IPv4-DROP List	(c) 2024 Greyhat Academy	LICENSED UNDER:	CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/scrapers.ipv4.block.list.tsv
 #	This contains the IPv4 Adress Blocks of Scrapers
-#	Last-Modified	UNIXTIME:	1731345500
+#	Last-Modified	UNIXTIME:	1734722000
 
 #	ChatGPT
 ##	Source: https://openai.com/gptbot-ranges.txt
@@ -12,3 +12,4 @@
 20.171.207.0/24
 52.230.152.0/24
 52.233.106.0/24
+172.182.201.192/28
