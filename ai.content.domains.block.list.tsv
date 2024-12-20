@@ -1,7 +1,7 @@
 #	lists.d Domians-"AI Content" List	(c) 2023 Greyhat Academy	LICENSED UNDER:	CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/ai.content.domains.block.list.tsv
 #	This contains Domains of Sites that host "A.I. Content" and thus provide garbage.
-#	Last-Modified	UNIXTIME:	1731344500
+#	Last-Modified	UNIXTIME:	1734722000
 
 ## As per AI Blocklist
 ### Source:	https://codeberg.org/atf/AIBlocklist/raw/branch/main/aihosts.txt

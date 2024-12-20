@@ -1,7 +1,7 @@
 #	lists.d MIL/INTEL Blocklist (c) 2023 Greyhat Academy	LICENSED UNDER:	CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/milintel.ipv4.block.list.tsv
 #	This contains the IPv4 Adress Blocks of Military and Intelligence Networks
-#	Last-Modified	UNIXTIME:	1731344500
+#	Last-Modified	UNIXTIME:	1734722000
 ###	USA
 ##	DoD
 #	See:	https://en.wikipedia.org/wiki/List_of_assigned_/8_IPv4_address_blocks#List_of_assigned_/8_blocks_to_the_United_States_Department_of_Defense
