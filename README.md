@@ -22,6 +22,7 @@
 - Public Servers [They are freely accessible without registration or signups!]
   - [DNS](./dns.servers.list.tsv)
   - [NTP](./ntp.servers.list.tsv)
+  - [Search Engines](./searchpages.list.tsv)
   - [BitTorrent Trackers](./bittorent.trackers.list.tsv)
   - [IRC Networks](./irc.networks.list.tsv)
   - [Minecraft Gameservers](./minecraft.gameservers.list.tsv)
