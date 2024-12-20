@@ -1,6 +1,6 @@
 NAME	URL	ONION	TYPE	INDEX-SOURCE	COMMENT
 DuckDuckGo	https://duckduckgo.com	https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion	2nd Level Search	Bing	Default Search for Tor Browser.
-Ahmia	https://ahmia.fi	http://http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion	1st Level Search	Own Index	Search Engine for Tor. Beware: The only thing they scrape are known CSAM pages.
+Ahmia	https://ahmia.fi	http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion	1st Level Search	Own Index	Search Engine for Tor. Beware: The only thing they scrape are known CSAM pages.
 monocles Search	https://monocles.eu	-	3rd Level Search	Own Index (searx) + chooseable second sources	Privacy-Friendly search run by monocles. Financed through Subscriptions for Monocles' Services.
 clew	https://clew.se	-	3rd Level Search	Own Index + chooseable second sources	Donation-funded Search Engine that focuses on indexing original content and ranking sites by size and how much ads and tracking they force upon visitors.
 FrogFind	http://frogfind.com	-	Webproxy	DuckDuckGo	FrogFind is more of a open Web Proxy aimed at vintage computers rather than a classical search engine. Still it does offer okay search results and runs on everything.
