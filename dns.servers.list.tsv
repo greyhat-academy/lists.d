@@ -1,19 +1,19 @@
 Name	Provider	Network	IPv4	IPv6	HTTPS	TLS	FQDN	Website
 Tier1	verax	OpenNIC	94.103.153.176	2a02:990:219:1:ba:1337:cafe:3	-	-	ns5.opennic.glue	https://servers.opennic.org/edit.php?srv=ns5.opennic.glue
-Tier1	okashi_o	OpenNIC	144.76.103.143	2a01:4f8:192:43a5::2	-	okashi.me:853	ns13.opennic.glue	https://servers.opennic.org/edit.php?srv=ns13.opennic.glue
-Tier2	mistersixt	OpenNIC	94.16.114.254	2a03:4000:28:365::1	https://www.jabber-germany.de/dns-query	(Port: 853)	ns28.de.dns.opennic.glue	https://servers.opennic.org/edit.php?srv=ns28.de.dns.opennic.glue
-Tier2	mistersixt	OpenNIC	194.36.144.87	2a03:4000:4d:c92:88c0:96ff:fec6:b9d	https://www.morbitzer.de/dns-query	(Port: 853)	ns29.de.dns.opennic.glue	https://servers.opennic.org/edit.php?srv=ns29.de.dns.opennic.glue
+Tier1	okashi_o	OpenNIC	144.76.103.143	2a01:4f8:192:43a5::2	-	tls://okashi.me:853	ns13.opennic.glue	https://servers.opennic.org/edit.php?srv=ns13.opennic.glue
+Tier2	mistersixt	OpenNIC	94.16.114.254	2a03:4000:28:365::1	https://www.jabber-germany.de/dns-query	tls://www.jabber-germany.de/dns-query:853	ns28.de.dns.opennic.glue	https://servers.opennic.org/edit.php?srv=ns28.de.dns.opennic.glue
+Tier2	mistersixt	OpenNIC	194.36.144.87	2a03:4000:4d:c92:88c0:96ff:fec6:b9d	https://www.morbitzer.de/dns-query	tls://www.morbitzer.de/dns-query:853	ns29.de.dns.opennic.glue	https://servers.opennic.org/edit.php?srv=ns29.de.dns.opennic.glue
 Tier2	dfroe	OpenNIC	89.163.140.67	2001:4ba0:ffa4:1ce::	-	-	ns22.de.dns.opennic.glue	https://servers.opennic.org/edit.php?srv=ns22.de.dns.opennic.glue
 Tier2	libreops	OpenNIC	88.198.92.222	2a01:4f8:1c0c:82c0::1	-	-	ns25.de.dns.opennic.glue	https://servers.opennic.org/edit.php?srv=ns25.de.dns.opennic.glue
 Tier2	ethservices	OpenNIC	94.247.43.254	2a00:f826:8:1::254	https://opennic1.eth-services.de:853	-	ns8.he.de.dns.opennic.glue	https://servers.opennic.org/edit.php?srv=ns8.he.de.dns.opennic.glue
-Tier2	MTRNord	OpenNIC	95.217.202.35	2a01:4f9:4a:451c::2	http://ns1.nordgedanken.dev/dns-query	https://ns1.nordgedanken.dev/dns-query	ns1.fi.dns.opennic.glue	https://servers.opennic.org/edit.php?srv=ns1.fi.dns.opennic.glue
+Tier2	MTRNord	OpenNIC	95.217.202.35	2a01:4f9:4a:451c::2	http://ns1.nordgedanken.dev/dns-query	tls://ns1.nordgedanken.dev/dns-query:853	ns1.fi.dns.opennic.glue	https://servers.opennic.org/edit.php?srv=ns1.fi.dns.opennic.glue
 Primary	dns.watch	ICANN-ROOT	84.200.69.80	2001:1608:10:25::1c04:b12f	https://resolver1.dns.watch/dns-query	-	resolver1.dns.watch	https://dns.watch/
 Secondary	dns.watch	ICANN-ROOT	84.200.70.40	2001:1608:10:25::9249:d69b	https://resolver2.dns.watch/dns-query	-	resolver2.dns.watch	https://dns.watch/
 Primary	dns.sb	ICANN-ROOT	185.222.222.222	2a09::	-	-	public-dns-a.dns.sb	https://dns.sb/guide/
 Secondary	dns.sb	ICANN-ROOT	45.11.45.11	2a11::	-	-	public-dns-b.dns.sb	https://dns.sb/guide/
-Public	applied privacy	ICANN-ROOT	146.255.56.98	2a02:1b8:10:234::2	https://doh.applied-privacy.net/query	tls://dot1.applied-privacy.net	dot1.applied-privacy.net	https://applied-privacy.net/services/dns/
+Public	applied privacy	ICANN-ROOT	146.255.56.98	2a02:1b8:10:234::2	https://doh.applied-privacy.net/query	tls://dot1.applied-privacy.net:853	dot1.applied-privacy.net	https://applied-privacy.net/services/dns/
 Standard	Mullvad	ICANN-ROOT	194.242.2.2	2a07:e340::2	https://dns.mullvad.net:443	tls://dns.mullvad.net:853	dns.mullvad.net	https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
-dns3	digitalcourage.de	ICANN-ROOT	5.9.164.112	2a01:4f8:251:554::2	https://dns3.digitalcourage.de	tls://dns3.digitalcourage.de	dns3.digitalcourage.de	https://digitalcourage.de/support/zensurfreier-dns-server
+dns3	digitalcourage.de	ICANN-ROOT	5.9.164.112	2a01:4f8:251:554::2	https://dns3.digitalcourage.de	tls://dns3.digitalcourage.de:853	dns3.digitalcourage.de	https://digitalcourage.de/support/zensurfreier-dns-server
 Primary	digiges	ICANN-ROOT	185.95.218.42	2a05:fc84::42	https://dns.digitale-gesellschaft.ch/dns-query	tls://dns.digitale-gesellschaft.ch:853	dns.digitale-gesellschaft.ch	https://www.digitale-gesellschaft.ch/dns/
 Secondary	digiges	ICANN-ROOT	185.95.218.43	2a05:fc84::43	https://dns.digitale-gesellschaft.ch/dns-query	tls://dns.digitale-gesellschaft.ch:853	dns.digitale-gesellschaft.ch	https://github.com/DigitaleGesellschaft/DNS-Resolver#technical-information--configuration-how-tos
 Main	artikel10	ICANN-ROOT	45.151.167.2	2001:678:e3c::2	https://dns.artikel10.org/dns-query	tls://dns.artikel10.org:853	dns.artikel10.org	https://dns.artikel10.org/
@@ -22,9 +22,9 @@ unicast	uncensoreddns.org	ICANN-ROOT	89.233.43.71	2a01:3a0:53:53::	https://unica
 fdns1	dismail	ICANN-ROOT	116.203.32.217	2a01:4f8:1c1b:44aa::1		tls://fdns1.dismail.de:853	fdns1.dismail.de	https://dismail.de/info.html#dns
 fdns2	dismail	ICANN-ROOT	159.69.114.157	2a01:4f8:c17:739a::2		tls://fdns2.dismail.de:853	fdns2.dismail.de	https://dismail.de/info.html#dns
 fra1	ns-global.zone	ICANN-ROOT	45.87.161.35	2a04:5b82:3:8700:0:c0ff:fee3:f93e	-	-	fra1.ns-global.zone	https://ns-global.zone/faq/
-Default	Quad9	ICANN-ROOT	9.9.9.9	2620:fe::fe	https://dns.quad9.net/dns-query	tls://dns.quad9.net	-	https://www.quad9.net/service/service-addresses-and-features
-Default	Quad9	ICANN-ROOT	149.112.112.112	2620:fe::9	https://dns.quad9.net/dns-query	tls://dns.quad9.net	-	https://www.quad9.net/service/service-addresses-and-features
-Secured	Quad9	ICANN-ROOT	9.9.9.11	2620:fe::11	https://dns11.quad9.net/dns-query	tls://dns11.quad9.net	-	https://www.quad9.net/service/service-addresses-and-features
-Secured	Quad9	ICANN-ROOT	149.112.112.11	2620:fe::fe:11	https://dns11.quad9.net/dns-query	tls://dns11.quad9.net	-	https://www.quad9.net/service/service-addresses-and-features
-Unfiltered	Quad9	ICANN-ROOT	9.9.9.10	2620:fe::10	https://dns10.quad9.net/dns-query	tls://dns10.quad9.net	-	https://www.quad9.net/service/service-addresses-and-features
-Unfiltered	Quad9	ICANN-ROOT	149.112.112.10	2620:fe::fe:10	https://dns10.quad9.net/dns-query	tls://dns10.quad9.net	-	https://www.quad9.net/service/service-addresses-and-features
+Default	Quad9	ICANN-ROOT	9.9.9.9	2620:fe::fe	https://dns.quad9.net/dns-query	tls://dns.quad9.net:853	dns9.quad9.net	https://www.quad9.net/service/service-addresses-and-features
+Default	Quad9	ICANN-ROOT	149.112.112.112	2620:fe::9	https://dns.quad9.net/dns-query	tls://dns.quad9.net:853	dns.quad9.net	https://www.quad9.net/service/service-addresses-and-features
+Secured	Quad9	ICANN-ROOT	9.9.9.11	2620:fe::11	https://dns11.quad9.net/dns-query	tls://dns11.quad9.net:853	dns11.quad9.net	https://www.quad9.net/service/service-addresses-and-features
+Secured	Quad9	ICANN-ROOT	149.112.112.11	2620:fe::fe:11	https://dns11.quad9.net/dns-query	tls://dns11.quad9.net:853	dns11.quad9.net	https://www.quad9.net/service/service-addresses-and-features
+Unfiltered	Quad9	ICANN-ROOT	9.9.9.10	2620:fe::10	https://dns10.quad9.net/dns-query	tls://dns10.quad9.net:853	dns10.quad9.net	https://www.quad9.net/service/service-addresses-and-features
+Unfiltered	Quad9	ICANN-ROOT	149.112.112.10	2620:fe::fe:10	https://dns10.quad9.net/dns-query	tls://dns10.quad9.net:853	dns10.quad9.net	https://www.quad9.net/service/service-addresses-and-features
