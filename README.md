@@ -6,6 +6,8 @@
 - Software
   - [Download Links to popular Software and Distributions](./largefiles.downloads.links.list.tsv)
 - Devices
+  - [EID](./eid.devices.list.tsv)
+  - [ICCID](./iccid.devices.list.tsv)
   - [IMEI](./imei.devices.list.tsv)
   - [MAC](./mac.devices.list.tsv)
   - [USB Device IDs](./usb.devices.list.tsv)
