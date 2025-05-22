@@ -1,7 +1,7 @@
 #	lists.d Spammer Blocklist	(c) 2023-2025 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/spammers.domains.block.list.tsv
 #	This list contains domains of eMail Spammers
-#	Last-Modified	UNIXTIME:	1743389500
+#	Last-Modified	UNIXTIME:	1747937500
 
 ##	Government Agencies
 ###	Roskomnadzor
@@ -83,11 +83,13 @@ easefreightinc.com
 ###	These allowed hijacking of Domains and have been seen abused for distributing spam
 013.net
 cgocable.ca
+europemail.com
 euskalnet.net
 fredericshensch.de
 hinet.net
 mediago.ca
 sa-vermorel.fr
+sntcursist.be
 telenet.be
 twintravel.ca
 
