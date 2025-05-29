@@ -1,5 +1,6 @@
 # lists.d
 ### listings for known devices, device identifiers, public servers and more.
+For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
 
 ---
 ## Currently Existing Lists:

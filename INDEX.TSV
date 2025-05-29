@@ -1,0 +1,48 @@
+FILE NAME	TYPE	USE	ENTRIES TYPE	COMMENT
+activitypub.bots.block.list.tsv	TSV	Blocklist - application-specific	Annoying / Spammy Bots	Filtering Annoying Bots
+activitypub.domains.block.list.tsv	TSV	Blocklist - application-specific	Hostile & Spammy Domains	Blocking Instances that are hostile or just just bad
+activitypub.servers.list.tsv	TSV	Recommendation List	ActivityPub Instances	Servers recommended by maintainers
+activitypub.threads.domains.block.list.tsv	TSV	Blocklist - application-specific	Threads & Associated Domains	Helps stop data collection by NSAbook and thus enshittification of the Fediverse
+ai.content.domains.block.list.tsv	TSV	Blocklist - Domains	AI Slop Websites	These are value-removing websites that are a waste of time, traffic and storage to even open
+bittorrent.trackers.list.tsv	TSV	Recommendation List	BitTorrent Trackers	For use with BitTorrent na magnet: - links to make it easier to share and find peers
+blocklists.list.tsv	TSV	Recommendation List	Lists	A list of (recommended) blocklists from both within this project and trusted 3rd parties
+default.logins.list.tsv	TSV	Logins	Vendor/Manufacturer default logins	For accessing devices - These should be considered insecure and be tested against!
+desktop.wallpapers.list.tsv	TSV	File Links	Wallpapers used by maintainer	For easy retrieval - No decision re: said licensing is done.
+dialup.providers.list.tsv	TSV	Recommendation List	Dialup Internet Providers	For the few edgecases where this is the only working internet access.
+dns.servers.list.tsv	TSV	Recommendation List	DNS Servers	List of trustworthy DNS Servers
+domains.allow.list.tsv	TSV	Recommendation List	Domains	List of trustworthy sites
+donations.monero.wallets.list.tsv	TSV	Recommendation List	Monero Wallet Addresses	List of publicly known and verified Monero Wallet Addresses to donate to - These are mostly FLOSS Projects and other initiatives
+dontreport.security.list.tsv	TSV	Discrecommendation List	Hostile Actors	Places known to sue security researchers who do responsible disclosures towards them - Thus recommended to not interact with!
+drop.asn.block.list.tsv	TSV	Blocklist - ASNs	Don't Route Or Peer Networks	Hostile Networks that should not be peered, routed or connected to at all - ASNs
+drop.domains.block.list.tsv	TSV	Blocklist - Domains	Don't Route Or Peer Networks	Hostile Networks that should not be peered, routed or connected to at all - Domains
+drop.ipv4.block.list.tsv	TSV	Blocklist - IPv4	Don't Route Or Peer Networks	Hostile Networks that should not be peered, routed or connected to at all - IPv4 allocations
+drop.ipv6.block.list.tsv	TSV	Blocklist - IPv6	Don't Route Or Peer Networks	Hostile Networks that should not be peered, routed or connected to at all - IPv6 allocations
+eid.devices.list.tsv	TSV	Known Identifiers	EID Numbers	Known eSIMs
+email.servers.list.tsv	TSV	Recommendation List	eMail Providers	Known good eMail Providers
+free.filehosters.list.tsv	TSV	Recommendation List	Filehosters	Known good (free) Filehosters
+free.webhosters.list.tsv	TSV	Recommendation List	Webhosters	Known good (free) Webhosters
+gambling.domains.block.list.tsv	TSV	Blocklist - Domains	Gambling Domains	Known sites facilitating Gambling
+homebrew.list.tsv	TSV	Recommendation List	Homebrew Games	Known Homebrew Games
+iccid.devices.list.tsv	TSV	Known Identifiers	ICCID Numbers	Known SIM Cards
+imei.devices.list.tsv	TSV	Known Identifiers	IMEI Numbers	Known Mobile/Cellular Network Devices
+INDEX.TSV	TSV	List	Index of Repository	This file Explaining the contents of the Repository
+iptv.livestreams.list.tsv	TSV	List	IPTV Livestream Links	Known freely accessible IPTV streams
+irc.networks.list.tsv	TSV	Recommendation List	IRC Networks	Known IRC Netowrks
+largefiles.downloads.links.list.tsv	TSV	Recommendation List	Large File Downloads	Quick Linklist to popular large file downloads
+LICENSE.md	MD	License Text	License for this repo	The repo and it's contents are licensed under CC-BY-NC-SA 4.0
+logins.list.tsv	TSV	Discrecommendation List	Unsafe Logins	Logins known and thus to be considered unsafe
+mac.devices.list.tsv	TSV	Known Identifiers	MAC Addresses	Known Network Devices MAC Address
+milintel.ipv4.block.list.tsv	TSV	Blocklist - IPv4	Don't Route Or Peer	Known Military/Intelligence Networks Address Spaces which are subject to spoofing - IPv4 Addresses
+minecraft.gameservers.list.tsv	TSV	Recommendation List	Minecraft Game Servers	Public Gameservers that are well-known
+ntp.servers.list.tsv	TSV	Recommendation List	NTP Servers	Publicly Known NTP Servers from reputable Operators
+onion.domains.list.tsv	TSV	Recommendation List	.onion Sites	Publicly known Onion Services - bona-fide entries only
+onionlists.list.tsv	TSV	Recommendation List	List of Lists	List of Onion Services' Lists - bona fide entries only
+README.md	MD	README	Project Readme	Explainer File to explain the Project
+scrapers.ipv4.block.list.tsv	TSV	Blocklist - IPv4	Aggressive Scrapers	Known Aggressive Scrapers for "AI" and other bs - IPv4 allocations
+searchpages.list.tsv	TSV	Recommendation List	Web Searches	Known good Web Search Sites
+spammers.domains.block.list.tsv	TSV	Blocklist - Domains	Spammer Domains	Domain Blocklist for known Spammers
+spammers.phone.numbers.list.tsv	TSV	Blocklist - Phone Numbers	Phone Numbers	Blocklist for known Spamcall-Bots and Scammers
+typos.domains.block.list.tsv	TSV	Blocklist - Domains	Typosquatting Domains	Blocklist for Typosquatting Domains
+usb.devices.list.tsv	TSV	Known Identifiers	USB-IDs	Known USB Devices' Descriptors
+users.github.block.list.tsv	TSV	Blocklist - GitHub Users	GitHub Users	Users that are known for cybervandalism, blackmail and other disruptive practices
+xmpp.servers.list.tsv	TSV	Recommendation List	XMPP Servers	Public XMPP Servers - bona-fide entries only
