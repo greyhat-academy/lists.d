@@ -1,7 +1,7 @@
 #	lists.d Mastodon Blocklist	(c) 2022-2025 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.domains.block.list.tsv
 #	This list contains domains of toxic ActivityPub instances
-#	Last-Modified	UNIXTIME:	1743247000
+#	Last-Modified	UNIXTIME:	1750156500
 
 #	Scrapers
 ##	ContentNation
@@ -67,6 +67,7 @@ kiwifarms.pleroma.net
 ##	affiliated with KiwiFarms
 cum.salon
 poster.place
+nicecrew.digital
 ###	ban evasion by cum.salon
 cum.camp
 ryona.agency
