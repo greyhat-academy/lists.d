@@ -23,9 +23,12 @@ root	os1337	OS/1337 Project	OS/1337	OS Default	https://github.com/OS-1337/conf.d
 chip	chip	TheNextThing Company	PocketChip	OS Default	https://www.youtube.com/watch?v=Z1_-kPvDmn4&t=173s
 root	olimex	Olimex	Olimage	OS Default	https://github.com/OLIMEX/OLINUXINO/blob/master/DOCUMENTS/OLIMAGE/Olimage-guide.pdf
 4GUFI_****	12345678	KuWfi	UF909-U11 Dongle 4G	OS Default	https://www.amazon.de/dp/B0BR747S27
+4G_UFI_****	12345678	SincereOne	Wingle UF10	OS Default	https://sincereonetech.com/products/oem-4g-lte-usb-wingle-uf10-usb-modem/
 4G-UFI-XX	1234567890	Richer-R	USB WiFi Dongle 4G	OS Default	https://www.amazon.de/dp/B0C8TXQQDX
 admin	openmediavault	OpenMediaVault	OMV 7.x	OS Default	https://www.youtube.com/watch?v=l30sADfDiM8&t=1476s
 Administrator	n%(dU32p	Justice Tech Solutions	Securebook 5	UEFI Default	https://www.youtube.com/watch?v=bRoRPiDOtUg&t=490s
 HUAWEI_B628_A596	TDQNB1GR63F	Huawei	B628-265	Default Wifi Password	https://www.amazon.de/dp/B08LD4ZLGK
 admin	M8B82NF1	Huawei	B628-265	OS Default	https://www.amazon.de/dp/B08LD4ZLGK
 admin	admin	ZLT	X25 Pro	OS Default	https://sincereonetech.com/products/5g-router-zlt-x25-pro-dual-band/
+D311-****	1234567890	SincereOne	D311-R	OS Default	https://sincereonetech.com/products/cheap-oem-d311-r-4g-cpe-router/
+[none]	admin	SincereOne	Wingle UF10	OS Default	https://sincereonetech.com/products/oem-4g-lte-usb-wingle-uf10-usb-modem/

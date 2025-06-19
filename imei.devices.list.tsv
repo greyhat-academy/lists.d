@@ -4,6 +4,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 012810000392298	WWAN-MODEM	Sierra Wireless	MC7700	https://www.amazon.de/gp/product/B07WPYPZMF
 012810001240629	WWAN-MODEM	Sierra Wireless	MC7700	https://www.amazon.de/dp/B08JTGSFBV
 013937003271275	WWAN-MODEM	Sierra Wireless	EM7345	https://www.amazon.de/dp/B078W3LXKL
+014993003011467	WWAN-ROUTER	Alcatel	HH41NH	https://sincereonetech.com/products/alcatel-linkhub-hh41nh-4g-cpe-wifi-router/
 015184001831242	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/133485833900
 015184008649688	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/333786927321
 015550005763393	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/402562138788
@@ -43,6 +44,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 352375017184342	WWAN-MODEM	Option	GTM378	https://www.ebay.de/itm/332175570405
 353056113817956	PHONE	Apple	iPhone 12	https://www.youtube.com/watch?v=FY7DtKMBxBw&t=121s
 353056113986108	PHONE	Apple	iPhone 12	https://www.youtube.com/watch?v=FY7DtKMBxBw&t=121s
+353098074215804	WWAN-MODEM	Huawei	K5160	https://sincereonetech.com/products/nice-huawei-k5160-4g-usb-modem-dongle/
 353514352825403	PHONE	Apple	iPhone 14	https://www.youtube.com/watch?v=Vk1CyqcIGsE&t=50s
 353514352962685	PHONE	Apple	iPhone 14	https://www.youtube.com/watch?v=Vk1CyqcIGsE&t=50s
 353655377153716	PHONE	Apple	iPhone 14 Pro	https://www.youtube.com/watch?v=K2WhU77ihw8&t=27s
@@ -72,6 +74,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 357409038018182	PHONE	Simvalley	PW-315.touch	https://derstandard.at/1360161329508/PW-315touch-im-Test-Eine-Handy-Uhr-als-Smartwatch-Alternative
 357511107043098	PHONE	ANØM	Phone	https://youtu.be/eeN5ao43L-4?t=5
 357611107043080	PHONE	ANØM	Phone	https://youtu.be/eeN5ao43L-4?t=5
+357621098690670	WWAN-ROUTER	4GUKO	LT210F	https://sincereonetech.com/products/lte-band-cpe-router-lt210f-4g-wifi/
 357932010004482	SATELLITE-MODEM	Thuraya	9103 IP	https://www.ebay.de/itm/155680404369
 357943035089390	WWAN-MODEM	Huawei	E160	https://www.ebay.de/itm/114743211215
 358108025961243	WWAN-MODEM	Huawei	E172	https://www.ebay.de/itm/271806913225
@@ -84,22 +87,27 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 442883406964780	PHONE	Motorola	MicroTAC International 7200	https://www.ebay.de/itm/296946378761
 860461020018696	WWAN-MODEM	Huawei	ME909u-521	https://www.amazon.de/dp/B00NPX09QY
 860719025598305	WWAN-MODEM	SIMcom	S2-105HE-Z141B	https://www.amazon.de/dp/B081JPP3TD
+861785055083152	WWAN-ROUTER	SincereOne	D311-R	https://sincereonetech.com/products/cheap-oem-d311-r-4g-cpe-router/
 862295951149773	WWAN-MODEM	SIMCom	A7670E	https://www.amazon.de/dp/B097K14K18
 862506045677153	WWAN-ROUTER	Tenda	4G06	https://www.ebay.de/itm/364569931873
 862636050022076	WWAN-MODEM	SIMcom	SIM7600G	https://www.amazon.de/dp/B091PXGBXY
+862953064398438	WWAN-ROUTER	HUAWEI	B535-932a	https://sincereonetech.com/products/huawei-b535-932a-4g-router-3-pro-b535/
 863212030054826	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/274646058252
 863460040382535	PHONE	Inrico	S200	https://www.ebay.de/itm/124654870170
 863460040382543	PHONE	Inrico	S200	https://www.ebay.de/itm/124654870170
 864172045479278	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/401544571863
+864346020006575	WWAN-MODEM	Huawei	E3372s-153	https://sincereonetech.com/products/new-huawei-e3372s-153-4g-usb-stick/
 865095070031459	PHONE	Nubia Technology	NX789J	https://www.youtube.com/watch?v=KHg1IhOm2zE&t=73s
 865095070033455	PHONE	Nubia Technology	NX789J	https://www.youtube.com/watch?v=KHg1IhOm2zE&t=73s
 865144050307164	WWAN-ROUTER	China Unicom	5G VN007+	https://www.ebay.de/itm/314824552443
 865234030176928	WWAN-MODEM	SIMcom	SIM7000E	https://www.amazon.de/dp/B07DL9GFM1
+865845063149195	WWAN-ROUTER	Huawei	B435-232a	https://sincereonetech.com/products/huawei-b535-232a-4g-cat7-wifi-router/
 866207150748170	PHONE	SOYES	XS13	https://www.youtube.com/watch?v=CfOEeydN4x0&t=101s
 866207150748188	PHONE	SOYES	XS13	https://www.youtube.com/watch?v=CfOEeydN4x0&t=101s
 866207152015438	PHONE	SERVO	KING 9000	https://www.ebay.de/itm/315162337329
 866207152015446	PHONE	SERVO	KING 9000	https://www.ebay.de/itm/315162337329
 866442043681029	WWAN-ROUTER	MUAMA	Ryoko	https://youtu.be/mYly1irRrBE?t=724
+866519012132934	WWAN-MODEM	Huwaei	E32776s-500	https://sincereonetech.com/products/nice-huawei-e3276s-500-4g-lte-modem/
 866680040260129	WWAN-MODEM	Quectel	EM06-E	https://www.amazon.de/dp/B089F1PW1Z
 866760060296052	WWAN-ROUTER	ZLT	X25 PRO	https://sincereonetech.com/products/5g-router-zlt-x25-pro-dual-band/
 867160023375037	WWAN-MODEM	Huawei	ME906s-158	https://www.ebay.de/itm/224311289871
@@ -117,8 +125,12 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 868368040002066	WWAN-MODEM	Huawei	Me909s-120p V2	https://www.ebay.de/itm/154848198990
 868426041653000	WWAN-Router	Huawei	B628-265	https://www.amazon.de/dp/B08LD4ZLGK
 868822041526128	WWAN-MODEM	SIMcom	SIM7600G	https://www.amazon.de/dp/B09LV1VY4S
+868916040109470	WWAN-MODEM	ZTE	MF79U	https://sincereonetech.com/products/zte-mf79u-4g-wingle-cat-usb-wifimodem/
+868998062513151	WWAN-MODEM	ZTE	MF79U	https://sincereonetech.com/products/zte-mf79u-4g-wingle-cat-usb-wifimodem/
 869035030247650	WWAN-ROUTER	-unknown-	-unknown-	https://www.amazon.de/dp/B0921TNNVG
 869035030416347	WWAN-ROUTER	-unknown-	-unknown-	https://www.amazon.de/dp/B0921TNNVG
+869383052845104	WWAN-MODEM	SincereTech	Wingle UF10	https://sincereonetech.com/products/oem-4g-lte-usb-wingle-uf10-usb-modem/
 869798055711641	WWAN-ROUTER	Simvalley	WiFi mini JM01N	https://www.amazon.de/dp/B0BX6CTZ56
 869887030131098	PHONE	Inrico	TM-7Plus	https://www.amazon.de/dp/B08354JTH3
 869887030131106	PHONE	Inrico	TM-7Plus	https://www.amazon.de/dp/B08354JTH3
+990008890634897	WWAN-ROUTER	ZTE	MF279	https://sincereonetech.com/products/smart-home-hub-zte-mf279-4g-router-att/
