@@ -7,10 +7,10 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
 - Software
   - [Download Links to popular Software and Distributions](./largefiles.downloads.links.list.tsv)
 - Devices
-  - [EID](./eid.devices.list.tsv)
-  - [ICCID](./iccid.devices.list.tsv)
-  - [IMEI](./imei.devices.list.tsv)
-  - [MAC](./mac.devices.list.tsv)
+  - [EID](./eid.devices.list.tsv) - eSIMs
+  - [ICCID](./iccid.devices.list.tsv) - SIM Cards
+  - [IMEI](./imei.devices.list.tsv) - WWAN Modems
+  - [MAC](./mac.devices.list.tsv) - (W)LAN Devices
   - [USB Device IDs](./usb.devices.list.tsv)
   - [known default logins](./default.logins.list.tsv)
 - Services [You'll need to register / sign-up for to use them!]
