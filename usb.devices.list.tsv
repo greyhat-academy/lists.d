@@ -8,3 +8,10 @@ VENDOR-ID	DEVICE-ID	SERIAL	VENDOR	DEVICE	TYPE	DESCRIPTION	SOURCE
 0x2E8A	0x100E		Adafruit Industries	Raspberry Pi Zero	SBC	Pi Zero running CircuitPython	https://github.com/raspberrypi/usb-pid
 0x2E8A	0x1015		Adafruit Industries	Raspberry Pi Zero 2 W	SBC	Pi Zero 2 W running CircuitPython	https://github.com/raspberrypi/usb-pid
 0x2E8A	0x101E		Adafruit Industries	Raspberry Pi Zero W	SBC	Pi Zero W running CircuitPython	https://github.com/raspberrypi/usb-pid
+0x0644	0x0000		TEAC Corporation	USB Floppy	USB FLOPPY	External 3,5in 1440kB FDD drives	own hardware
+0x0a12	0x0001		Cambridge Silicon Radio Ltd.	Bluetooth Dongle (HCI mode)	BLUETOOTH ADAPTER	Compact USB dongle	own hardware
+0x045e	0x076c		Microsoft Corporation	Comfort Mouse 4500	HID	USB wired Mouse	own hardware
+0x17ef	0x6047		Lenovo	ThinkPad Compact Keyboard with TrackPoint	HID	KU-1255	own hardware
+0x046d	0x085c		Logitech Inc.	C922 Pro Stream	WEBCAM	USB-UVC driver	own hardware
+0x046d	0x0a6d		Logitech Inc.	G433 Gaming Headset	USB AUDIO ADAPTER	Included with the G433 headset	own hardware
+0x045e	0x028e		Microsoft Corporation	Xbox 360 Controller	USB Gamepad	Wired Xbox 360 Controller	own hardware
