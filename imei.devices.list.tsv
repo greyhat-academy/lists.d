@@ -42,6 +42,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 350666871546034	PHONE	Apple	iPhone 14 Pro	https://www.youtube.com/watch?v=K2WhU77ihw8&t=50s
 352280110013838	WWAN-MODEM	Dell	DW5930e-eSIM	https://de.aliexpress.com/item/1005003821626657.html
 352375017184342	WWAN-MODEM	Option	GTM378	https://www.ebay.de/itm/332175570405
+352733103912341	WWAN-MODEM	Sierra Wireless	EM7455	https://www.ebay.de/itm/134422142821
 353056113817956	PHONE	Apple	iPhone 12	https://www.youtube.com/watch?v=FY7DtKMBxBw&t=121s
 353056113986108	PHONE	Apple	iPhone 12	https://www.youtube.com/watch?v=FY7DtKMBxBw&t=121s
 353098074215804	WWAN-MODEM	Huawei	K5160	https://sincereonetech.com/products/nice-huawei-k5160-4g-usb-modem-dongle/
@@ -50,6 +51,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 353655377153716	PHONE	Apple	iPhone 14 Pro	https://www.youtube.com/watch?v=K2WhU77ihw8&t=27s
 353655974855187	PHONE	Apple	iPhone 14 Pro	https://www.youtube.com/watch?v=K2WhU77ihw8&t=50s
 353843103935694	PHONE	Apple	iPhone 11 Pro	https://www.youtube.com/watch?v=UXf791fUsP4&t=318s
+353990073207933	WWAN-MODEM	Sierra Wireless	EM7455	www.ebay.de/itm/135157375170
 354078075177475	TABLET	Panasonic	Touchpad FZ-M1	https://www.ebay.de/itm/275274262125
 354153049046625	WWAN-MODEM	Option	GTM671W	https://www.newegg.com/p/2S7-07JP-26601
 354324070030578	WWAN-MODEM	Sierra Wireless	EM7455	https://www.amazon.de/dp/B0783N98MR
@@ -62,6 +64,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 355562016169568	PHONE	Motorola	V3xx	https://youtu.be/PmGP86bmAnE?t=21
 355569041125217	WWAN-MODEM	Sierra Wireless	MC8355	https://www.amazon.de/dp/B0759ZM93T
 355606052083057	WWAN-MODEM	Sierra Wireless	EM8805	https://www.amazon.de/dp/B07WRQK3GB
+355690367865921	WWAN-MODEM	Sierra Wireless	EM9191	https://www.ebay.de/itm/326557137169
 355856028196091	WWAN-MODEM	Huawei	E160E	https://www.ebay.de/itm/264766706313
 356195050441698	WWAN-MODEM	Sierra Wireless	MC7355	https://www.amazon.de/dp/B00XLAWR3E
 356287000424895	PHONE	-	Fake iPhone 13 Pro Max	https://www.youtube.com/watch?v=jIQ10qSTZX8&t=31s
