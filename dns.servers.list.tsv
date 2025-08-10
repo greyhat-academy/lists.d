@@ -1,10 +1,4 @@
 Name	Provider	Network	IPv4	IPv6	HTTPS	TLS	FQDN	Website
-Default	Quad9	ICANN-ROOT	9.9.9.9	2620:fe::fe	https://dns.quad9.net/dns-query	tls://dns.quad9.net:853	dns9.quad9.net	https://www.quad9.net/service/service-addresses-and-features
-Default	Quad9	ICANN-ROOT	149.112.112.112	2620:fe::9	https://dns.quad9.net/dns-query	tls://dns.quad9.net:853	dns.quad9.net	https://www.quad9.net/service/service-addresses-and-features
-Secured	Quad9	ICANN-ROOT	9.9.9.11	2620:fe::11	https://dns11.quad9.net/dns-query	tls://dns11.quad9.net:853	dns11.quad9.net	https://www.quad9.net/service/service-addresses-and-features
-Secured	Quad9	ICANN-ROOT	149.112.112.11	2620:fe::fe:11	https://dns11.quad9.net/dns-query	tls://dns11.quad9.net:853	dns11.quad9.net	https://www.quad9.net/service/service-addresses-and-features
-Unfiltered	Quad9	ICANN-ROOT	9.9.9.10	2620:fe::10	https://dns10.quad9.net/dns-query	tls://dns10.quad9.net:853	dns10.quad9.net	https://www.quad9.net/service/service-addresses-and-features
-Unfiltered	Quad9	ICANN-ROOT	149.112.112.10	2620:fe::fe:10	https://dns10.quad9.net/dns-query	tls://dns10.quad9.net:853	dns10.quad9.net	https://www.quad9.net/service/service-addresses-and-features
 Tier1	verax	OpenNIC	94.103.153.176	2a02:990:219:1:ba:1337:cafe:3	-	-	ns5.opennic.glue	https://servers.opennic.org/edit.php?srv=ns5.opennic.glue
 Tier1	okashi_o	OpenNIC	144.76.103.143	2a01:4f8:192:43a5::2	-	tls://okashi.me:853	ns13.opennic.glue	https://servers.opennic.org/edit.php?srv=ns13.opennic.glue
 Tier2	mistersixt	OpenNIC	94.16.114.254	2a03:4000:28:365::1	https://www.jabber-germany.de/dns-query	tls://www.jabber-germany.de/dns-query:853	ns28.de.dns.opennic.glue	https://servers.opennic.org/edit.php?srv=ns28.de.dns.opennic.glue
@@ -28,3 +22,9 @@ unicast	uncensoreddns.org	ICANN-ROOT	89.233.43.71	2a01:3a0:53:53::	https://unica
 fdns1	dismail	ICANN-ROOT	116.203.32.217	2a01:4f8:1c1b:44aa::1		tls://fdns1.dismail.de:853	fdns1.dismail.de	https://dismail.de/info.html#dns
 fdns2	dismail	ICANN-ROOT	159.69.114.157	2a01:4f8:c17:739a::2		tls://fdns2.dismail.de:853	fdns2.dismail.de	https://dismail.de/info.html#dns
 fra1	ns-global.zone	ICANN-ROOT	45.87.161.35	2a04:5b82:3:8700:0:c0ff:fee3:f93e	-	-	fra1.ns-global.zone	https://ns-global.zone/faq/
+Default	Quad9	ICANN-ROOT	9.9.9.9	2620:fe::fe	https://dns.quad9.net/dns-query	tls://dns.quad9.net:853	dns9.quad9.net	https://www.quad9.net/service/service-addresses-and-features
+Default	Quad9	ICANN-ROOT	149.112.112.112	2620:fe::9	https://dns.quad9.net/dns-query	tls://dns.quad9.net:853	dns.quad9.net	https://www.quad9.net/service/service-addresses-and-features
+Secured	Quad9	ICANN-ROOT	9.9.9.11	2620:fe::11	https://dns11.quad9.net/dns-query	tls://dns11.quad9.net:853	dns11.quad9.net	https://www.quad9.net/service/service-addresses-and-features
+Secured	Quad9	ICANN-ROOT	149.112.112.11	2620:fe::fe:11	https://dns11.quad9.net/dns-query	tls://dns11.quad9.net:853	dns11.quad9.net	https://www.quad9.net/service/service-addresses-and-features
+Unfiltered	Quad9	ICANN-ROOT	9.9.9.10	2620:fe::10	https://dns10.quad9.net/dns-query	tls://dns10.quad9.net:853	dns10.quad9.net	https://www.quad9.net/service/service-addresses-and-features
+Unfiltered	Quad9	ICANN-ROOT	149.112.112.10	2620:fe::fe:10	https://dns10.quad9.net/dns-query	tls://dns10.quad9.net:853	dns10.quad9.net	https://www.quad9.net/service/service-addresses-and-features
