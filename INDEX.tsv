@@ -38,7 +38,7 @@ ntp.servers.list.tsv	TSV	Recommendation List	NTP Servers	Publicly Known NTP Serv
 onion.domains.list.tsv	TSV	Recommendation List	.onion Sites	Publicly known Onion Services - bona-fide entries only
 onionlists.list.tsv	TSV	Recommendation List	List of Lists	List of Onion Services' Lists - bona fide entries only
 README.md	MD	README	Project Readme	Explainer File to explain the Project
-scrapers.ipv4.block.list.tsv	TSV	Blocklist - IPv4	Aggressive Scrapers	Known Aggressive Scrapers for "AI" and other bs - IPv4 allocations
+scrapers.ipv4.block.list.tsv	TSV	Blocklist - IPv4	Aggressive Scrapers	Known Aggressive Scrapers for *AI* and other bs - IPv4 allocations
 searchpages.list.tsv	TSV	Recommendation List	Web Searches	Known good Web Search Sites
 spammers.domains.block.list.tsv	TSV	Blocklist - Domains	Spammer Domains	Domain Blocklist for known Spammers
 spammers.phone.numbers.list.tsv	TSV	Blocklist - Phone Numbers	Phone Numbers	Blocklist for known Spamcall-Bots and Scammers
