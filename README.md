@@ -6,13 +6,14 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
 ## Currently Existing Lists:
 - Software
   - [Download Links to popular Software and Distributions](./largefiles.downloads.links.list.tsv)
+  - [Homebrew](./homebrew.list.tsv) Games and Software for Game Consoles
 - Devices
   - [EID](./eid.devices.list.tsv) - eSIMs
   - [ICCID](./iccid.devices.list.tsv) - SIM Cards
   - [IMEI](./imei.devices.list.tsv) - WWAN Modems
   - [MAC](./mac.devices.list.tsv) - (W)LAN Devices
-  - [USB Device IDs](./usb.devices.list.tsv)
-  - [known default logins](./default.logins.list.tsv)
+  - [USB Device IDs](./usb.devices.list.tsv) of known devices
+  - [known default logins](./default.logins.list.tsv) for various systems
 - Services [You'll need to register / sign-up for to use them!]
   - [Dialup Internet Access](./dialup.providers.list.tsv)
   - [IPTV Streams](./iptv.livestreams.list.tsv)
@@ -41,6 +42,7 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
   - Application-Specific
     - [Hostile ActivityPub Servers](./activitypub.domains.block.list.tsv)
     - [ActivityPub "AI Bots"](./activitypub.bots.block.list.tsv)
+    - [ActivityPub Servers that federate with Facebook](./activitypub.threads.domains.block.list.tsv)
     - [eMail Spam Domains](./spammers.domains.block.list.tsv)
   - Platform-Specific
     - [Toxic GitHub Users](./users.github.block.list.tsv)
@@ -50,14 +52,17 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
       - Basically Garbage sites that only exist to commit Ad-Farming, Malware/Phishing and other scams like selling useless stuff noone needs or asks for...
   - Other Blocklists
     - [Spamcallers, Robocalls and Scammers' Phone numbers](spammers.phone.numbers.list.tsv)
+    - ["do not report security issues to" list](./dontreport.security.list.tsv)  based off hostility towards responsible disclosures.
+      - Organizations and Individuals that are known to litigate and attack those that report security issues to them.
+        - aka. ["shooting the messenger"](https://en.wikipedia.org/wiki/Shooting_the_messenger)
 - Lists of Lists
+  - [INDEX of this repository](./INDEX.tsv)
   - [Bona-Fide Onion Services](./onionlists.list.tsv)
   - [Network-wide Blocklists](./blocklists.list.tsv)
-- Other
+- Allowlists
+  - [Allowed Domains](domains.allow.list.tsv)
   - [Verified Monero Donation Wallets](./donations.monero.wallets.list.tsv) for several Open Source Projects and Services.
-  - ["do not report security issues to" list](./dontreport.security.list.tsv)  based off hostility towards responsible disclosures.
-    - Organizations and Individuals that are known to litigate and attack those that report security issues to them.
-      - aka. ["shooting the messenger"](https://en.wikipedia.org/wiki/Shooting_the_messenger)
+- Other
   - [public logins](./logins.list.tsv)
   - [Desktop Wallpapers](./desktop.wallpapers.list.tsv)
 
