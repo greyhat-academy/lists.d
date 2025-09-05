@@ -26,6 +26,7 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
 - Public Servers [They are freely accessible without registration or signups!]
   - [DNS](./dns.servers.list.tsv)
   - [NTP](./ntp.servers.list.tsv)
+  - [FTP](./ftp.servers.list.tsv)
   - [Search Engines](./searchpages.list.tsv)
   - [BitTorrent Trackers](./bittorent.trackers.list.tsv)
   - [IRC Networks](./irc.networks.list.tsv)

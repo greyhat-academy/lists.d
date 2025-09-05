@@ -21,6 +21,7 @@ eid.devices.list.tsv	TSV	Known Identifiers	EID Numbers	Known eSIMs
 email.servers.list.tsv	TSV	Recommendation List	eMail Providers	Known good eMail Providers
 free.filehosters.list.tsv	TSV	Recommendation List	Filehosters	Known good (free) Filehosters
 free.webhosters.list.tsv	TSV	Recommendation List	Webhosters	Known good (free) Webhosters
+ftp.servers.list.tsv	TSV	Recommendation List	FTP Servers	known good (public) FTP Servers
 gambling.domains.block.list.tsv	TSV	Blocklist - Domains	Gambling Domains	Known sites facilitating Gambling
 homebrew.list.tsv	TSV	Recommendation List	Homebrew Games	Known Homebrew Games
 iccid.devices.list.tsv	TSV	Known Identifiers	ICCID Numbers	Known SIM Cards
