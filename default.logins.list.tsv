@@ -9,6 +9,7 @@ orangepi	orangepi	Orange Pi	Orange Pi OS	OS default	https://askubuntu.com/questi
 ubuntu	ubuntu	Canonical	Ubuntu Server OS	OS default	https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/
 1@1.com	test	Microsoft	Windows 11	Fake-Account for Testing to circumvent Microsoft Account requirement.	https://www.reddit.com/r/Windows11/comments/tvdaxl/psa_you_can_set_up_windows_11_without_a_microsoft/
 test@test.com	test	Microsoft	Windows 11	Fake-Account for Testing to circumvent Microsoft Account requirement.	https://www.reddit.com/r/Windows11/comments/tvdaxl/psa_you_can_set_up_windows_11_without_a_microsoft/
+no@thankyou.com	[any]	Microsoft	Windows 10	Fake Account for bypassing Microsoft Account requirement.	https://www.youtube.com/watch?v=YmXKQnyn8DI&t=1395s
 user	live	DRBL	DRBL	OS Default	https://drbl.sourceforge.net/download/
 user	live	BunsenLabs	Berillium	OS Default	https://github.com/BunsenLabs/bunsen-configs-live/blob/41500219407becfc6635b84136a7da595fc58dca/welcome-live-cd.txt#L19
 admin	pfsense	Netgate	pfSense	OS Default	https://docs.netgate.com/pfsense/en/latest/usermanager/defaults.html
