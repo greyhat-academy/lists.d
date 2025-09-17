@@ -15,3 +15,4 @@ VENDOR-ID	DEVICE-ID	SERIAL	VENDOR	DEVICE	TYPE	DESCRIPTION	SOURCE
 0x046d	0x085c		Logitech Inc.	C922 Pro Stream	WEBCAM	USB-UVC driver	own hardware
 0x046d	0x0a6d		Logitech Inc.	G433 Gaming Headset	USB AUDIO ADAPTER	Included with the G433 headset	own hardware
 0x045e	0x028e		Microsoft Corporation	Xbox 360 Controller	USB Gamepad	Wired Xbox 360 Controller	own hardware
+0x07AF	0x0004		Microtech	USB to SCSI Bridge	USB Adapter	Used to connect SCSI devices via USB	https://www.youtube.com/watch?v=APn4IhaYAlc&t=482s
