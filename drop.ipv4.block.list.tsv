@@ -4,12 +4,6 @@
 #	Last-Modified	UNIXTIME:	1737401500
 
 ### KiwiFarms				
-##	AS397702	1776 Solutions, LLC	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms]
-103.114.191.0/24
-
-##	n/a	Flow Chemical Pty Ltd	Rogue ISP	Facilitates 1776 Solutions (see above)
-103.114.190.0/23
-
 ##	AS36114	VegasNAP LLC / fiberhub.com	Rogue ISP	Hosting Hategrooming Forum [KiwiFarms] via Colocation
 104.143.10.0/23
 104.194.0.0/23
