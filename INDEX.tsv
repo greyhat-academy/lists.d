@@ -30,6 +30,7 @@ INDEX.TSV	TSV	List	Index of Repository	This file Explaining the contents of the 
 iptv.livestreams.list.tsv	TSV	List	IPTV Livestream Links	Known freely accessible IPTV streams
 irc.networks.list.tsv	TSV	Recommendation List	IRC Networks	Known IRC Netowrks
 largefiles.downloads.links.list.tsv	TSV	Recommendation List	Large File Downloads	Quick Linklist to popular large file downloads
+lists.list.tsv	TSV	List of Lists	External Lists	Good 3rd party lists to reference for other purposes
 LICENSE.md	MD	License Text	License for this repo	The repo and it's contents are licensed under CC-BY-NC-SA 4.0
 logins.list.tsv	TSV	Discrecommendation List	Unsafe Logins	Logins known and thus to be considered unsafe
 mac.devices.list.tsv	TSV	Known Identifiers	MAC Addresses	Known Network Devices MAC Address
@@ -37,7 +38,6 @@ milintel.ipv4.block.list.tsv	TSV	Blocklist - IPv4	Don't Route Or Peer	Known Mili
 minecraft.gameservers.list.tsv	TSV	Recommendation List	Minecraft Game Servers	Public Gameservers that are well-known
 ntp.servers.list.tsv	TSV	Recommendation List	NTP Servers	Publicly Known NTP Servers from reputable Operators
 onion.domains.list.tsv	TSV	Recommendation List	.onion Sites	Publicly known Onion Services - bona-fide entries only
-onionlists.list.tsv	TSV	Recommendation List	List of Lists	List of Onion Services' Lists - bona fide entries only
 README.md	MD	README	Project Readme	Explainer File to explain the Project
 scrapers.ipv4.block.list.tsv	TSV	Blocklist - IPv4	Aggressive Scrapers	Known Aggressive Scrapers for *AI* and other bs - IPv4 allocations
 searchpages.list.tsv	TSV	Recommendation List	Web Searches	Known good Web Search Sites

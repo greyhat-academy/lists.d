@@ -1,3 +1,0 @@
-NAME	RAW	REPO	MAINTAINER	NOTES
-lists.d onion.domains.list.tsv	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/onion.domains.list.tsv	https://github.com/greyhat-academy/lists.d/blob/main/onion.domains.list.tsv	Greyhat Academy	Only Bona-fide sites, no onion-exclusive services. Require on-site, human-readable backlinking.
-real-world-onion-sites	https://github.com/alecmuffett/real-world-onion-sites/raw/master/master.csv	https://github.com/alecmuffett/real-world-onion-sites/blob/master/master.csv	Alex Muffet	Only Bona-fide sites, no onion-exclusive services.

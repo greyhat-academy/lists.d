@@ -58,7 +58,7 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
         - aka. ["shooting the messenger"](https://en.wikipedia.org/wiki/Shooting_the_messenger)
 - Lists of Lists
   - [INDEX of this repository](./INDEX.tsv)
-  - [Bona-Fide Onion Services](./onionlists.list.tsv)
+  - [Bona-Fide Onion Services](./onion.domains.list.tsv)
   - [Network-wide Blocklists](./blocklists.list.tsv)
 - Allowlists
   - [Allowed Domains](domains.allow.list.tsv)
