@@ -1,4 +1,4 @@
-NAME	PROVIDER	FEED URL	TYPE	Filter Type	COMMENT	WEBSITE
+NAME	PROVIDER	FEED URL	TYPE	FILTER TYPE	COMMENT	WEBSITE
 DROP	Spamhaus	https://www.spamhaus.org/drop/drop.txt	Security Blocklist	IPv4 Blocks	Illegitimate Networks (IP Adress Blocks)	https://www.spamhaus.org/drop/
 EDROP	Spamhaus	https://www.spamhaus.org/drop/edrop.txt	Security Blocklist	IPv4 Blocks	Cybercriminal-Controlled Networks (IP Adress Blocks)	https://www.spamhaus.org/drop/
 DROPv6	Spamhaus	https://www.spamhaus.org/drop/dropv6.txt	Security Blocklist	IPv6 Blocks	IPv6 Version of Spamhaus‘ EDROP (IPv6 Blocks)	https://www.spamhaus.org/drop/
