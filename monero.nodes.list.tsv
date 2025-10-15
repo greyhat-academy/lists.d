@@ -1,0 +1,9 @@
+NAME	IPv4	IPv6	RPC	CORRS	TOR	I2P	LOCATION	OPERATOR 	SOURCE	COMMENT
+-	-	-	-	http://xmr-de-2.boldsuck.org:18081	-	-	-	boldsuck	https://monero.fail/nodes.json	-
+-	-	-	-	http://xmr-de.boldsuck.org:18081	-	-	-	boldsuck	https://monero.fail/nodes.json	-
+-	-	-	-	https://xmr-de-2.boldsuck.org:18081	-	-	-	boldsuck	https://monero.fail/nodes.json	-
+-	-	-	-	http://xmr-node.cakewallet.com:18081	-	-	-	Cake Wallet	https://monero.fail/nodes.json	-
+-	-	-	-	http://node.monerodevs.org:18089	-	-	-	?	https://monero.fail/nodes.json	-
+-	-	-	-	http://node2.monerodevs.org:18089	-	-	-	?	https://monero.fail/nodes.json	-
+-	-	-	-	http://node3.monerodevs.org:18089	-	-	-	?	https://monero.fail/nodes.json	-
+
