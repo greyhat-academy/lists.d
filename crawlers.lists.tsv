@@ -1,0 +1,8 @@
+NAME	IPv4	IPv6	FQDN	USER AGENT	WEBSITE	TYPE	ROBOTS.TXT	COMMENTS
+monero.fail	-	-	nodex.monerujo.io	N/A	https://monero.fail/map	Monero Node Explorer	N/A	Indexes connected Monero Nodes
+ahmia.fi	-	-	-	[none]	https://ahmia.fi/documentation/indexing/	Search Engine for Tor Sites	SUPPORTED	Known Tor Sites will be added to their List of known Services regardless of robots.txt
+GPTbot	-	-	-	GPTbot	https://openai.com/gptbot-ranges.txt	AI crawler	IGNORED	AI Bot that refuses to honour robots.txt
+ByteSpider	-	-	-	ByteSpiter	-	AI crawler	IGNORED	AI Bot that refuses to honour robots.txt
+ClaudeBot	-	-	-	ClaudeBot	-	AI crawler	IGNORED	AI Bot that refuses to honour robots.txt
+ahrefs	-	-	-	AhrefsBot	https://ahrefs.com/robot	Site Crawler	SUPPORTED	Powers the database for both Ahrefs, a marketing intelligence platform, and Yep, an independent, privacy-focused search engine.
+ahrefs	-	-	-	AhrefsSiteAudit	https://ahrefs.com/robot	Site Crawler	SUPPORTED	Powers Ahrefs’ Site Audit tool.

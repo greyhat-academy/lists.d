@@ -68,6 +68,7 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
   - [public logins](./logins.list.tsv)
   - [Desktop Wallpapers](./desktop.wallpapers.list.tsv)
   - [known and verified Monero addresses](./donations.monero.wallets.list.tsv)
+  - [known crawlers](./crawlers.lists.tsv)
 
 ---
 ## Important Notice:
