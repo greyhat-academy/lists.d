@@ -3,7 +3,7 @@
 For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
 
 ---
-## Currently Existing Lists:
+## [Currently Existing Lists]((./INDEX.tsv)):
 - Software
   - [Download Links to popular Software and Distributions](./largefiles.downloads.links.list.tsv)
   - [Homebrew](./homebrew.list.tsv) Games and Software for Game Consoles
@@ -66,6 +66,7 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
 - Other
   - [public logins](./logins.list.tsv)
   - [Desktop Wallpapers](./desktop.wallpapers.list.tsv)
+  - [known and verified Monero addresses](./donations.monero.wallets.list.tsv)
 
 ---
 ## Important Notice:
