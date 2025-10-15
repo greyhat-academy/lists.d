@@ -1,3 +1,5 @@
 NAME	PROVIDER	FEED URL	LIST TYPE	FILE TYPE	COMMENT	WEBSITE
 BBS LIST	Telnet BBS Guide	https://www.telnetbbsguide.com/bbslist/bbslist.csv	Recommendation List	CSV	Recommended BBSes	https://www.telnetbbsguide.com/lists/download-list/
-Real Word Onion Sites	Alec Muffet	https://github.com/alecmuffett/real-world-onion-sites/raw/master/master.csv	Recommendation List	CSV	Tor Websites: Only Bona-fide sites, no onion-exclusive services.	https://github.com/alecmuffett/real-world-onion-sites/blob/master/master.csv
+Real Word Onion Sites	Alec Muffet	https://github.com/alecmuffett/real-world-onion-sites/raw/master/master.csv	Recommendation List	CSV	Tor Websites: Only Bona-fide sites, no onion-exclusive services	https://github.com/alecmuffett/real-world-onion-sites/blob/master/master.csv
+Monero Node List	Feather Wallet Project	https://raw.githubusercontent.com/feather-wallet/feather-nodes/refs/heads/master/nodes.yaml	Recommendation List	YAML	Default / Recommended Monero Nodes	https://github.com/feather-wallet/feather-nodes/blob/master/nodes.yaml
+Monero Node List	monero.fail	https://monero.fail/nodes.json	Connection List	JSON	List of known and online Monero nodes	https://monero.fail
