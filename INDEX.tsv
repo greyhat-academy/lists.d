@@ -36,6 +36,7 @@ logins.list.tsv	TSV	Discrecommendation List	Unsafe Logins	Logins known and thus 
 mac.devices.list.tsv	TSV	Known Identifiers	MAC Addresses	Known Network Devices MAC Address
 milintel.ipv4.block.list.tsv	TSV	Blocklist - IPv4	Don't Route Or Peer	Known Military/Intelligence Networks Address Spaces which are subject to spoofing - IPv4 Addresses
 minecraft.gameservers.list.tsv	TSV	Recommendation List	Minecraft Game Servers	Public Gameservers that are well-known
+monero.nodes.list.tsv	TSV	Recommendation List	Monero Nodes	Public Monero Nodes that are well-known
 ntp.servers.list.tsv	TSV	Recommendation List	NTP Servers	Publicly Known NTP Servers from reputable Operators
 onion.domains.list.tsv	TSV	Recommendation List	.onion Sites	Publicly known Onion Services - bona-fide entries only
 README.md	MD	README	Project Readme	Explainer File to explain the Project

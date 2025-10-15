@@ -30,6 +30,7 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
   - [Search Engines](./searchpages.list.tsv)
   - [BitTorrent Trackers](./bittorent.trackers.list.tsv)
   - [IRC Networks](./irc.networks.list.tsv)
+  - [Monero Nodes](./monero.nodes.list.tsv)
   - [Minecraft Gameservers](./minecraft.gameservers.list.tsv)
 - [Blocklists](./blocklists.list.tsv)
   - Network Security
