@@ -18,6 +18,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 300015010056120	SATELLITE-PHONE	Iridium	9555	https://www.ebay.de/itm/127115538268
 300015010111630	SATELLITE-PHONE	Iridium	9555	https://www.ebay.de/itm/127115538268
 300015010267310	SATELLITE-PHONE	Iridium	9555	https://www.ebay.de/itm/175322404483
+300025010801580	SATELLITE-MODEM	NAL Research Corporation	A3LA-X	https://www.ebay.de/itm/376589370446
 300038254007350	SATELLITE-MODEM	Iridium	9810	https://youtu.be/r-J0OmK5XiE?t=23
 300058060001070	SATELLITE-MODEM	Iridium	9770 Certus	https://www.iridium.com/products/iridium-certus-9770/
 300114040711960	SATELLITE-PHONE	Iridium	9505A	https://www.ebay.de/itm/357007351984
@@ -31,6 +32,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 300258060004030	SATELLITE-MODEM	Iridium	Certus 9704	https://www.iridium.com/products/certus-9704-module/
 300315060109050	SATELLITE-PHONE	Iridium	9575 PTT	https://youtu.be/Ed2fk325Vb0
 300325656863979	SATELLITE-MODEM	Iridium	9560 Go!	https://youtu.be/bwg4rAZdx9M?t=49
+300434010003279	SATELLITE-MODEM	Iridium	9603	https://m-cramer.shop/dokumente/Iridium-9603-N-Developers-Guide-v2-1.pdf
 300434051995630	SATELLITE-MODEM	Iridium	9603	https://www.iridium.com/developer-resources/#devres-terminals
 300434063064170	SATELLITE-MODEM	Iriridum	9603N Core	https://www.iridium.com/products/16130-mini-pcie-adapter/
 300434063206770	SATELLITE-MODEM	Sparkfun	RockBLOCK 9603	https://youtu.be/ym4-ZckfXg4?t=64
@@ -49,6 +51,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 353056113817956	PHONE	Apple	iPhone 12	https://www.youtube.com/watch?v=FY7DtKMBxBw&t=121s
 353056113986108	PHONE	Apple	iPhone 12	https://www.youtube.com/watch?v=FY7DtKMBxBw&t=121s
 353098074215804	WWAN-MODEM	Huawei	K5160	https://sincereonetech.com/products/nice-huawei-k5160-4g-usb-modem-dongle/
+353274021874551	PHONE	Motorola	W270	https://www.ebay.de/itm/276000638978
 353514352825403	PHONE	Apple	iPhone 14	https://www.youtube.com/watch?v=Vk1CyqcIGsE&t=50s
 353514352962685	PHONE	Apple	iPhone 14	https://www.youtube.com/watch?v=Vk1CyqcIGsE&t=50s
 353655377153716	PHONE	Apple	iPhone 14 Pro	https://www.youtube.com/watch?v=K2WhU77ihw8&t=27s
