@@ -131,6 +131,7 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 7683C22ACDD6	Ubiquiti	UDM	WWAN Router	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
 7CD30A128F18	HP	t620	Thin Client	Kleinanzeigen	Product Image	https://www.kleinanzeigen.de/s-anzeige/hp-t620-thin-client-amd-gx-217ga-1-65ghz-4gb-ram/2525628565-228-1087
 7CD30A254C85	HP	t730 Plus	Thin Client	eBay	Product Image	https://www.ebay.de/itm/386221740353
+6CD30A2C9607	HP	t630	Thin Client	eBay	Product Image	https://www.ebay.de/itm/286775466519
 7C030A374853	HP	t630	Thin Client	eBay	Product Image	https://www.ebay.de/itm/124975399881
 7C030A3F4873	HP	T620	Thin Client	eBay	Product Image	https://www.ebay.de/itm/124975399881
 7CD30A334B84	hp	t730 Plus	Thin Client	eBay	Product Image	https://www.ebay.de/itm/375193531741
@@ -173,6 +174,7 @@ AC49DB313634	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Bought for Repairabili
 AC49DB313634	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Repairability Testing	https://www.youtube.com/watch?v=8s7NmMl_-yg&t=90s
 AC49DB37018D	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Bought for Repairability Testing	https://youtu.be/8s7NmMl_-yg?t=92
 AC49DB37018D	Apple	iPhone 13 Pro	Smartphone	Hugh Jeffreys	Repairability Testing	https://www.youtube.com/watch?v=8s7NmMl_-yg&t=90s
+ACB57DBFC03F	HP	t520	Thin Client	eBay	Product Image	https://www.ebay.de/itm/226993311338
 B440A4301B68	Apple	Developer Transition Toolkit	Devkit	dosdude1	Screenshot	https://www.youtube.com/watch?v=pHSIUb5eYgs&t=832s
 B440A4302129	Apple	Developer Transition Toolkit	Devkit	dosdude1	Screenshot	https://www.youtube.com/watch?v=pHSIUb5eYgs&t=832s
 B440A4302490	Apple	Developer Transition Toolkit	Devkit	dosdude1	Screenshot	https://www.youtube.com/watch?v=pHSIUb5eYgs&t=832s
@@ -186,6 +188,7 @@ C445EC126E6E	Realtek	RTL8188ETV/5	WIFI Module	Pollin	Product Image	https://www.p
 C446196EE3B7	Broadcom	BCM94312HMG2L	WIFI Module	Amazon	Product Image	https://www.amazon.de/dp/B08FBD2LW6
 C8CBB82D6E8F	hp	t610	Thin Client	eBay	Product Image	https://www.ebay.de/itm/256533647120
 CBCBB803126A	hp	t520	Thin Client	Kleinanzeigen	Product Image	https://www.kleinanzeigen.de/s-anzeige/hp-t520-flexible-thin-client-8gb-ram-128gb-ssd-inkl-nt-fuss-os/2672228777-228-5196
+C8D3FF3AD679	hp	t520	Thin Client	eBay	Product Image	https://www.ebay.de/itm/297749898604
 CC2D21A5C2E0	Tenda	4G06	LTE Router	eBay	Product Image	https://www.ebay.de/itm/364569931873
 CCFD17B47F7D	Apple	-	Smartphone	Ubiquiti	Sample Output	https://youtu.be/JhI3Lx9t-vY?t=38
 D4AD20434454	SODIAL	USR-USR-WIFI-232-B2	Adaptor	eBay	Product Image	https://www.ebay.de/itm/205547498753
