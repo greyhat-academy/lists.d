@@ -2,7 +2,7 @@
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.threads.domains.block.list.tsv
 #	This list contains domains of ActivityPub Instances
 #	that are federating with Threads, the Twitter-Clone run by NSAbook / Stasibook aka. Meta nee Facebook
-#	Last-Modified	UNIXTIME:	1737401500
+#	Last-Modified	UNIXTIME:	1763199000
 
 # Project 92/Instagram fedi integration (codenamed Barcelona)
 ## See: https://github.com/greyhat-academy/lists.d/issues/47

@@ -31,6 +31,7 @@ INDEX.TSV	TSV	List	Index of Repository	This file Explaining the contents of the 
 iptv.livestreams.list.tsv	TSV	List	IPTV Livestream Links	Known freely accessible IPTV streams
 irc.networks.list.tsv	TSV	Recommendation List	IRC Networks	Known IRC Netowrks
 largefiles.downloads.links.list.tsv	TSV	Recommendation List	Large File Downloads	Quick Linklist to popular large file downloads
+LAST_CHANGE.timestamp	TXT	Versioning	UNIX Timestamp	To be checked for updates by automated tools
 lists.list.tsv	TSV	List of Lists	External Lists	Good 3rd party lists to reference for other purposes
 LICENSE.md	MD	License Text	License for this repo	The repo and it's contents are licensed under CC-BY-NC-SA 4.0
 logins.list.tsv	TSV	Discrecommendation List	Unsafe Logins	Logins known and thus to be considered unsafe
