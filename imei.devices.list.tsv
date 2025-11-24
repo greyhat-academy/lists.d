@@ -14,6 +14,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 087952364128756	PHONE	SERVO	BM111	https://de.aliexpress.com/item/1005007966827648.html
 300001001248429	SATELLITE-PHONE	Iridium	9505	https://www.ebay.de/itm/135259387553
 300001001718240	SATELLITE-PHONE	Iridium	9505	https://www.ebay.de/itm/315981302104
+300003000021990	SATELLITE-PHONE	Iridium	9522	https://www.ebay.de/itm/234492653459
 300006010601060	SATELLITE-MODEM	Iridium	Pilot	https://www.ebay.de/itm/195819147506
 300006010601910	SATELLITE-MODEM	Iridium	Pilot	https://www.ebay.de/itm/175888623811
 300006010808730	SATELLITE-MODEM	Iridium	Pilot	https://www.ebay.de/itm/195795080262
@@ -27,18 +28,22 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 300025010801580	SATELLITE-MODEM	NAL Research Corporation	A3LA-X	https://www.ebay.de/itm/376589370446
 300038254007350	SATELLITE-MODEM	Iridium	9810	https://youtu.be/r-J0OmK5XiE?t=23
 300058060001070	SATELLITE-MODEM	Iridium	9770 Certus	https://www.iridium.com/products/iridium-certus-9770/
+300058060110740	SATELLITE-MODEM	Iridium	9765 Go! exec	https://www.ebay.de/itm/397129101173
 300114040711960	SATELLITE-PHONE	Iridium	9505A	https://www.ebay.de/itm/357007351984
+300124000016120	SATELLITE-MODEM	Iridium	9522A	https://www.ebay.de/itm/235007722671
 300125010906970	SATELLITE-MODEM	NAL Research Corporation	A3LA-R	https://www.ebay.de/itm/395222340254
 300125060153250	SATELLITE-MODEM	Iridium	9523 Core	https://www.iridium.com/products/iridium-core-9523/
 300125062243330	SATELLITE-MODEM	Iridium	9523N	https://www.groundcontrol.com/en/product/iridium-9523n/
 300215010402790	SATELLITE-PHONE	Iridium	9575	https://youtu.be/fSaYHVF0x_8?t=3
 300215050153250	SATELLITE-MODEM	Iridium	9603	https://youtu.be/r-J0OmK5XiE?t=23
 300224010340680	SATELLITE-MODEM	NAL Research Corporation	A3LA-D	https://www.ebay.de/itm/127469283070
+300224810809440	SATELLITE-MODEM	Iridium	9522A	https://www.ebay.de/itm/234492653459
 300234010361880	SATELLITE-MODEM	Iridium	9602B	https://www.ebay.de/itm/226998522971
 300234063797650	SATELLITE-MODEM	Iridium	9602	https://youtu.be/r-J0OmK5XiE?t=23
 300234065790910	SATELLITE-MODEM	Sparkfun	RockBLOCK9602	https://youtu.be/ym4-ZckfXg4?t=64
 300258060000170	SATELLITE-MODEM	Iridium	Certus 9704 Developer Kit	https://www.iridium.com/products/certus-9704-satellite-iot-development-kit/
 300258060004030	SATELLITE-MODEM	Iridium	Certus 9704	https://www.iridium.com/products/certus-9704-module/
+300315010408030	SATELLITE-PHONE	Iridium	9575 PTT	https://www.ebay.de/itm/406199786461
 300315060109050	SATELLITE-PHONE	Iridium	9575 PTT	https://youtu.be/Ed2fk325Vb0
 300325656863979	SATELLITE-MODEM	Iridium	9560 Go!	https://youtu.be/bwg4rAZdx9M?t=49
 300434010003279	SATELLITE-MODEM	Iridium	9603	https://m-cramer.shop/dokumente/Iridium-9603-N-Developers-Guide-v2-1.pdf
