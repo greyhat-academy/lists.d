@@ -5,11 +5,25 @@ VENDOR-ID	DEVICE-ID	SERIAL	VENDOR	DEVICE	TYPE	DESCRIPTION	SOURCE
 0x046D	0x085C		Logitech Inc.	C922 Pro Stream	WEBCAM	USB-UVC driver	own hardware
 0x046D	0x0A6D		Logitech Inc.	G433 Gaming Headset	USB AUDIO ADAPTER	Included with the G433 headset	own hardware
 0x045E	0x028E		Microsoft Corporation	Xbox 360 Controller	USB Gamepad	Wired Xbox 360 Controller	own hardware
+0x045E	0x063E		Microsoft Corporation	Zune	Media Player	MPT Device Mode	https://treexy.com/products/driver-fusion/database/portable-devices/microsoft/zune/
+0x045E	0x0710		Microsoft Corporation	Zune	Media Player	MPT Device Mode	https://treexy.com/products/driver-fusion/database/portable-devices/microsoft/zune/
+0x045E	0x0719		Microsoft Corporation	Xbox 360 Wireless Reciever	USB Gamepad	Wireless Reciever to use an Xbox 360 Controller on Windows	https://treexy.com/products/driver-fusion/database/universal-serial-bus-devices/microsoft/xbox-360-wireless-receiver-for-windows/
+0x05AC	0x1290		Apple	iOS 17 NCM Device	TETHERING ADAPTER	Fake Network Adapter for NCM mode	https://treexy.com/products/driver-fusion/database/network-adapters/apple/ncm-device-for-ios17/
+0x06CB	0x0001		Synaptics	Touchpad	USB-TRACKPAD	Laptop Trackpad	https://treexy.com/products/driver-fusion/database/human-interface-devices/synaptics/usb-human-interface-device/
 0x07AF	0x0004		Microtech	USB to SCSI Bridge	USB Adapter	Used to connect SCSI devices via USB	https://www.youtube.com/watch?v=APn4IhaYAlc&t=482s
 0x0951	0x1642	001CC0EC30C8BBB085FE0131	Kingston Technology	DT101 G2	USB-FLASHDRIVE	Data Traveler Stick	https://youtu.be/2yQCOso_4hc?t=260
 0x0A12	0x0001		Cambridge Silicon Radio Ltd.	Bluetooth Dongle (HCI mode)	BLUETOOTH ADAPTER	Compact USB dongle	own hardware
-0x1337	0x1337	1337	.	.	USB-GADGET	PwnPi-ALOA default for USB Gadget	http://172.16.0.1:8000/#/usb
+0x1057	0x3026		Motorola	SM56	USB-Modem	Apple USB Modem	https://treexy.com/products/driver-fusion/database/modems/motorola/sm56-data-fax-modem/
+0x12D1	0x1F01	0x1f01	Huawei	E3372s-153	USB WWAN-MODEM	LTE Modem	draisberghof.de/usb_modeswitch/bb/viewtopic.php?t=2955
+0x1337	0x1337	1337	PwnPi-ALOA	Raspberry Pi	USB-GADGET	PwnPi-ALOA default for USB Gadget	http://172.16.0.1:8000/#/usb
 0x17EF	0x6047		Lenovo	ThinkPad Compact Keyboard with TrackPoint	HID	KU-1255	own hardware
+0x1EDD	0x5054		Iridium	9575 PTT Handset	SATELLITE PHONE	Serial Data Modem Mode	https://treexy.com/products/driver-fusion/database/id/usb/vid_1edd/
+0x1EDD	0x520C		Iridium	ROC Handset	SATELLITE PHONE	Serial Data Modem Mode	https://treexy.com/products/driver-fusion/database/id/usb/vid_1edd/
+0x1EDD	0x7545		Iridium	9575E Handset	SATELLITE PHONE	Serial Data Modem Mode	https://treexy.com/products/driver-fusion/database/id/usb/vid_1edd/
+0x1EDD	0x9555		Iridium	9555 Handset	SATELLITE PHONE	Serial Data Modem Mode	https://treexy.com/products/driver-fusion/database/id/usb/vid_1edd/
+0x1EDD	0x9575		Iridium	9575 Handset	SATELLITE PHONE	Serial Data Modem Mode	https://treexy.com/products/driver-fusion/database/id/usb/vid_1edd/
+0x1EDD	0xA575		Iridium	9555A Handset	SATELLITE PHONE	Serial Data Modem Mode	https://treexy.com/products/driver-fusion/database/id/usb/vid_1edd/
+0x2357	0x0101		Realtek	AC1200 Wireless Adapter	USB WIFI Adapter	External WiFi Adapter	https://treexy.com/products/driver-fusion/database/network-adapters/realtek/ac1200-wireless-dual-band-usb-adapter/
 0x2E8A	0x0003		Raspberry Pi	RP2040	MICROCONTROLLER	RP2040 in BOOTSEL mode	https://github.com/raspberrypi/usb-pid
 0x2E8A	0x0004		Raspberry Pi	RP2040	MICROCONTROLLER	RP2040 in PicoProbe mode	https://github.com/raspberrypi/usb-pid
 0x2E8A	0x1008		Pimoroni	PGA2040	MICROCONTROLLER	RP2020 in a PGA form factor for socketed applications	https://github.com/raspberrypi/usb-pid
