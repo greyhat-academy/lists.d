@@ -1,0 +1,114 @@
+NUMBER	CVV	SYSTEM	LOC	EXP	PIN	USER	PASS	TYPE	NOTE	SOURCE
+1354 1001 4004 955	NONE	UATP	-	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+2222 4000 1000 0008	737	MASTERCARD	CA	03/2030	-	-	-	Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+2222 4000 1000 0008	737	MASTERCARD	CA	03/2030	-	-	-	Credit	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+2222 4000 3000 0004	737	MASTERCARD	CA	03/2030	-	-	-	Fleet Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+2222 4000 5000 0009	737	MASTERCARD	CA	03/2030	-	-	-	Purchasing Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+2222 4000 6000 0007	737	MASTERCARD	CA	03/2030	-	-	-	Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+2222 4000 7000 0005	737	MASTERCARD	CA	03/2030	-	-	-	Commercial Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+2222 4107 0000 0002	737	MASTERCARD	NL	03/2030	-	-	-	Corporate Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+2222 4107 4036 0010	737	MASTERCARD	NL	03/2030	-	-	-	Corporate	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+2223 0000 4841 0010	737	MASTERCARD	NL	03/2030	-	-	-	Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+2223 0031 2200 3222	ANY_3	MASTERCARD	-	ANY_FD	-	-	-	-	2xxx-series	https://docs.stripe.com/testing?testing-method=card-numbers
+2223 5204 4356 0010	737	MASTERCARD	NL	03/2030	-	-	-	Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+3056 9300 0902 0004	ANY_3	DINERSCLUB	-	ANY_FD	-	-	-	-	-	https://docs.stripe.com/testing?testing-method=card-numbers
+3056 9309 0259 04	737	DINERSCLUB	-	03/2030	-	-	-	-	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+3566 0020 2036 0505	ANY_3	JCB	-	ANY_FD	-	-	-	-	-	https://docs.stripe.com/testing?testing-method=card-numbers
+3566 1111 1111 1113	737	JCB	-	03/2030	-	-	-	Mastercard 	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+3569 9900 1009 5841	737	JCB	US	03/2030	-	-	-	Consumer	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+3600 6666 3333 44	737	DINERSCLUB	US	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+3607 0500 0010 20	737	DINERSCLUB	NL	03/2030	-	-	-	-	Security code optional	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+3622 7206 2716 67	ANY_3	DINERSCLUB	-	ANY_FD	-	-	-	14-digit number	-	https://docs.stripe.com/testing?testing-method=card-numbers
+3700 0000 0000 002	7373	AMEX	NL	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+3700 0000 0100 018 	7373	AMEX	NL	03/2030	-	-	-	-	Security code optional	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+3714 4963 5398 431	ANY_4	AMEX	-	ANY_FD	-	-	-	-	-	https://docs.stripe.com/testing?testing-method=card-numbers
+3714 4963 5398 431	7373	AMEX	-	03/2030	-	-	-	-	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+3782 8224 6310 005	ANY_4	AMEX	-	ANY_FD	-	-	-	-	-	https://docs.stripe.com/testing?testing-method=card-numbers
+4000 0025 0000 1001	ANY_3	VISA	-	ANY_FD	-	-	-	-	Cartes Bancaires - co-branded	https://docs.stripe.com/testing?testing-method=card-numbers#visa
+4000 0200 0000 0000	737	VISA	US	03/2030	-	-	-	Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4000 0330 0330 0335	737	VISA / PULSE / NYCE	US	03/2030	-	-	-	US Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4000 0503 6000 0001	ANY_3	VISA	AU	ANY_FD	-	-	-	-	EFTPOS – co-branded	https://docs.stripe.com/testing?testing-method=card-numbers#visa
+4000 0566 5566 5556	ANY_3	VISA	-	ANY_FD	-	-	-	Debit	-	https://docs.stripe.com/testing?testing-method=card-numbers
+4000 0600 0000 0006	737	VISA	US	03/2030	-	-	-	Commercial Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4000 1600 0000 0004	737	VISA	IN	03/2030	-	-	-	Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4000 1800 0000 0002	737	VISA	IN	03/2030	-	-	-	Corporate Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4000 6200 0000 0007	737	VISA	US	03/2030	-	-	-	Commercial Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4000 6400 0000 0005	737	VISA	AZ	03/2030	-	-	-	Premium Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4000 7600 0000 0001	737	VISA	MU	03/2030	-	-	-	Premium Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4001 0200 0000 0009	737	VISA	BR	03/2030	-	-	-	Electron	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4001 5900 0000 0001	737	VISA	IL	03/2030	-	-	-	Corporate Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4002 6900 0000 0008	737	VISA	AU	03/2030	-	-	-	Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4003 5500 0000 0003	737	VISA	TW	03/2030	-	-	-	Premium Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4005 5190 0000 0006	737	VISA	US	03/2030	-	-	-	Purchasing Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4013 2500 0000 0000 006	737	V-Pay	PL	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4017 3400 0000 0003	737	VISA	RU	03/2030	-	-	-	Premium Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4035 5010 0000 0008	737	VISA	FR	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4035 5014 2814 6300	737	VISA DEBIT/CARTES BANCAIRES	FR	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4035 5014 2814 6300	737	VISA	-	03/2030	-	-	-	Cartes Bancaires / Visa Debit	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4111 1111 1111 1111	737	VISA	NL	03/2030	-	-	-	Consumer	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4111 1111 4555 1142 	737	VISA	NL	03/2030	-	-	-	Classic	Security code optional 	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4111 1120 1426 7661 	737	VISA	FR	12/2030	-	-	-	Debit	eight-digit BIN 	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4131 8400 0000 0003	737	VISA	GT	03/2030	-	-	-	Purchasing Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4151 5000 0000 0008	737	VISA	US	03/2030	-	-	-	Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4166 6766 6766 6746	737	VISA	NL	03/2030	-	-	-	Classic	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4166 6766 6766 6746	737	VISA	-	03/2030	-	-	-	Classic	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4199 3500 0000 0002	737	VISA	FR	03/2030	-	-	-	Proprietary	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4242 4242 4242 4242	ANY_3	VISA	-	ANY_FD	-	-	-	-	-	https://docs.stripe.com/testing?testing-method=card-numbers
+4293 1891 0000 0008	737	VISA	AU	03/2030	-	-	-	Commercial Premium Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4360 0000 0100 0005	737	CARTES BANCAIRES	FR	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4360 0000 0100 0005	737	Cartes Bancaires	-	03/2030	-	-	-	-	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4400 0000 0000 0008	737	VISA	US	03/2030	-	-	-	Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4400 0020 0000 0004	737	VISA / Accel / STAR / MAESTRO USA	US	03/2030	-	-	-	US Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4444 3333 2222 1111	737	VISA	GB	03/2030	-	-	-	Corporate	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4484 6000 0000 0004	737	VISA	US	03/2030	-	-	-	Fleet Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4571 0000 0000 0001	737	VISA/DANKORT	DK	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4607 0000 0000 0009	737	VISA	MX	03/2030	-	-	-	Fleet Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4646 4646 4646 4644	737	VISA	PL	03/2030	-	-	-	Classic	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4687 3801 0001 0006	737	MASTERCARD/EFTPOS	AU	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4871 0499 9999 9910	737	BCMC/VISA DEBIT	BE	-	-	user	password	-	Depending on your payment method setup, transactions with this test card are routed to Bancontact or Visa.	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4871 0499 9999 9910	737	VISA	-	03/2030	-	-	-	Bancontact	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4917 6100 0000 0000	737	VISA	-	03/2030	-	-	-	-	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4977 9494 9494 9497	737	VISA	FR	03/2030	-	-	-	Gold	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4988 0800 0000 0000	737	VISA	IN	03/2030	-	-	-	Commercial Premium Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+4988 4388 4388 4305	737	VISA	ES	03/2030	-	-	-	Classic	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5000 5500 0000 0029	N/A	MAESTRO	-	03/2030	-	-	-	-	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5002 5100 0000 0013	737	MASTERCARD / Accel / STAR / MAESTRO USA	US	03/2030	-	-	-	US Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5019 5555 4444 5555	737	DANKORT	DK	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5066 9911 1111 1118	737	ELO	BR	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5100 0600 0000 0002	737	MASTERCARD	US	12/2029	-	-	-	Premium Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5103 2219 1119 9245	737	MASTERCARD	BR	03/2030	-	-	-	Prepaid	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5105 1051 0510 5100	ANY_3	MASTERCARD	-	ANY_FD	-	-	-	Prepaid	-	https://docs.stripe.com/testing?testing-method=card-numbers
+5127 8809 9999 9990	737	BCMC/MASTERCARD	BE	-	-	user	password	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5130 2900 0000 0009	737	MASTERCARD	FR	03/2030	-	-	-	Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5200 8282 8282 8210	ANY_3	MASTERCARD	-	ANY_FD	-	-	-	Debit	-	https://docs.stripe.com/testing?testing-method=card-numbers
+5413 3300 3300 3303	737	MASTERCARD / PULSE / NYCE	US	03/2030	-	-	-	US Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5454 5454 5454 5454	737	MASTERCARD	-	03/2030	-	-	-	-	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5555 0503 6000 0080	ANY_3	MASTERCARD	AU	ANY_FD	-	-	-	-	EFTPOS – co-branded	https://docs.stripe.com/testing?testing-method=card-numbers#visa
+5555 3412 4444 1115 	737	MASTERCARD	NL	03/2030	-	-	-	Consumer	Security code optional	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5555 4444 3333 1111	737	MASTERCARD	GB	03/2030	-	-	-	Consumer	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5555 5525 0000 1001	ANY_3	MASTERCARD	-	ANY_FD	-	-	-	-	Cartes Bancaires - co-branded	https://docs.stripe.com/testing?testing-method=card-numbers#visa
+5555 5555 5555 4444	ANY_3	MASTERCARD	-	ANY_FD	-	-	-	-	-	https://docs.stripe.com/testing?testing-method=card-numbers
+5555 5555 5555 4444	737	MASTERCARD	GB	03/2030	-	-	-	Credit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+5577 0000 5577 0004	737	MASTERCARD	LN	03/2030	-	-	-	Consumer	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6011 0009 9013 9424	ANY_3	DISCOVER	-	ANY_FD	-	-	-	-	-	https://docs.stripe.com/testing?testing-method=card-numbers
+6011 1111 1111 1117	ANY_3	DISCOVER	-	ANY_FD	-	-	-	-	-	https://docs.stripe.com/testing?testing-method=card-numbers
+6011 1111 1111 1117	737	DISCOVER	-	03/2030	-	-	-	-	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6011 6011 6011 6611	737	DISCOVER	US	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6011 6099 0000 0003	737	DISCOVER / Accel / STAR / MAESTRO USA	US	03/2030	-	-	-	US Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6011 9811 1111 1113	ANY_3	DISCOVER	-	ANY_FD	-	-	-	Debit	-	https://docs.stripe.com/testing?testing-method=card-numbers
+6062 8288 8866 6688	737	HIPERCARD	BR	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6200 0000 0000 0005	ANY_3	UNIONPAY	-	ANY_FD	-	-	-	-	-	https://docs.stripe.com/testing?testing-method=card-numbers
+6200 0000 0000 0047	ANY_3	UNIONPAY	-	ANY_FD	-	-	-	Debit	-	https://docs.stripe.com/testing?testing-method=card-numbers
+6205 5000 0000 0000 004	ANY_3	UNIONPAY	-	ANY_FD	-	-	-	19-digit number	-	https://docs.stripe.com/testing?testing-method=card-numbers
+6243 0300 0000 0001	737	UNIONPAY	CN	12/2029	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6250 9460 0000 0016	123	UNIONPAY	-	03/2030	-	-	-	Debit	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6250 9470 0000 0014	123	UNIONPAY	-	03/2030	-	-	-	Credit	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6445 6445 6445 6445	734	DISCOVER	GB	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6445 6450 0000 0002	737	DISCOVER / PULSE / NYCE	US	03/2030	-	-	-	US Debit	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6555 9000 0060 4105	ANY_3	DCCARD/DINACARD	-	ANY_FD	-	-	-	BCcard / DinaCard	-	https://docs.stripe.com/testing?testing-method=card-numbers
+6703 4444 4444 4449	NONE	BCMC/MAESTRO	BE	-	-	user	password	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6703 4444 4444 4449	N/A	MAESTRO	-	03/2030	-	-	-	Bancontact	3Dsecure enrolled	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6771 7980 2100 0008	737	MAESTRO	US	03/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+6771 7980 2100 0016	N/A	MAESTRO	US	03/2030	-	-	-	-	 Security code optional	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+8171 9999 0000 0000 021	737	UNIONPAY	CN	10/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/
+8171 9999 2766 0000	737	UNIONPAY	CN	10/2030	-	-	-	-	-	https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers/

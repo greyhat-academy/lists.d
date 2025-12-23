@@ -65,6 +65,7 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
   - [Allowed Domains](domains.allow.list.tsv)
   - [Verified Monero Donation Wallets](./donations.monero.wallets.list.tsv) for several Open Source Projects and Services.
 - Other
+  - [Credit Cards](creditcards.list.tsv) - for API testing only!
   - [public logins](./logins.list.tsv)
   - [Desktop Wallpapers](./desktop.wallpapers.list.tsv)
   - [known and verified Monero addresses](./donations.monero.wallets.list.tsv)
