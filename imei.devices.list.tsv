@@ -1,4 +1,5 @@
 IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
+010928003890233	PHONE	Nokia	6030	https://commons.wikimedia.org/wiki/File:IMEI_number_of_Nokia_6030_20110805.png
 012378985264792	PHONE	SERVO	BM111	https://de.aliexpress.com/item/1005007966827648.html
 012810000121358	WWAN-MODEM	Sierra Wireless	MC7700	https://www.ebay.de/itm/284817744854
 012810000240240	WWAN-MODEM	Sierra Wireless	MC7700	https://www.amazon.de/dp/B08D9HT1K4
@@ -6,7 +7,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 012810001240629	WWAN-MODEM	Sierra Wireless	MC7700	https://www.amazon.de/dp/B08JTGSFBV
 013937003271275	WWAN-MODEM	Sierra Wireless	EM7345	https://www.amazon.de/dp/B078W3LXKL
 014993003011467	WWAN-ROUTER	Alcatel	HH41NH	https://sincereonetech.com/products/alcatel-linkhub-hh41nh-4g-cpe-wifi-router/
-015184001644140	WWAN-MODEM	Fibocol	L850-GL	https://de.aliexpress.com/item/1005009542462940.html
+015184001644140	WWAN-MODEM	Fibocom	L850-GL	https://de.aliexpress.com/item/1005009542462940.html
 015184001831242	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/133485833900
 015184008649688	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/333786927321
 015550005763393	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/402562138788
@@ -23,12 +24,13 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 300015010111630	SATELLITE-PHONE	Iridium	9555	https://www.ebay.de/itm/127115538268
 300015010267310	SATELLITE-PHONE	Iridium	9555	https://www.ebay.de/itm/175322404483
 300025010610930	SATELLITE-MODEM	NAL Research Corporation	A3LA-X	https://www.ebay.de/itm/395394208400
-300026010717360	SATELLITE-PHONE	Sailor	SC4000	https://www.ebay.de/itm/197019790230
 300025010728020	SATELLITE-MODEM	Iridium	9522B	https://www.ebay.de/itm/404291448566
 300025010801580	SATELLITE-MODEM	NAL Research Corporation	A3LA-X	https://www.ebay.de/itm/376589370446
+300026010717360	SATELLITE-PHONE	Sailor	SC4000	https://www.ebay.de/itm/197019790230
 300038254007350	SATELLITE-MODEM	Iridium	9810	https://youtu.be/r-J0OmK5XiE?t=23
 300058060001070	SATELLITE-MODEM	Iridium	9770 Certus	https://www.iridium.com/products/iridium-certus-9770/
 300058060110740	SATELLITE-MODEM	Iridium	9765 Go! exec	https://www.ebay.de/itm/397129101173
+300108010119840	SATELLITE-MODEM	Iridium	Pilot	https://www.ebay.de/itm/364268032876
 300114040711960	SATELLITE-PHONE	Iridium	9505A	https://www.ebay.de/itm/357007351984
 300124000016120	SATELLITE-MODEM	Iridium	9522A	https://www.ebay.de/itm/235007722671
 300125010906970	SATELLITE-MODEM	NAL Research Corporation	A3LA-R	https://www.ebay.de/itm/395222340254
@@ -40,7 +42,6 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 300224010511620	SATELLITE-MODEM	Iridium	9022D	https://www.ebay.de/itm/116909867824
 300224810809440	SATELLITE-MODEM	Iridium	9522A	https://www.ebay.de/itm/234492653459
 300234010361880	SATELLITE-MODEM	Iridium	9602B	https://www.ebay.de/itm/226998522971
-399234011965070	SATELLITE-MODEM	Iridium	9602E	http://www.ebay.de/itm/365591185900
 300234063678090	SATELLITE-MODEM	Sparkfun	RockBLOCK 9340	https://www.youtube.com/watch?v=NOJ_VtSikAA&t=8s
 300234063797650	SATELLITE-MODEM	Iridium	9602	https://youtu.be/r-J0OmK5XiE?t=23
 300234065790910	SATELLITE-MODEM	Sparkfun	RockBLOCK9602	https://youtu.be/ym4-ZckfXg4?t=64
@@ -55,11 +56,10 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 300434063206770	SATELLITE-MODEM	Sparkfun	RockBLOCK 9603	https://youtu.be/ym4-ZckfXg4?t=64
 300434063273340	SATELLITE-MODEM	Iridium	9603	https://www.ebay.de/itm/334728381281
 300434064218220	SATELLITE-MODEM	Iridium	9603	https://www.ebay.de/itm/404537417609
-300534064315160	SATELLITE-MODEM	Sparkfun	RockBLOCK 9602 (Mk 2)	https://www.groundcontrol.com/en/product/rockblock-9602-satellite-modem/
-300434067943980	SATELLITE-MODEM	Soarkfun	RockBLOCK 9603	https://www.ebay.de/itm/396890434804
 300434067941990	SATELLITE-MODEM	Sparkfun	RockBlock9603	https://www.ebay.de/itm/396890434804
+300434067943980	SATELLITE-MODEM	Soarkfun	RockBLOCK 9603	https://www.ebay.de/itm/396890434804
 300434068348750	SATELLITE-MODEM	Sparkfun	RockBLOCK 9603	https://www.groundcontrol.com/en/product/rockblock-9603-compact-plug-and-play-satellite-transmitter/
-300108010119840	SATELLITE-MODEM	Iridium	Pilot	https://www.ebay.de/itm/364268032876
+300534064315160	SATELLITE-MODEM	Sparkfun	RockBLOCK 9602 (Mk 2)	https://www.groundcontrol.com/en/product/rockblock-9602-satellite-modem/
 309215010000050	SATELLITE-MODEM	Iridum	9523	https://m-cramer.shop/de/modems-terminals/iridium-66/iridium-9523-kern.html
 345231234541122	WWAN-MODEM	Quectel	EC20	https://www.mhzshop.com/shop/3G-4G-5G/Carte-3G-4G-LoRa/Carte-Mini-PCIe-4G-LTE-Quectel-4G-LTE-Express-EC20-E.html
 349324080068712	WWAN-MODEM	Fibocom	L850-GL	https://www.amazon.de/dp/B07YB7ZVKT
@@ -124,6 +124,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 359337050342701	WWAN-MODEM	Telit	LN930-AP	https://www.amazon.de/dp/B07D6FYWM7
 359645050208948	PHONE	Jolla	Jolla Phone	https://www.youtube.com/watch?v=HzCMKbhK-EY&t=109s
 359656971574912	PHONE	Apple	iPhone 14 Pro	https://www.youtube.com/watch?v=K2WhU77ihw8&t=27s
+399234011965070	SATELLITE-MODEM	Iridium	9602E	http://www.ebay.de/itm/365591185900
 442883406964780	PHONE	Motorola	MicroTAC International 7200	https://www.ebay.de/itm/296946378761
 860461020018696	WWAN-MODEM	Huawei	ME909u-521	https://www.amazon.de/dp/B00NPX09QY
 860558030003467	WWAN-MODEM	Fibocom	H830-GL	https://www.conrad.de/de/p/hp-hs3210-drahtloses-mobilfunkmodem-3g-m-2-card-801294499.html
