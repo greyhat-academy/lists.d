@@ -1,7 +1,7 @@
 #	lists.d Spammer Blocklist	(c) 2023-2025 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/spammers.domains.block.list.tsv
 #	This list contains domains of eMail Spammers
-#	Last-Modified	UNIXTIME:	1763199000
+#	Last-Modified	UNIXTIME:	1766836500
 
 ##	Government Agencies
 ###	Roskomnadzor
@@ -82,18 +82,26 @@ easefreightinc.com
 ##	Insecure configured and/or hijacked mailservers
 ###	These allowed hijacking of Domains and have been seen abused for distributing spam
 013.net
+asvt.ru
 cgocable.ca
+commbank.com.au
 europemail.com
 euskalnet.net
 fredericshensch.de
 glanzvonhand.eu
+halida.at
 hinet.net
 mediago.ca
 nevinc.com
+nuvemshop.com.br
 sa-vermorel.fr
+saumya-mail.com
 sntcursist.be
 telenet.be
 twintravel.ca
+ucg.gr
+wsv-semmering.at
+xamporter.cc
 zhaket.com
 
 ##	Open eMail Relays
@@ -103,3 +111,7 @@ mixmail.com
 ##	Zombie Mailinglists
 ###	These do not obey opt-out requests!
 occupydemocrats.com
+
+##	VPSes abused for sending phishing / Spam eMails
+###	No legitimate eMail Server would use the FQDN of a hoster instead of a proper mailserver
+*.dreamhostps.com
