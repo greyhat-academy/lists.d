@@ -1,8 +1,8 @@
-#	lists.d Threads Blocklist	(c) 2022-2025 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
+#	lists.d Threads Blocklist	(c) 2022-2026 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.threads.domains.block.list.tsv
 #	This list contains domains of ActivityPub Instances
 #	that are federating with Threads, the Twitter-Clone run by NSAbook / Stasibook aka. Meta nee Facebook
-#	Last-Modified	UNIXTIME:	1763199000
+#	Last-Modified	UNIXTIME:	1767469500
 
 # Project 92/Instagram fedi integration (codenamed Barcelona)
 ## See: https://github.com/greyhat-academy/lists.d/issues/47
