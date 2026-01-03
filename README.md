@@ -41,11 +41,13 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
       - [lists.d Domains DROP](./drop.domains.block.list.tsv)
       - [lists.d IPv4 MIL/INTEL](./milintel.ipv4.block.list.tsv)
       - [lists.d Typosquatting Domains](./typos.domains.block.list.tsv)
-  - Application-Specific
-    - [Hostile ActivityPub Servers](./activitypub.domains.block.list.tsv)
-    - [ActivityPub "AI Bots"](./activitypub.bots.block.list.tsv)
-    - [ActivityPub Servers that federate with Facebook](./activitypub.threads.domains.block.list.tsv)
-    - [eMail Spam Domains](./spammers.domains.block.list.tsv)
+      - [lists.d Cryptojacking Domains](./cryptojacking.domains.block.list.tsv)
+    - Application-Specific
+      - [Hostile ActivityPub Servers](./activitypub.domains.block.list.tsv)
+      - [ActivityPub "AI Bots"](./activitypub.bots.block.list.tsv)
+      - [ActivityPub Servers that federate with Facebook](./activitypub.threads.domains.block.list.tsv)
+      - [eMail Spam Domains](./spammers.domains.block.list.tsv)
+      - [Spamcallers, Robocalls and Scammers' Phone numbers](spammers.phone.numbers.list.tsv)
   - Platform-Specific
     - [Toxic GitHub Users](./users.github.block.list.tsv)
   - Optional Blocklists
@@ -53,7 +55,6 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
     - ["AI Content"](./ai.content.domains.block.list.tsv)
       - Basically Garbage sites that only exist to commit Ad-Farming, Malware/Phishing and other scams like selling useless stuff noone needs or asks for...
   - Other Blocklists
-    - [Spamcallers, Robocalls and Scammers' Phone numbers](spammers.phone.numbers.list.tsv)
     - ["do not report security issues to" list](./dontreport.security.list.tsv)  based off hostility towards responsible disclosures.
       - Organizations and Individuals that are known to litigate and attack those that report security issues to them.
         - aka. ["shooting the messenger"](https://en.wikipedia.org/wiki/Shooting_the_messenger)

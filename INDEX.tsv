@@ -8,6 +8,7 @@ bittorrent.trackers.list.tsv	TSV	Recommendation List	BitTorrent Trackers	For use
 blocklists.list.tsv	TSV	Recommendation List	Lists	A list of (recommended) blocklists from both within this project and trusted 3rd parties
 crawlers.lists.tsv	TSV	Known Crawlwers	Addresses	A list of known crawlers and their origin, as well as notes
 creditcards.list.tsv	TSV	Credit Cards	Testing Card Numbers	These are used for API tests only and cannot be used for any actual payments!
+cryptojacking.domains.block.list.tsv	TSV	Blocklist - Domains	Cryptojacking Infrastructure	These are the domains used for Cryptojacking malware
 default.logins.list.tsv	TSV	Logins	Vendor/Manufacturer default logins	For accessing devices - These should be considered insecure and be tested against!
 desktop.wallpapers.list.tsv	TSV	File Links	Wallpapers used by maintainer	For easy retrieval - No decision re: said licensing is done.
 dialup.providers.list.tsv	TSV	Recommendation List	Dialup Internet Providers	For the few edgecases where this is the only working internet access.

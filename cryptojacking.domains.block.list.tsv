@@ -1,0 +1,9 @@
+#	lists.d Cryptojacking Domains List	(c) 2023-2026 Greyhat Academy	LICENSED UNDER:	CC-BY-NC-SA 4.0
+#	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/cryptojacking.domains.block.list.tsv
+#	This contains the Domains used by Cryptojacking Malware
+#	Last-Modified	UNIXTIME:	1767470000
+
+#	XMRig
+##	This is a popular Monero Mining Software and requests to this domain should be seen as indicator of Cryptojacking Malware being present and running.
+donate.ssl.xmrig.com
+
