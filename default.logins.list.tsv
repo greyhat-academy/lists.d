@@ -33,9 +33,13 @@ admin	M8B82NF1	Huawei	B628-265	OS Default	https://www.amazon.de/dp/B08LD4ZLGK
 admin	admin	ZLT	X25 Pro	OS Default	https://sincereonetech.com/products/5g-router-zlt-x25-pro-dual-band/
 D311-****	1234567890	SincereOne	D311-R	OS Default	https://sincereonetech.com/products/cheap-oem-d311-r-4g-cpe-router/
 [none]	admin	SincereOne	Wingle UF10	OS Default	https://sincereonetech.com/products/oem-4g-lte-usb-wingle-uf10-usb-modem/
-UFI-CLR907-XXXX	goodlife	EOITCLUB	UFI CLR907	Wifi Default	www.amazon.de/dp/B0DZWTNQT7
+UFI-CLR907-****	goodlife	EOITCLUB	UFI CLR907	Wifi Default	www.amazon.de/dp/B0DZWTNQT7
 admin	admin	EOITCLUB	UFI CLR907	OS Default	www.amazon.de/dp/B0DZWTNQT7
 !root	[none]	US Robotics	Total Control	OS Default	https://www.youtube.com/watch?v=ioA_7kocXTI&t=814s
 admin	wevxaccess	RedPort	Optimizer	OS default	https://www.ebay.de/itm/167887971314
 admin	9M$s63tR!	Sonic	POS System	Software Default	https://www.youtube.com/watch?v=MmJ8NVLji84&t=1785s
 config	33669999	BMS-YR	WiFi Clock	WiFi Default	https://de.aliexpress.com/item/1005009274316966.html
+4G-UFI-***	1234567890	?	4G Dognle	WiFi Default	https://de.aliexpress.com/item/1005007210355985.html
+[none]	admin	?	4G Dongle	Software Default	https://de.aliexpress.com/item/1005007210355985.html?
+ZSX-****	1234567890	SHIWOJIA	4G Solar Router	WiFi Default	https://de.aliexpress.com/item/1005009683235961.html
+admin	admin	SHIWOJIA	4G Solar Router	OS Default	https://de.aliexpress.com/item/1005009683235961.html
