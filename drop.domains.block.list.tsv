@@ -1,7 +1,7 @@
 #	lists.d Domians-DROP List	(c) 2023-2026 Greyhat Academy	LICENSED UNDER:	CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.domains.block.list.tsv
 #	This contains the Domains Blocks of Rogue ISPs and subsequent Reasons
-#	Last-Modified	UNIXTIME:	1767469500
+#	Last-Modified	UNIXTIME:	1769692500
 
 #	Mastodon Scammers
 ##	Claiming "Verification" or other "actions necessary to prevent accounts being permanently locked"
@@ -16,4 +16,25 @@ kiwifarms.net
 #	Phishing Domains
 ##	Used by Spammers / Phishers
 ###	See also: spemmers.domains.block.list.tsv for details
+amaronquanta.com
+asp59.fr
+contabileagile.it
+celemaifrumoasecarti.ro
 dermaclinique.cl
+forkun.leancenter.pl
+ganzkoerper-massage.ch
+growdamaria.com
+huge.com.hk
+idealrestauro.eu
+invoiyes-facture.company
+mgarchitektur.ch
+pillenhimmel.com
+senziani.it
+shbaufinanzierung.de
+silvia-mazzarda.ch
+sourcify.tech
+olyx.nl
+oroya.fr
+socotrawater.com
+worldcka.org
+
