@@ -49,6 +49,7 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
       - [eMail Spam Domains](./spammers.domains.block.list.tsv)
       - [Spamcallers, Robocalls and Scammers' Phone numbers](spammers.phone.numbers.list.tsv)
   - Platform-Specific
+    - [Shitcoin Wallets](./shitcoin.wallets.block.list.tsv)
     - [Toxic GitHub Users](./users.github.block.list.tsv)
   - Optional Blocklists
     - [Gambling Domains](./gambling.domains.block.list.tsv)

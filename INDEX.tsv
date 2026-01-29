@@ -46,6 +46,7 @@ onion.domains.list.tsv	TSV	Recommendation List	.onion Sites	Publicly known Onion
 README.md	MD	README	Project Readme	Explainer File to explain the Project
 scrapers.ipv4.block.list.tsv	TSV	Blocklist - IPv4	Aggressive Scrapers	Known Aggressive Scrapers for *AI* and other bs - IPv4 allocations
 searchpages.list.tsv	TSV	Recommendation List	Web Searches	Known good Web Search Sites
+shitcoin.wallets.block.list.tsv	TSV	Blocklist - Wallets	Cryptocurrency Wallets	Wallets of Shitcoins used for malicious purposes
 spammers.domains.block.list.tsv	TSV	Blocklist - Domains	Spammer Domains	Domain Blocklist for known Spammers
 spammers.phone.numbers.list.tsv	TSV	Blocklist - Phone Numbers	Phone Numbers	Blocklist for known Spamcall-Bots and Scammers
 typos.domains.block.list.tsv	TSV	Blocklist - Domains	Typosquatting Domains	Blocklist for Typosquatting Domains
