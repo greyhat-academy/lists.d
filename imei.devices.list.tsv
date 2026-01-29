@@ -72,6 +72,9 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 350654412255796	PHONE	Apple	iPhone 14	https://www.youtube.com/watch?v=Vk1CyqcIGsE&t=30s
 350666871546034	PHONE	Apple	iPhone 14 Pro	https://www.youtube.com/watch?v=K2WhU77ihw8&t=50s
 352280110013838	WWAN-MODEM	Dell	DW5930e-eSIM	https://de.aliexpress.com/item/1005003821626657.html
+352373017385212	PHONE	UNIWA	E1808	https://de.aliexpress.com/item/1005010675544365.html
+352373017385213	PHONE	UNIWA	E1808	https://de.aliexpress.com/item/1005010675544365.html
+352373017385214	PHONE	UNIWA	E1808	https://de.aliexpress.com/item/1005010675544365.html
 352375017184342	WWAN-MODEM	Option	GTM378	https://www.ebay.de/itm/332175570405
 352733103912341	WWAN-MODEM	Sierra Wireless	EM7455	https://www.ebay.de/itm/134422142821
 353056113817956	PHONE	Apple	iPhone 12	https://www.youtube.com/watch?v=FY7DtKMBxBw&t=121s
@@ -105,6 +108,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 355569041125217	WWAN-MODEM	Sierra Wireless	MC8355	https://www.amazon.de/dp/B0759ZM93T
 355606052083057	WWAN-MODEM	Sierra Wireless	EM8805	https://www.amazon.de/dp/B07WRQK3GB
 355690367865921	WWAN-MODEM	Sierra Wireless	EM9191	https://www.ebay.de/itm/326557137169
+355817980009573	WWAN-MODEM	SIMPoY	SP-N150C4	https://www.amazon.de/dp/B0B49SP1PV
 355856028196091	WWAN-MODEM	Huawei	E160E	https://www.ebay.de/itm/264766706313
 356195050441698	WWAN-MODEM	Sierra Wireless	MC7355	https://www.amazon.de/dp/B00XLAWR3E
 356287000424895	PHONE	-	Fake iPhone 13 Pro Max	https://www.youtube.com/watch?v=jIQ10qSTZX8&t=31s
