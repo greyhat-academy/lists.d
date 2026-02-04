@@ -1,7 +1,7 @@
 #	lists.d Spammer Blocklist	(c) 2023-2026 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/spammers.domains.block.list.tsv
 #	This list contains domains of eMail Spammers
-#	Last-Modified	UNIXTIME:	1769692500
+#	Last-Modified	UNIXTIME:	1769733000
 
 ##	Government Agencies
 ###	Roskomnadzor
@@ -72,6 +72,7 @@ zen-finanzen.com
 ###	These are evidenced to scrape eMail adresses and spam without demaning an opt-in first, violating GDPR & BDSG!
 aklamio.com
 *.aklamio.com
+bomboursas.com
 hongzhoucable.com
 kernal-automation.net
 siemens-profibus.com
