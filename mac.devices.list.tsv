@@ -55,11 +55,14 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 00A0A4211EFD	Oracle	micros 610	POS Terminal	Bringus Studios	Screenshot	https://www.youtube.com/watch?v=MmJ8NVLji84&t=472s
 00A0AC228A67	Gilat	SkyEdge 2	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/365012424905
 00A0BC2F0C4A	Viasat	Surfbeam 2 RM4100N-010	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/335553087250
+00A0BC337808	Viasat	Surfbeam 2 RM4100	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/317789876693
 00A0BC44C282	Viasat	Surfbeam 2 Pro EM4100N-010	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/335259521705
+00A0BC491474	Viasat	Surfbeam 2 EM4100	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/187952646270
 00A0BC49A58F	ViaSat	Surfbeam 2 RM4100N-010	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/156413424983
 00A0BC616C46	EuroSkyPark	SatConnect R1	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/375362691375
 00A0BCC1A218	Viasat	RM4111N	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/187179465293
 00A0BCC289E4	Viasat	Surfbeam 2+ RM5111N-012	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/226336639913
+00A0BCC29604	Viasat	Surfbeam 2+ RM5111N-012	Satellite Modem	eBay	Product Image	https://www.ebay.de/itm/127552415940
 00C0CA6E62CC	RedPort	Optimizer	Router	eBay	Product Image	http://www.ebay.de/itm/167887971314
 00C0CA711ECA	Alfa Networks	AWPCIE-1900U	WIFI Module	Amazon	Product Image	https://www.amazon.de/dp/B08DV3M3PN
 00D0B4020240	KingnovyPC	NAS N100	Mainboard	Amazon	Product Image	https://www.amazon.de/dp/B0CWYTPW74
@@ -72,6 +75,7 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 00D0B4C05771	SZBOX NAS	N5095	Mainboard	Amazon	Product Image	https://www.amazon.de/dp/B0D3LMTKR3
 00D0F1027EC2	Sega	Dreamcast	Console	eBay	Broadband Adaptor	https://www.ebay.de/itm/395427138218
 00D0F1034C6C	Sega	Dreamcast	Console	MVG	Broadband Adaptor	https://youtu.be/rj56VU_VmWg?t=522
+00D0F1035572	Sega	Dreamcast	Consolse	eBay	Broadband Adapter	https://www.ebay.de/itm/306791356721
 00E081B96722	Tyan	S3115-GM2N	Mainboard	eBay	Product Image	www.ebay.de/itm/404744883957
 00E081B96723	Tyan	S3115-GM2N	Mainboard	eBay	Product Image	www.ebay.de/itm/404744883957
 00E26972EF3D	SZBOX NAS	N5195	Mainboard	Amazon	Product Image	https://www.amazon.de/dp/B0D3TFWMFP
@@ -140,6 +144,8 @@ MAC	MANUFACTURER	MODEL	TYPE 	OWNER	DESCRIPTION	SOURCE
 7CD30A3EFED3	hp	t630	Thin Client	eBay	Product Image	https://www.ebay.de/itm/235703484012
 7CD30A765F52	hp	t630	Thin Client	eBay	Product Image	https://www.ebay.de/itm/116214432114
 807693000000	NEWAG	UDP2mRTUCAN	UDP/CAN Converter - Train Killswitch	YouTube	Screenshot	https://www.youtube.com/watch?v=XrlrbfGZo2k&t=2100s
+801F0252953E	Edimax	BR-6228nS	Router	eBay	Product Image	https://www.ebay.de/itm/389625786519
+801F0252953F	Edimax	BR-6228nS	Router	eBay	Product Image	https://www.ebay.de/itm/389625786519
 8221B714FD9C	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtube.com/watch?v=mMrvy2utWME&t=219s
 8221B719F815	Seppen	---	Smart Fridge	Silicon Valley	Screenshot	https://www.youtube.com/watch?v=mMrvy2utWME&t=219s
 847B57FAC125	Intel	AX211	Wifi 6E NIC	ServeTheHome	Test Configuration	https://www.youtube.com/watch?v=HylKpDmwaFA&t=639s
