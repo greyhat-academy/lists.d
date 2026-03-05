@@ -1,7 +1,7 @@
 #	lists.d Spammer Blocklist	(c) 2023-2026 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/spammers.domains.block.list.tsv
 #	This list contains domains of eMail Spammers
-#	Last-Modified	UNIXTIME:	1769733000
+#	Last-Modified	UNIXTIME:	1772683500
 
 ##	Government Agencies
 ###	Roskomnadzor
@@ -106,6 +106,7 @@ sntcursist.be
 telenet.be
 twintravel.ca
 ucg.gr
+vjd5l2kadm.com
 wsv-semmering.at
 xamporter.cc
 zhaket.com
