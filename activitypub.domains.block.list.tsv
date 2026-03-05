@@ -1,7 +1,7 @@
 #	lists.d Mastodon Blocklist	(c) 2022-2026 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.domains.block.list.tsv
 #	This list contains domains of toxic ActivityPub instances
-#	Last-Modified	UNIXTIME:	1767469500
+#	Last-Modified	UNIXTIME:	1772675000
 
 #	Scrapers
 ##	ContentNation
@@ -199,3 +199,8 @@ parcero.bond
 ##	Claiming "Verification" or other "actions necessary to prevent accounts being permanently locked"
 ###	See:	https://mastodon.social/@zynaesthesie/115556178822736536
 id-52849.pro
+##	HuggingFace  "AI" Projects
+###	Abused for Scams
+###	See:	https://lgbtqia.space/@alice/116173981301527276
+hf.space
+*.hf.space
