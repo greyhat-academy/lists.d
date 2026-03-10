@@ -1,7 +1,7 @@
 #	lists.d Spammer Blocklist	(c) 2023-2026 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/spammers.domains.block.list.tsv
 #	This list contains domains of eMail Spammers
-#	Last-Modified	UNIXTIME:	1772683500
+#	Last-Modified	UNIXTIME:	1773138000
 
 ##	Government Agencies
 ###	Roskomnadzor
@@ -88,8 +88,9 @@ cgocable.ca
 clearder.com
 commbank.com.au
 crmweblook.com
-*.dreamhostps.com
+discountera.ch
 edanpower.co.uk
+*.edilart.net
 europemail.com
 euskalnet.net
 fredericshensch.de
@@ -97,11 +98,13 @@ glanzvonhand.eu
 halida.at
 hashfox.com
 hinet.net
+lucli.se
 mediago.ca
 nevinc.com
 nuvemshop.com.br
 sa-vermorel.fr
 saumya-mail.com
+scholda.cc
 sntcursist.be
 telenet.be
 twintravel.ca
