@@ -1,7 +1,7 @@
 #	lists.d Spammer Blocklist	(c) 2023-2026 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/spammers.domains.block.list.tsv
 #	This list contains domains of eMail Spammers
-#	Last-Modified	UNIXTIME:	1773138000
+#	Last-Modified	UNIXTIME:	1773553500
 
 ##	Government Agencies
 ###	Roskomnadzor
@@ -93,6 +93,7 @@ edanpower.co.uk
 *.edilart.net
 europemail.com
 euskalnet.net
+flowvox-3.com
 fredericshensch.de
 glanzvonhand.eu
 halida.at
