@@ -1,7 +1,7 @@
 #	lists.d Spammer Blocklist	(c) 2023-2026 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/spammers.domains.block.list.tsv
 #	This list contains domains of eMail Spammers
-#	Last-Modified	UNIXTIME:	1773553500
+#	Last-Modified	UNIXTIME:	1773912500
 
 ##	Government Agencies
 ###	Roskomnadzor
@@ -75,6 +75,7 @@ aklamio.com
 bomboursas.com
 hongzhoucable.com
 kernal-automation.net
+linktech8023.com
 siemens-profibus.com
 easefreightpartner.com
 ease-freightg-lobal.com
