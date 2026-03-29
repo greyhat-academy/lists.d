@@ -11,7 +11,7 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
   - [EID](./eid.devices.list.tsv) - eSIMs
   - [ICCID](./iccid.devices.list.tsv) - SIM Cards
   - [IMEI](./imei.devices.list.tsv) - WWAN Modems
-  - [MAC](./mac.devices.list.tsv) - (W)LAN Devices
+    - [MAC](./mac.devices.list.tsv) - (W)LAN, Bluetooth and other  EUI-48 Device Identifiers for Networks
   - [USB Device IDs](./usb.devices.list.tsv) of known devices
   - [known default logins](./default.logins.list.tsv) for various systems
 - Services [You'll need to register / sign-up for to use them!]
