@@ -1,7 +1,7 @@
 #	lists.d IPv4-DROP List	(c) 2024-2026 Greyhat Academy	LICENSED UNDER:	CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/scrapers.ipv4.block.list.tsv
 #	This contains the IPv4 Adress Blocks of Scrapers
-#	Last-Modified	UNIXTIME:	1767469500
+#	Last-Modified	UNIXTIME:	1775768500
 
 #	ChatGPT
 ##	Source: https://openai.com/gptbot-ranges.txt
@@ -31,3 +31,19 @@
 ##	Detected Scrapers from A100 ROW GmbH
 3.64.0.0/12
 35.156.0.0/14
+
+#	AppleBot
+##	Scrapers that are literally DDoS'ing Fediverse Servers
+###	See: https://social.criminallycute.fi/notes/akv5vz6eukhl0003 for details
+17.22.237.0/24
+17.22.245.0/24
+17.22.253.0/24
+17.58.96.0/22
+17.58.100.0/23
+17.121.112.0/20
+17.241.75.0/24
+17.241.219.0/24
+17.241.227.0/24
+17.246.15.0/24
+17.246.19.0/24
+17.246.23.0/24
