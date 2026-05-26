@@ -53,6 +53,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 300234067077890	SATELLITE-MODEM	Iridium	9602	https://de.aliexpress.com/item/1005009386401802.html
 300258060000170	SATELLITE-MODEM	Iridium	Certus 9704 Developer Kit	https://www.iridium.com/products/certus-9704-satellite-iot-development-kit/
 300258060004030	SATELLITE-MODEM	Iridium	Certus 9704 Module	https://www.iridium.com/products/iridium-certus-9704-module
+300275030001140	SATELLITE-MODEM	Iridium	9604 Module	https://www.cnx-software.com/2026/02/25/iridium-9604-3-in-1-iot-module-integrates-iridium-sbd-satellite-service-lte-m-cellular-connectivity-and-gnss-positioning/
 300315010408030	SATELLITE-PHONE	Iridium	9575 PTT	https://www.ebay.de/itm/406199786461
 300315060109050	SATELLITE-PHONE	Iridium	9575 PTT	https://youtu.be/Ed2fk325Vb0
 300325656863979	SATELLITE-MODEM	Iridium	9560 Go!	https://youtu.be/bwg4rAZdx9M?t=49
@@ -75,6 +76,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 350654412225286	PHONE	Apple	iPhone 14	https://www.youtube.com/watch?v=Vk1CyqcIGsE&t=30s
 350654412255796	PHONE	Apple	iPhone 14	https://www.youtube.com/watch?v=Vk1CyqcIGsE&t=30s
 350666871546034	PHONE	Apple	iPhone 14 Pro	https://www.youtube.com/watch?v=K2WhU77ihw8&t=50s
+350712860013230	WWAM-MODEM	Iridium	9604 Module	https://www.cnx-software.com/2026/02/25/iridium-9604-3-in-1-iot-module-integrates-iridium-sbd-satellite-service-lte-m-cellular-connectivity-and-gnss-positioning/
 352280110013838	WWAN-MODEM	Dell	DW5930e-eSIM	https://de.aliexpress.com/item/1005003821626657.html
 352373017385212	PHONE	UNIWA	E1808	https://de.aliexpress.com/item/1005010675544365.html
 352373017385213	PHONE	UNIWA	E1808	https://de.aliexpress.com/item/1005010675544365.html
