@@ -1,6 +1,6 @@
 #	lists.d Domians *AI Content* List	(c) 2023-2025 Greyhat Academy	LICENSED UNDER:	CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/ai.content.domains.block.list.tsv
-#	This contains Domains of Sites that host "A.I. Content" and thus provide garbage.
+#	This contains Domains of Sites that host *A.I. Content* and thus provide garbage.
 #	Last-Modified	UNIXTIME:	1767469500
 
 ## As per AI Blocklist
@@ -39,7 +39,7 @@ aipub.social
 # Exposed by Reddit as one location hosting AI generated news site https://arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/
 zleague.gg
 
-# The following site began an article with "As an AI language model"
+# The following site began an article with *As an AI language model*
 thetechedvocate.org
 
 # AI slop site builder
