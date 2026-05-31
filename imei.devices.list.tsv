@@ -64,6 +64,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 300434063206770	SATELLITE-MODEM	Sparkfun	RockBLOCK 9603	https://youtu.be/ym4-ZckfXg4?t=64
 300434063273340	SATELLITE-MODEM	Iridium	9603	https://www.ebay.de/itm/334728381281
 300434064218220	SATELLITE-MODEM	Iridium	9603	https://www.ebay.de/itm/404537417609
+300434065933650	SATELLITE-MODEM	Iridium	9603C	https://aliexpress.com/item/1005010267416197.html
 300434065956550	SATELLITE-MODEM	Iridium	9603	https://www.youtube.com/watch?v=u2vDePRDPEE&t=64s
 300434067941990	SATELLITE-MODEM	Sparkfun	RockBlock9603	https://www.ebay.de/itm/396890434804
 300434067943980	SATELLITE-MODEM	Soarkfun	RockBLOCK 9603	https://www.ebay.de/itm/396890434804
@@ -194,7 +195,8 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 867857032911864	WWAN-MODEM	SIMcom	SIM868	https://www.berrybase.de/sim868-gsm/gprs/gnss-modul-fuer-raspberry-pi-pico
 868333031634195	WWAN-MODEM	SIMcom	SIM7020E	https://www.berrybase.de/sim7020e-nb-iot-modul-fuer-raspberry-pi-pico
 868368040002066	WWAN-MODEM	Huawei	Me909s-120p V2	https://www.ebay.de/itm/154848198990
-868426041653000	WWAN-Router	Huawei	B628-265	https://www.amazon.de/dp/B08LD4ZLGK
+868426041653000	WWAN-ROUTER	Huawei	B628-265	https://www.amazon.de/dp/B08LD4ZLGK
+868615055917906	WWAN-ROUTER	Nuoying	WR11S	https://aliexpress.com/item/1005011993377772.html
 868822041526128	WWAN-MODEM	SIMcom	SIM7600G	https://www.amazon.de/dp/B09LV1VY4S
 868916040109470	WWAN-MODEM	ZTE	MF79U	https://sincereonetech.com/products/zte-mf79u-4g-wingle-cat-usb-wifimodem/
 868998062513151	WWAN-MODEM	ZTE	MF79U	https://sincereonetech.com/products/zte-mf79u-4g-wingle-cat-usb-wifimodem/
