@@ -1,7 +1,7 @@
 #	lists.d Mastodon Blocklist	(c) 2022-2026 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.domains.block.list.tsv
 #	This list contains domains of toxic ActivityPub instances
-#	Last-Modified	UNIXTIME:	1780028000
+#	Last-Modified	UNIXTIME:	1780421000
 
 #	Abandoned Instances
 ##	These are unmaintained and/or unmoderated instances, thus susceptible to abuse with spam.
@@ -18,16 +18,27 @@ contentnation.net
 #	*Kromonos*
 ##	Threatening Maintainers personally with harrassment
 ###	See:	https://github.com/greyhat-academy/lists.d/issues/52
+hub.bka.li
 bka.li
+*.bka.li
 social.mooneyed.de
 mooneyed.de
+*.mooneyed.de
 ##	Ban Evasion
 drow.be
+*.drow.be
 tavern.drow.be
+sns.drow.be
 teleyal.blog
+*.teleyal.blog
 pl.teleyal.blog
 microblog.social
+*.microblog.social
 fapsi.be
+*.fapsi.be
+snopyta.org
+social.snopyta.org
+*.snopyta.org
 
 #	*Johannes Oschlies*
 ##	Threatening Critics personally with harrassment
