@@ -11,6 +11,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 015184001831242	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/133485833900
 015184008649688	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/333786927321
 015550005763393	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/402562138788
+015805000007851	WWAN-Modem	Qualcomm	X55 5G	https://aliexpress.com/item/1005003330979706.html
 016169005593193	WWAN-MODEM	DPtechnichs	Walter	https://www.youtube.com/watch?v=6QUVzvhEhu4&t=3s
 016175000099665	WWAN-MODEM	Fibocom	L850-GL-16	https://www.ebay.de/itm/267571487321
 087952364128756	PHONE	SERVO	BM111	https://de.aliexpress.com/item/1005007966827648.html
@@ -97,6 +98,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 354078075177475	TABLET	Panasonic	Touchpad FZ-M1	https://www.ebay.de/itm/275274262125
 354143027243070	WWAN-MODEM	Ericsson	F3507g	https://www.ebay.de/itm/372217892205
 354153049046625	WWAN-MODEM	Option	GTM671W	https://www.newegg.com/p/2S7-07JP-26601
+354307110228534	WWAN-MODEM	Dell	dw5829e	https://aliexpress.com/item/1005007096813901.html
 354324070030578	WWAN-MODEM	Sierra Wireless	EM7455	https://www.amazon.de/dp/B0783N98MR
 354480080368455	WWAN-MODEM	Sierra Wireless	EM7455	https://www.amazon.de/dp/B07PG1KV67
 354997083122530	PHONE	Zanco	tiny t1	https://www.ebay.de/itm/126567070910
@@ -173,6 +175,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 865095070033455	PHONE	Nubia Technology	NX789J	https://www.youtube.com/watch?v=KHg1IhOm2zE&t=73s
 865144050307164	WWAN-ROUTER	China Unicom	5G VN007+	https://www.ebay.de/itm/314824552443
 865234030176928	WWAN-MODEM	SIMcom	SIM7000E	https://www.amazon.de/dp/B07DL9GFM1
+865326060842724	WWAN-MODEM	Quectel	EG25-G	https://aliexpress.com/item/1005005259198906.html
 865845063149195	WWAN-ROUTER	Huawei	B435-232a	https://sincereonetech.com/products/huawei-b535-232a-4g-cat7-wifi-router/
 866207150748170	PHONE	SOYES	XS13	https://www.youtube.com/watch?v=CfOEeydN4x0&t=101s
 866207150748188	PHONE	SOYES	XS13	https://www.youtube.com/watch?v=CfOEeydN4x0&t=101s
@@ -191,6 +194,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 867377024232500	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/324423058011
 867377028121774	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/133147749807
 867603020000207	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/353411699483
+867698040873427	WWAN-MODEM	Quactel	EG24-G	https://aliexpress.com/item/1005008490627024.html
 867698042520893	WWAN-MODEM	Quectel	EG25-G	https://esim.plus/product/esim-dongle/
 867857032911864	WWAN-MODEM	SIMcom	SIM868	https://www.berrybase.de/sim868-gsm/gprs/gnss-modul-fuer-raspberry-pi-pico
 868333031634195	WWAN-MODEM	SIMcom	SIM7020E	https://www.berrybase.de/sim7020e-nb-iot-modul-fuer-raspberry-pi-pico
