@@ -10,7 +10,7 @@ VENDOR-ID	DEVICE-ID	SERIAL	VENDOR	DEVICE	TYPE	DESCRIPTION	SOURCE
 0x045E	0x0719		Microsoft Corporation	Xbox 360 Wireless Reciever	USB Gamepad	Wireless Reciever to use an Xbox 360 Controller on Windows	https://treexy.com/products/driver-fusion/database/universal-serial-bus-devices/microsoft/xbox-360-wireless-receiver-for-windows/
 0x05AC	0x1290		Apple	iOS 17 NCM Device	TETHERING ADAPTER	Fake Network Adapter for NCM mode	https://treexy.com/products/driver-fusion/database/network-adapters/apple/ncm-device-for-ios17/
 0x06CB	0x0001		Synaptics	Touchpad	USB-TRACKPAD	Laptop Trackpad	https://treexy.com/products/driver-fusion/database/human-interface-devices/synaptics/usb-human-interface-device/
-0y096E	0x0503		Feitian Technologies, Inc.	SCR301	USB Smartcard Reader	SIM Reader	own hardware
+0x096E	0x0503		Feitian Technologies, Inc.	SCR301	USB Smartcard Reader	SIM Reader	own hardware
 0x07AF	0x0004		Microtech	USB to SCSI Bridge	USB Adapter	Used to connect SCSI devices via USB	https://www.youtube.com/watch?v=APn4IhaYAlc&t=482s
 0x0951	0x1642	001CC0EC30C8BBB085FE0131	Kingston Technology	DT101 G2	USB-FLASHDRIVE	Data Traveler Stick	https://youtu.be/2yQCOso_4hc?t=260
 0x0A12	0x0001		Cambridge Silicon Radio Ltd.	Bluetooth Dongle (HCI mode)	BLUETOOTH ADAPTER	Compact USB dongle	own hardware
