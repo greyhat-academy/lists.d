@@ -1,7 +1,7 @@
 #	lists.d Spammer Blocklist	(c) 2023-2026 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/spammers.domains.block.list.tsv
 #	This list contains domains of eMail Spammers
-#	Last-Modified	UNIXTIME:	1781246000
+#	Last-Modified	UNIXTIME:	1782430000
 
 ##	Government Agencies
 ###	Roskomnadzor
@@ -76,9 +76,11 @@ bomboursas.com
 easefreightpartner.com
 ease-freightg-lobal.com
 easefreightinc.com
+flowvox-3.com
 hongzhoucable.com
 kernal-automation.net
 linktech8023.com
+q-linktech8023.com
 siemens-profibus.com
 zenithsystems5179.com
 
@@ -125,6 +127,7 @@ zhaket.com
 ##	Open eMail Relays
 ###	Ripe for abuse and spam
 mixmail.com
+sender.zohosubscriptions.com
 
 ##	Zombie Mailinglists
 ###	These do not obey opt-out requests!
