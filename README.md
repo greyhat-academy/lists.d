@@ -59,6 +59,7 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
     - ["do not report security issues to" list](./dontreport.security.list.tsv)  based off hostility towards responsible disclosures.
       - Organizations and Individuals that are known to litigate and attack those that report security issues to them.
         - aka. ["shooting the messenger"](https://en.wikipedia.org/wiki/Shooting_the_messenger)
+    - ["AI" *enshittified* Software](./ai.enshittified.software.list.tsv), because Slop Code is unmaintainable by design and the technology used is extractive rentseeking at best and empowering [genocidal cyberfascists](https://www.youtube.com/watch?v=W1dIC287Zz0) for the most part.
 - Lists of Lists
   - [INDEX of this repository](./INDEX.tsv)
   - [Bona-Fide Onion Services](./onion.domains.list.tsv)

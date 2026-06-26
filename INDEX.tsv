@@ -4,6 +4,7 @@ activitypub.domains.block.list.tsv	TSV	Blocklist - application-specific	Hostile 
 activitypub.servers.list.tsv	TSV	Recommendation List	ActivityPub Instances	Servers recommended by maintainers
 activitypub.threads.domains.block.list.tsv	TSV	Blocklist - application-specific	Threads & Associated Domains	Helps stop data collection by NSAbook and thus enshittification of the Fediverse
 ai.content.domains.block.list.tsv	TSV	Blocklist - Domains	AI Slop Websites	These are value-removing websites that are a waste of time, traffic and storage to even open
+ai.enshittified.software.list.tsv	TSV	Banlist	Software that has been enshittified with AI slop code	Alternatives listed next to them.
 bittorrent.trackers.list.tsv	TSV	Recommendation List	BitTorrent Trackers	For use with BitTorrent na magnet: - links to make it easier to share and find peers
 blocklists.list.tsv	TSV	Recommendation List	Lists	A list of (recommended) blocklists from both within this project and trusted 3rd parties
 crawlers.lists.tsv	TSV	Known Crawlwers	Addresses	A list of known crawlers and their origin, as well as notes
