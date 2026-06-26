@@ -1,2 +1,4 @@
 NAME	ORIGINAL SOURCE	ALTERNATIVE	ALTERNATIVE SOURCE	COMMENT
-vim	-	EVi	https://codeberg.org/evi-editor/evi	Vim v9.1.0 (Jan 2024) started using AI slop
+vim	https://github.com/vim/vim	EVi	https://codeberg.org/evi-editor/evi	Vim v9.1.x (Jan 2024) started using AI slop; Claude Code Commits listed on GitHub.
+KeePassDX	https://github.com/Kunzisoft/KeePassDX	Keybuard	https://github.com/AChep/keyguard-app	KeePassDX & KeePassXC embrace AIslop
+KeePassXC	https://github.com/keepassxreboot/keepassxc	Keybuard	https://github.com/AChep/keyguard-app	KeePassDX & KeePassXC embrace AIslop
