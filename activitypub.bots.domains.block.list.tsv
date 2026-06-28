@@ -1,7 +1,7 @@
 #	lists.d Boosting Bots Blocklist	(c) 2023-2026 Greyhat Academy	LICENSED  UNDER: CC-BY-NC-SA 4.0
-#	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.bots.block.list.tsv
+#	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/activitypub.bots.domains.block.list.tsv
 #	This list contains domains used for hosting ActivityPub bots that solely boost certain hashtags and don't respect consent by requiring opt-in.
-#	Last-Modified	UNIXTIME:	1782669500
+#	Last-Modified	UNIXTIME:	1782676500
 
 #	Evan's Boosting Bots
 activitypub.bot
