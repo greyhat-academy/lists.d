@@ -1,5 +1,6 @@
 FILE NAME	TYPE	USE	ENTRIES TYPE	COMMENT
 activitypub.bots.block.list.tsv	TSV	Blocklist - application-specific	Annoying / Spammy Bots	Filtering Annoying Bots
+activitypub.bots.domains.block.list.tsv	TSV	Blocklist - application-specific	Annoying / Spammy Bots	Filtering Annoying Bots Servers
 activitypub.domains.block.list.tsv	TSV	Blocklist - application-specific	Hostile & Spammy Domains	Blocking Instances that are hostile or just just bad
 activitypub.servers.list.tsv	TSV	Recommendation List	ActivityPub Instances	Servers recommended by maintainers
 activitypub.threads.domains.block.list.tsv	TSV	Blocklist - application-specific	Threads & Associated Domains	Helps stop data collection by NSAbook and thus enshittification of the Fediverse

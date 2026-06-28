@@ -45,6 +45,7 @@ For a Table of Contents, checkout [INDEX.TSV](INDEX.TSV).
     - Application-Specific
       - [Hostile ActivityPub Servers](./activitypub.domains.block.list.tsv)
       - [ActivityPub "AI Bots"](./activitypub.bots.block.list.tsv)
+      - [ActivityPub "Boosting Bots"](./activitypub.bots.domains.block.list.tsv) that violate consent.
       - [ActivityPub Servers that federate with Facebook](./activitypub.threads.domains.block.list.tsv)
       - [eMail Spam Domains](./spammers.domains.block.list.tsv)
       - [Spamcallers, Robocalls and Scammers' Phone numbers](spammers.phone.numbers.list.tsv)
