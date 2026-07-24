@@ -1,7 +1,7 @@
 #	lists.d Domians-DROP List	(c) 2023-2026 Greyhat Academy	LICENSED UNDER:	CC-BY-NC-SA 4.0
 #	https://raw.githubusercontent.com/greyhat-academy/lists.d/main/drop.domains.block.list.tsv
 #	This contains the Domains Blocks of Rogue ISPs and subsequent Reasons
-#	Last-Modified	UNIXTIME:	1782430000
+#	Last-Modified	UNIXTIME:	1784898500
 
 #	Mastodon Scammers
 ##	Claiming "Verification" or other "actions necessary to prevent accounts being permanently locked"
@@ -41,3 +41,10 @@ olyx.nl
 oroya.fr
 socotrawater.com
 worldcka.org
+
+#	Scammer Domains
+##	These are run by scammy organizations and/or businesses.
+###	See the git commit they were added in for details
+earningenterprises.com
+*.earningenterprises.com
+social.earningenterprises.com
