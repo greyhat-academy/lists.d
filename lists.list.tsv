@@ -3,3 +3,5 @@ BBS LIST	Telnet BBS Guide	https://www.telnetbbsguide.com/bbslist/bbslist.csv	Rec
 Real Word Onion Sites	Alec Muffet	https://github.com/alecmuffett/real-world-onion-sites/raw/master/master.csv	Recommendation List	CSV	Tor Websites: Only Bona-fide sites, no onion-exclusive services	https://github.com/alecmuffett/real-world-onion-sites/blob/master/master.csv
 Monero Node List	Feather Wallet Project	https://raw.githubusercontent.com/feather-wallet/feather-nodes/refs/heads/master/nodes.yaml	Recommendation List	YAML	Default / Recommended Monero Nodes	https://github.com/feather-wallet/feather-nodes/blob/master/nodes.yaml
 Monero Node List	monero.fail	https://monero.fail/nodes.json	Connection List	JSON	List of known and online Monero nodes	https://monero.fail
+iPerf3 Server List	iperf3.fr	-	Recommendation List	HTML	List of publicly endorsed iPerf3 Servers	https://iperf.fr/iperf-servers.php
+iPerf3 Servers	iperf3serverlist.net	http://export.iperf3serverlist.net/listed_iperf3_servers.csv	Recommendation List	CSV	Public iPerf3 Servers, parsed & JSON versions available	https://iperf3serverlist.net/
