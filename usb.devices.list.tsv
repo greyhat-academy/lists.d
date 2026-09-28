@@ -16,6 +16,7 @@ VENDOR-ID	DEVICE-ID	SERIAL	VENDOR	DEVICE	TYPE	DESCRIPTION	SOURCE
 0x07AF	0x0004		Microtech	USB to SCSI Bridge	USB Adapter	Used to connect SCSI devices via USB	https://www.youtube.com/watch?v=APn4IhaYAlc&t=482s
 0x0951	0x1642	001CC0EC30C8BBB085FE0131	Kingston Technology	DT101 G2	USB-FLASHDRIVE	Data Traveler Stick	https://youtu.be/2yQCOso_4hc?t=260
 0x0A12	0x0001		Cambridge Silicon Radio Ltd.	Bluetooth Dongle (HCI mode)	BLUETOOTH ADAPTER	Compact USB dongle	own hardware
+0x0bda	9x815a	000334C8D6B30431	Realtek	RTL8159	USB-NIC	10GBit/s USB Ethernet Adapter	https://www.youtube.com/watch?v=zYZbZJZfCFI&t=31s
 0x1057	0x3026		Motorola	SM56	USB-Modem	Apple USB Modem	https://treexy.com/products/driver-fusion/database/modems/motorola/sm56-data-fax-modem/
 0x12D1	0x1F01	0x1f01	Huawei	E3372s-153	USB WWAN-MODEM	LTE Modem	draisberghof.de/usb_modeswitch/bb/viewtopic.php?t=2955
 0x1337	0x1337	1337	PwnPi-ALOA	Raspberry Pi	USB-GADGET	PwnPi-ALOA default for USB Gadget	http://172.16.0.1:8000/#/usb
