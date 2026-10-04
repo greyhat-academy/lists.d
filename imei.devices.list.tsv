@@ -79,6 +79,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 350654412255796	PHONE	Apple	iPhone 14	https://www.youtube.com/watch?v=Vk1CyqcIGsE&t=30s
 350666871546034	PHONE	Apple	iPhone 14 Pro	https://www.youtube.com/watch?v=K2WhU77ihw8&t=50s
 350712860013230	WWAM-MODEM	Iridium	9604 Module	https://www.cnx-software.com/2026/02/25/iridium-9604-3-in-1-iot-module-integrates-iridium-sbd-satellite-service-lte-m-cellular-connectivity-and-gnss-positioning/
+362279100549546	WWAN-MODEM	Fibocom	L860-GL	https://de.aliexpress.com/item/1005003699774564.html
 352280110013838	WWAN-MODEM	Dell	DW5930e-eSIM	https://de.aliexpress.com/item/1005003821626657.html
 352373017385212	PHONE	UNIWA	E1808	https://de.aliexpress.com/item/1005010675544365.html
 352373017385213	PHONE	UNIWA	E1808	https://de.aliexpress.com/item/1005010675544365.html
@@ -156,6 +157,7 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 862475070240958	WWAN-Router	ZTE	U50	https://www.ebay.de/itm/187914354555
 862506040630108	WWAN-MODEM	Quectel	EC25-EUXGA	https://aliexpress.com/item/1005006486275162.html
 862506045677153	WWAN-ROUTER	Tenda	4G06	https://www.ebay.de/itm/364569931873
+862631030630452	WWAN-MODEM	SIMcom	SIM800C	https://de.aliexpress.com/item/1005005007758500.html
 862636050022076	WWAN-MODEM	SIMcom	SIM7600G	https://www.amazon.de/dp/B091PXGBXY
 862636952721741	WWAN-MODEM	SIMcom	SIM7699G-H	https://www.youtube.com/watch?v=iWWWyG5ZwG8&t=161s
 862884070533744	WWAN-MODEM	karbor	D926	https://www.amazon.de/dp/B0FDPX39B8
@@ -184,11 +186,15 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 866207150748188	PHONE	SOYES	XS13	https://www.youtube.com/watch?v=CfOEeydN4x0&t=101s
 866207152015438	PHONE	SERVO	KING 9000	https://www.ebay.de/itm/315162337329
 866207152015446	PHONE	SERVO	KING 9000	https://www.ebay.de/itm/315162337329
+869841060662555	WWAN-MODEM	Quectel	RM500U-EA	https://de.aliexpress.com/item/1005006433448753.html
+869955060363880	WWAN-MODEM	Quectel	RM500U-CNV	https://de.aliexpress.com/item/1005006433448753.html
+962372040029951	WWAN-MODEM	Fibocom	L850-GL	https://de.aliexpress.com/item/1005003699774564.html
 866442043681029	WWAN-ROUTER	MUAMA	Ryoko	https://youtu.be/mYly1irRrBE?t=724
 866519012132934	WWAN-MODEM	Huwaei	E32776s-500	https://sincereonetech.com/products/nice-huawei-e3276s-500-4g-lte-modem/
 866680040260129	WWAN-MODEM	Quectel	EM06-E	https://www.amazon.de/dp/B089F1PW1Z
 866760060296052	WWAN-ROUTER	ZLT	X25 PRO	https://sincereonetech.com/products/5g-router-zlt-x25-pro-dual-band/
 867160023375037	WWAN-MODEM	Huawei	ME906s-158	https://www.ebay.de/itm/224311289871
+867189040003728	WWAN-MODEM	gosuncn	GM610	https://de.aliexpress.com/item/1005004532685362.html
 867377020318808	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/184655427190
 867377020457937	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/254407050143
 867377021080654	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/224238363553
@@ -196,10 +202,13 @@ IMEI	TYPE	MANUFACTURER	MODEL	SOURCE
 867377024231478	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/324423058011
 867377024232500	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/324423058011
 867377028121774	WWAN-MODEM	Huawei	ME909s-120	https://www.ebay.de/itm/133147749807
+867395070512104	WWAN-MODEM	Quectel	EC25-EUX	https://de.aliexpress.com/item/1005008419359425.html
+867584040044093	WWAN-MODEM	SIMcom	SIM7600E-H	https://de.aliexpress.com/item/1005008590559630.html
 867603020000207	WWAN-MODEM	Fibocom	L850-GL	https://www.ebay.de/itm/353411699483
 867698040873427	WWAN-MODEM	Quactel	EG24-G	https://aliexpress.com/item/1005008490627024.html
 867698042520893	WWAN-MODEM	Quectel	EG25-G	https://esim.plus/product/esim-dongle/
 867857032911864	WWAN-MODEM	SIMcom	SIM868	https://www.berrybase.de/sim868-gsm/gprs/gnss-modul-fuer-raspberry-pi-pico
+868105046675169	WWAN-MODEM	Quectel	EC24-AFX	https://de.aliexpress.com/item/1005008419359425.html
 868333031634195	WWAN-MODEM	SIMcom	SIM7020E	https://www.berrybase.de/sim7020e-nb-iot-modul-fuer-raspberry-pi-pico
 868368040002066	WWAN-MODEM	Huawei	Me909s-120p V2	https://www.ebay.de/itm/154848198990
 868426041653000	WWAN-ROUTER	Huawei	B628-265	https://www.amazon.de/dp/B08LD4ZLGK
