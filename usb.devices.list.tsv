@@ -30,6 +30,8 @@ VENDOR-ID	DEVICE-ID	SERIAL	VENDOR	DEVICE	TYPE	DESCRIPTION	SOURCE
 0x1EDD	0x9575		Iridium	9575 Handset	SATELLITE PHONE	Serial Data Modem Mode	https://treexy.com/products/driver-fusion/database/id/usb/vid_1edd/
 0x1EDD	0xA575		Iridium	9555A Handset	SATELLITE PHONE	Serial Data Modem Mode	https://treexy.com/products/driver-fusion/database/id/usb/vid_1edd/
 0x2357	0x0101		Realtek	AC1200 Wireless Adapter	USB WIFI Adapter	External WiFi Adapter	https://treexy.com/products/driver-fusion/database/network-adapters/realtek/ac1200-wireless-dual-band-usb-adapter/
+0x28DE	0x1203		Valve	Wired Controller	USB CONTROLLER	Prototype Steam Deck	https://linux-hardware.org/?probe=1ee6a99766
+0x291A	0x0817		Anker	USB-C Dongle	USB HUB	Anker USB-C Dongle	https://linux-hardware.org/?probe=1ee6a99766
 0x2E8A	0x0003		Raspberry Pi	RP2040	MICROCONTROLLER	RP2040 in BOOTSEL mode	https://github.com/raspberrypi/usb-pid
 0x2E8A	0x0004		Raspberry Pi	RP2040	MICROCONTROLLER	RP2040 in PicoProbe mode	https://github.com/raspberrypi/usb-pid
 0x2E8A	0x1008		Pimoroni	PGA2040	MICROCONTROLLER	RP2020 in a PGA form factor for socketed applications	https://github.com/raspberrypi/usb-pid
@@ -37,4 +39,7 @@ VENDOR-ID	DEVICE-ID	SERIAL	VENDOR	DEVICE	TYPE	DESCRIPTION	SOURCE
 0x2E8A	0x1015		Adafruit Industries	Raspberry Pi Zero 2 W	SBC	Pi Zero 2 W running CircuitPython	https://github.com/raspberrypi/usb-pid
 0x2E8A	0x101E		Adafruit Industries	Raspberry Pi Zero W	SBC	Pi Zero W running CircuitPython	https://github.com/raspberrypi/usb-pid
 0x05AC	0x1401		Apple	USB Modem	USB MODEM	USB Softmodem	own hardware
-0x0b95	0x1790	ffff00	ASIX	EX88179	USB NIC	StarTech USB Ethernet Adapter	https://www.youtube.com/watch?v=bUD3XMOz524&t=1533s
+0x05E3	0x0749		Genesys Logic, Inc.		USB SD Cardreeader	Anker USB-C Dongle	https://linux-hardware.org/?probe=1ee6a99766
+0x0B95	0x1790	ffff00	ASIX	EX88179	USB NIC	StarTech USB Ethernet Adapter	https://www.youtube.com/watch?v=bUD3XMOz524&t=1533s
+0x0BDA	0x8153		Realtek	RTL8152	USB NIC	External Ethernet - USB-C Dongle	https://linux-hardware.org/?probe=1ee6a99766
+0x8087	0x0A2B		Intel	8265D2W	USB BLUETOOTH ADAPTER	Prototype Steam Deck	https://linux-hardware.org/?probe=1ee6a99766
